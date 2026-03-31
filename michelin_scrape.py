@@ -1,5 +1,6 @@
 ﻿import json
 import re
+import csv
 from collections import defaultdict
 from pathlib import Path
 
@@ -198,14 +199,60 @@ def write_city_files(restaurants):
     return index_path, len(city_index)
 
 
+def write_master_csv(restaurants):
+    DOWNLOAD_DIR.mkdir(parents=True, exist_ok=True)
+    csv_path = DOWNLOAD_DIR / "michelin_china_restaurants_master.csv"
+
+    fieldnames = [
+        "name",
+        "city",
+        "city_slug",
+        "region",
+        "country",
+        "michelin_award",
+        "price",
+        "cuisines",
+        "telephone",
+        "url",
+        "description",
+    ]
+
+    normalized = [normalize_restaurant(raw) for raw in restaurants]
+    normalized.sort(key=lambda x: (x.get("city", ""), x.get("name", "")))
+
+    with csv_path.open("w", encoding="utf-8-sig", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        for item in normalized:
+            writer.writerow(
+                {
+                    "name": item.get("name", ""),
+                    "city": item.get("city", ""),
+                    "city_slug": item.get("city_slug", ""),
+                    "region": item.get("region", ""),
+                    "country": item.get("country", ""),
+                    "michelin_award": item.get("michelin_award", ""),
+                    "price": item.get("price", ""),
+                    "cuisines": "; ".join(item.get("cuisines", [])),
+                    "telephone": item.get("telephone", ""),
+                    "url": item.get("url", ""),
+                    "description": item.get("description", ""),
+                }
+            )
+
+    return csv_path
+
+
 def main():
     all_restaurants = fetch_all_china_restaurants()
     index_path, city_count = write_city_files(all_restaurants)
+    csv_path = write_master_csv(all_restaurants)
 
     print("DONE")
     print(f"TOTAL_RESTAURANTS={len(all_restaurants)}")
     print(f"TOTAL_CITIES={city_count}")
     print(f"INDEX_FILE={index_path}")
+    print(f"MASTER_CSV_FILE={csv_path}")
 
 
 if __name__ == "__main__":
