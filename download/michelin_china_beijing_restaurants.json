@@ -1,0 +1,1479 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Beijing",
+  "city_slug": "beijing",
+  "restaurant_count": 98,
+  "restaurants": [
+    {
+      "name": "1949 - 全鸭季",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/1949-duck-de-chine",
+      "telephone": "+86 10 6521 2221",
+      "description": "由四合院改建而成，室外摆放两个大型兵马俑，室内装潢和菜单设计同样带有中国元素，非常风雅。主要提供粤菜，但顾名思义，烤鸭才是其招牌菜。精选鸭只以红枣木挂炉烤制，完成后由师傅端至餐桌前切片，并有服务人员在旁敲锣打鼓，提升气氛。品尝烤鸭前可以试试手撕杏鲍菇和芥末鸭掌，很适合佐酒。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "1996川菜 · 主厨餐厅",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chef-1996",
+      "telephone": "+86 135 2150 9321",
+      "description": "坐落在竹林掩映的偏僻位置，拥有带着水雾、凉亭、石阶的小庭院，环境清秀雅致。客人会于包间用餐，享用以四川食材烹制的精致川菜。菜品以手工菜为主，包括用自家发酵腌渍酱料入馔的菜式。酥皮樟茶鸭为其招牌，厨师以果木烤制鸭子，再用樟树和茶叶烟熏，香气迷人。宫保大虾带有经典的糊辣荔枝味，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "Amico BJ",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/amico-bj",
+      "telephone": "+86 10 8530 6951",
+      "description": "以灰、黑色水泥墙和砖头打造的餐室充满时尚感，加上植物的点缀，别具气氛。主厨曾于意大利工作多年，并于当地邂逅日籍太太，故结合两国烹饪特色，并运用大量本地食材，炮制出别出心裁的创意美食。店內的酱汁和面包都是自家制作。吧台位置须提前预订。爱酒人士不妨向侍酒师查询葡萄酒选择。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "Il Ristorante - Niko Romito",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/il-ristorante-niko-romito-1186723",
+      "telephone": "+86 10 8555 8585",
+      "description": "室内的玻璃吊灯型格时尚，配衬意大利大理石装潢，空间偌大又明亮，并可以欣赏酒店的园林景色。由来自米兰的厨师Niko Romito监督，为传统意大利菜注入现代元素，提升口味的深度和精细度，比如广受欢迎的牛肉配金枪鱼酱，便是将经典风味加以改良，值得一试。酒单选择丰富，以意大利佳酿搭配美食，可谓相得益彰。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Jing",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing",
+      "telephone": "+86 10 8516 2888",
+      "description": "走进这家位于地下楼层的餐厅，会立即被眼前的型格酒吧、刺绣屏风及艺术品所吸引。法籍主厨来自巴斯克地区，菜单以当地美食为灵感，大量采用螯虾、扇贝、鱿鱼等海鲜，融合现代、轻盈的风味，为经典法菜增添个人色彩。巴斯克奶酪蛋糕沿用传统食谱，不容错过。设有须预订的主厨餐桌，能与主厨作深入交流。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "Mio",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mio",
+      "telephone": "+86 56958522",
+      "description": "餐室用上镜面天花、玻璃珠串点缀，配合开放式厨房，营造出时尚氛围。意大利主厨以家乡的传统菜式为基础，结合现代烹调技巧，带来随季节更替的菜单。其中，小牛肉配金枪鱼酱、羊肉意大利面、意式饺子、烤小牛肉等菜肴，无不体现其匠心独运，十分美味。酒吧供应各款意大利主题的鸡尾酒，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "The Georg",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-georg",
+      "telephone": "+86 186 1833 7710",
+      "description": "于2023年开业，毗邻故宫。餐厅占地三层，采用优雅的白色装潢，并以画作和绿植妆点空间，营造北欧简约风格。午餐主要提供单点菜单，当中的开放式三明治别具北欧特色。晚市仅提供套餐，菜式根据季节变化，包罗世界各地的优质海鲜和肉类，当中不乏采用腌制及烟熏技巧制作的餐点。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "Trb Hutong",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/trb-hutong",
+      "telephone": "+86 139 1171 2083",
+      "description": "客人需要转过胡同小巷，才能到达这家位于古寺庙的餐厅。主厨精选本地食材制作出两款套餐，包括讲究时令的应季菜单，以及结合主厨回忆和高档食材的招牌菜单。卖相精致、质感和味道俱佳的法式菜肴，让味觉与视觉同时得到满足，出色的甜品为整场盛宴留下深刻余韵。团队专业的服务，让用餐体验更完满。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "乐‧墨瑞",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/les-morilles",
+      "telephone": "+86 10 6506 3110",
+      "description": "这家位于亮马河畔的餐厅，麻雀虽小却五脏俱全，提供优质的现代法式料理。晚市备有两款套餐，食物不仅漂亮得像一幅画，且选料上乘、烹调用心，足见厨师对料理的热情。享用主菜之余，别忘了预留空间，和亲朋伴侣分享法式甜点国王饼。设有配酒服务，加上优雅的用餐环境，适合庆祝活动。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "乡味小厨",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/country-kitchen",
+      "telephone": "+86 10 6536 0066",
+      "description": "开放式厨房特设烤鸭区域，摆上一排排的肥美鸭子，颇为壮观。厨房团队由本地主厨带领，带来具北方特色的风味菜单，除了烧烤、手工面等大众化美食，亦提供传统京鲁菜。北京烤鸭采用以板栗饲养的鸭种，带有特殊香气，鸭皮入口即化。窗外是城市景观，室内墙壁由古砖砌成，并以陶器和柴火炉点缀，古色古香。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "京兆尹",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/king-s-joy",
+      "telephone": "+86 10 8404 9191",
+      "description": "<p>位于雍和宫旁，其古色古香的四合院造景，呈现禅意氛围。餐厅开业十余年以来，既尊重食材本味，也讲求养生理念。提供三款蛋奶素套餐，并可按要求制成纯素。网罗当季时令蔬果，透过清蒸、炖煮及清炒等烹饪手法，让味道回归食材本质。套餐包含十多道菜式，中间穿插果醋茶饮，最后由北京特色甜点画下句点，滋味圆满。</p>",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "京华楼",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jing-hua-lou",
+      "telephone": "+86 10 6485 9548",
+      "description": "餐厅致力传承八大楼的精致烹饪，重现老北京的庄馆菜。菜单丰富，包括做法繁复的手工菜，例如熏鱼儿将猪头肉先卤后熏，再切成薄片，入口油润细腻，烟熏味道恰到好处。油爆双脆将猪肚尖和鸡胗皆煮得爽口弹脆，也十分推荐。也提供玫瑰豆蓉酥、豌豆糕等传统手工糕点。室内装潢复古富气派，建议提前订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "京季",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingji",
+      "telephone": "+86 10 5969 5698",
+      "description": "餐厅名称“京季”两字，分别代表北京和市花月季。采用海味干货、当季蔬菜、菌类等优质材料，炮制出传统官府菜。其中官府黄焖花胶选用鸭巴肚，口感软糯，汤底浓郁鲜美，不容错过。另推荐韭菜盒子和怀旧的风干羊肉北方炒饼。大厅提供两款套餐；包间菜式可以按客人要求调整，须在订座时沟通。",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "京艳•翰林书院",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mansion-cuisine-by-jingyan",
+      "telephone": "+86 10 8663 2999",
+      "description": "餐厅所在的三进式四合院为历史建筑，主餐室层高开阔，可从落地窗欣赏庭院景致。菜单提供多样的京菜：烤鸭采用传统挂炉方式烤制，鸭皮酥脆且带有枣木的香气，油脂在舌尖缓缓化开；创始葱焗实心海参饱满厚实，砂锅的高温迸发出诱人焦香，搭配清甜爽脆的章丘大葱，相得益彰。富有北京特色的鸡尾酒也值得一试。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "俏东北 (东城)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiao-dong-bei",
+      "telephone": "+86 10 5360 7287",
+      "description": "有别于明档和食材展示区流露的东北乡土气息，用餐区装修精致时尚。东北主厨选用东三省优质且丰富的食材，炮制出具有代表性的家乡菜式。锅包肉、杀猪菜、地三鲜、小鸡炖蘑菇等经典味道一应俱全，也包含蝲蛄豆腐、雪绵豆沙等少见的传统美食。部分菜式按位上菜，部分也可选半份，少人用餐也能品尝到不同风味。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "东北菜"
+      ]
+    },
+    {
+      "name": "兰斋",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lamdre",
+      "telephone": "+86 10 8597 8888",
+      "description": "以透光玻璃铺设三角形屋顶，加上可供用餐的阳台，空间明亮舒适。主厨烹调精致素食的造诣深厚，亦曾赴海外进修食材知识。由其率领的年轻团队，以中国各地蔬食表达风土，并设计经典和季节套餐。招牌豆腐用松茸和海带苗浸泡两小时，再加入自家酿制的酱油，味道丰富。云南牛肝菌经炭烤后，香气四溢，风味浓郁。",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "兰颂",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-chansonniere",
+      "telephone": "+86 10 5710 9297",
+      "description": "主厨兼创始人为理工科出身，与有机农场合作，以确保食材新鲜和品质。提供经典、季节和分享菜单，后者包含膀胱鸡、酥皮鱼等少见的传统法式菜肴，份量较大，须提前预订。经典菜式菲力牛排选用M9级澳洲牛肉，以干式熟成方法处理，肉质鲜嫩多汁，风味浓郁，搭配传统牛排酱和手打土豆泥，让人着迷。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "刘妈妈肉汁饺子 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/liu-ma-ma-dumplings-chaoyang",
+      "telephone": "+86 159 5355 1403",
+      "description": "坐落在艺术园区内，店外硕大的饺子造型招牌，惹人注目。店内设有明档厨房，可以看到揉面擀皮及包制饺子的过程。售卖胶东风味的饺子，当中包括多种胶东海鲜。招牌鲅鱼水饺选用来自渤海湾的大鲅鱼，肉质细腻，搭配烟台的新鲜韭菜，鲜嫩多汁。店家特意在饺子皮内加入薏仁粉，增添健康元素。也提供应季限定水饺和胶东凉菜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "饺子"
+      ]
+    },
+    {
+      "name": "利苑 (金宝大厦)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lei-garden-jinbao-tower",
+      "telephone": "+86 10 8522 1212",
+      "description": "利苑发迹于香港，此店为集团在北京的首家分店，开业以来一直提供高品质的正宗粤菜。其红紫相衬的装潢，加上亲切的服务员，令人感到喜气惬意。餐厅对食材十分讲究，特别自设农场，保持食物的鲜度与质量。建议预订皮脆肉嫩的冰烧三层肉，还有以文火熬煮6小时以上的老火靓汤，食材每天不同，也不容错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "前里",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qian-li",
+      "telephone": "+86 10 6590 6886",
+      "description": "选址大型商场内，环境舒适，价格却相当亲民。来自台州的厨师团队运用每天从家乡送抵的食材，制作出口味正宗的菜式。其中海鲜选择颇多，有鲳鱼、水潺、黄鱼、白蟹等，并提供多样化的烹调方法，更设有每周精选菜式。推荐黄鱼花胶羹，用上竹笋丝、木耳丝等与黄鱼肉及花胶同煮，口感丰富且味道鲜甜。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "北京厨房 (建国路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-beijing-kitchen",
+      "telephone": "+86 10 6530 7905",
+      "description": "这家餐厅主营粤菜，取名“北京厨房”是希望让客人感到亲切，就像在家享用美食般愉快。来自香港的主厨兼老板拥有四十年经验，在传统粤菜和港式点心的基础上，不时呈上时令及创新菜式。招牌乳鸽皇选用三十天大的乳鸽，以三次上皮的技法制成，皮脆肉嫩，汁水丰富。杨枝甘露酸甜清爽，是必点的甜品。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "匠牛饺子 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/beef-dumplings",
+      "telephone": "+86 10 5094 4979",
+      "description": "店如其名，以牛肉和饺子为主题，采用自家制作的饺子皮，并提供多种口味的饺子，当中以牛肉胡萝卜饺子最受欢迎。招牌菜酱牛肉以牛腿肉制作，用上包含豆蔻、香叶、桂皮等十多款香料的卤水汁熬煮至少十小时，酱香浓郁，口感软嫩。小店采用自助形式，客人可于小料台挑选喜爱的配料和蘸醋，为饺子添加风味。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "饺子"
+      ]
+    },
+    {
+      "name": "华盛丰 (东三环南路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hua-sheng-feng-dongsanhuan-south-road",
+      "telephone": "+86 10 8777 1008",
+      "description": "老板来自温州，致力将家乡美食带到北京，俘获众多食客的味蕾。餐厅装修简朴，一进门便看到海鲜池和各种时令食材，可以让服务员推荐适宜的烹调方法。葱油泥螺滑嫩微脆，吸饱酱汁，颇受欢迎。在这里可尝到家常菜式，还有姜蛋猪肚等温州特色菜。菜品份量颇丰，而且价格合理，适合亲朋聚会。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "卖汤",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/my-soup",
+      "telephone": "+86 10 8587 8669",
+      "description": "位于商业中心内，顾名思义，此店以汤品作招徕，是附近许多上班族的食堂。提供两款常备汤品，还有每天转换款式的“每日一汤”。其中，花胶老鸡汤用料十足，汤头醇厚香浓，味道鲜美。也供应饭面和糖水等，尤以煲仔饭特别受欢迎，口味多达十多种。餐点均以新鲜食材现点现制，需要耐心等待。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "叶叶菩提 (光华路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/l-bodhi-guanghua-road",
+      "telephone": "+86 135 5268 6209",
+      "description": "叶叶菩提在上海和北京分店数量不少，然而每间的菜单不尽相同，此店提供三个价位的套餐，各包括小点、沙拉、热菜、火锅、主食和甜品等共九道菜。厨师采用来自有机农场的食材，以天然原味、讲究身心调理的方式，呈现中菜素食新风貌。店内环境清静，以蓝白纱布分隔座席，提升隐私度。建议提前订座。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "同和居 (月坛南街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-he-ju-yuetan-south-street",
+      "telephone": "+86 10 6852 2917",
+      "description": "<p>同和居是北京的老字号，以“同怀和悦”为意，开业于1822年，牌匾更是末代皇帝的胞弟溥杰所题。作为京城八大居之首，带着百年历史，传承着鲁菜的经典菜式和烹调技艺。镇店名菜包括质感软嫩、带酸辣鲜香的烩乌鱼蛋；厚薄均匀、充满糟香的糟溜鳕鱼；以及按照秘方制作、香甜软糯的三不粘等。</p>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "鲁菜"
+      ]
+    },
+    {
+      "name": "同春园",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tong-chun-yuan",
+      "telephone": "+86 10 6200 3502",
+      "description": "同春园始于1930年，曾两次搬迁，现址环境舒适。主要提供江浙菜，尤其擅于河鲜美食，也供应北京烤鸭及一些地方菜。招牌菜有松鼠鳜鱼和鳝糊，前者可从鱼缸中挑选活鱼制作，后者则选料上乘，味道馥郁。镇江肴肉也值得一试，皮冻和肥瘦肉分布细密，十分可口。餐厅只接受正午前的订座。菜式分量偏大，建议携伴共享。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "坛",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tan-1218718",
+      "telephone": "+86 157 0103 7418",
+      "description": "这是成都廊桥的姊妹餐厅，名字与店内大大小小的泡菜坛子遥相呼应。两层高的空间宽敞明亮，简约的木桌椅搭配墙上挂画，感觉优雅温馨。由四川厨师团队主理，菜单上除了传统川菜，亦有融合创意元素的菜肴。麻婆豆腐牛骨髓是必点菜式之一，在经典做法上添加了新鲜牛骨髓，与老豆腐同样入口即化，麻辣鲜香俱全，非常下饭。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "壮壮酒馆 (朝阳公园路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bistro-strong",
+      "telephone": "+86 186 1095 3870",
+      "description": "主打来自内蒙古的新鲜羊肉和牛肉，各部位配合不同烹调方式，如采用西式扒炉烤制或中式炭火烤串。推荐羊肉牛肝菌酥盒，其用料十足，且以松露油等提味，酥脆可口。现点现蒸的手工呼市烧麦，脆中带韧，每一口都充满羊肉的鲜香。酒饮选择丰富，除了啤酒、葡萄酒，更有加入风干羊肉、羊奶酪等特色元素的鸡尾酒。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "烤肉餐馆"
+      ]
+    },
+    {
+      "name": "天厨妙香素食 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/tianchumiaoxiang-vegetarian-chaoyang",
+      "telephone": "+86 10 5900 1088",
+      "description": "室内布置充满佛教气息，门前放着不同种类的佛经，用餐环境清幽宁静。菜单方面，供应不含蛋类、酒精及葱蒜的素食，亦有提供儿童素食套餐。宫保翠珍是创店以来一直保留的招牌菜，做法接近川菜的宫保菜式，以川椒、辣椒、花生、冬笋等搭配炸过的猴头菇，口感丰富，而且酸辣又开胃，非常下饭。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "宜宾招待所",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yibin",
+      "telephone": "+86 185 1685 7748",
+      "description": "入口处建有鱼池，搭衬由竹子构筑而成的室内布置，为用餐环境添上几分雅致。来自宜宾的厨师团队带来具家乡特色的川菜，菜式选择甚多，而且分量充足，适合与亲友共享。不要错过肉质滑嫩的李庒白肉、美味的宜宾燃面，还有清爽解辣的梅花冰粉。餐厅不接受预订，高峰期间需有长时间等候的心理准备。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "宝源",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-yuan",
+      "telephone": "+86 10 6586 4967",
+      "description": "开业30年，所有饺子即包即煮，更自创以天然蔬果汁制作外皮，色彩缤纷，十分讨喜。馅料种类繁多，既有传统肉馅和素馅，也有宫保鸡丁和芝士等创意选择。推介猪肉茴香饺子，新鲜嫩绿的茴香搭配优质猪肉，汤汁丰盈，芬芳鲜味，令人一吃爱上。此店一直广受本地人和外国游客的喜爱。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "饺子"
+      ]
+    },
+    {
+      "name": "宴锦堂·西院·东",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/heritage-east",
+      "telephone": "+86 158 0166 5010",
+      "description": "老板是艺术收藏家，餐厅各处都有艺术品的踪影。食物风格融合南北特色，除了单点菜单，也可预先订制菜式，所需食材于用餐当天运达，确保最佳质量。选料新鲜上乘，烹饪技巧同样出色，热炒菜式充满镬气，如欲品尝特色或手工菜肴，务必提前查询。若正值菇菌当造的季节到访，建试尝尝螺丝椒炒红葱菌。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "家全七福",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/seventh-son-1186794",
+      "telephone": "+86 10 8571 6888",
+      "description": "来自香港的家全七福，一直讲究选材，从平实的家常菜到名贵的山珍海味应有尽有，是品尝传统粤菜的好地方。除了不能错过的当红脆皮鸡，鸡子戈渣外脆内嫩、蟹肉桂花虾丝鲜味十足，同样值得一试。餐厅装潢以浅绿色和原木为基调，搭配绿植让空间更加舒适。包间适合宴请。不少菜品须提前预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "寂川",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ji-chuan",
+      "telephone": "+86 10 5339 5553",
+      "description": "寂川以麻辣口味的渝派川菜为核心，大量采用来自四川及重庆的食材，同时加入创新元素。推介凉菜泡椒桃仁，微酸带甜，让人胃口大开。招牌菜三两雪花牛肉麻婆豆腐，其盐卤豆腐豆香浓郁，牛肉则丰富了口感。最后不妨以加入水果、酒酿、红豆等配料的手工冰粉缓解辛辣。同时备有多款酒品，适合三五知己轻松相聚。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "富春居",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fu-chun-ju",
+      "telephone": "+86 10 5280 6418",
+      "description": "室内布局出自德国顶尖建筑设计师奥雷·舍人之手，采用琥珀玻璃、精巧木器和石雕，抬头可见天井形灯饰。每一桌都是独立的圆形空间，只留一处开口上菜，既舒适又具隐私。厨师来自香港，拥有多年粤菜经验，技巧稳扎。菜单设有多款单人分量菜式，午市供应精致的港式点心。招牌乳鸽皮脆肉嫩且多汁，建议提前预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "屋里厢",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/shanghai-cuisine",
+      "telephone": "+86 10 6539 8660",
+      "description": "店名在上海话是“家里”的意思，来自上海的主厨，带来扣三丝、酱冬瓜等传统家乡菜式。季节菜单采用江浙地区的时令食材，当中很多为本地少见品种，不要错过。手工制作的上海点心精致美味，无论是经典的小笼包，还是时令的青团，都值得一试。另设有主厨私宴厅，由主厨于席前为客人烧菜，气派十足。",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "左岸",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rive-gauche-1186760",
+      "telephone": "+86 10 5393 2495",
+      "description": "设计灵感源自巴黎左岸的波西米亚风格，氛围悠闲之余不失现代感。菜单涵盖法国传统美食，也不乏融入中国元素的菜肴，例如龙井茶奶冻及搭配餐前面包的腐乳味黄油，充满对比和复杂性。除了品尝菜单，也可从零点菜单自选菜品组合成套餐。开心果挞壳配鹅肝慕斯、炸海螯虾等，都是店内人气之选。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "恰 (南三里屯路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/char-south-sanlitun-road",
+      "telephone": "+86 10 8516 0065",
+      "description": "穿过一条亮着红色霓虹灯、放有铜牛雕像的通道，便会到达用餐区。在这里，客人可享受一系列优质牛肉，包括澳大利亚Blackmore和牛。和亲友良朋聚餐时，不妨点选分量巨大的战斧牛排，或者重达一公斤的丁骨牛排，厨师会推车到桌边为客人现场分切，并提供多种盐和芥末佐吃。建议选择阳台座位，欣赏三里屯的迷人风景。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "拾久 (东三环中路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/poetry%E2%80%A7wine",
+      "telephone": "+86 10 8777 4188",
+      "description": "餐厅名字有“拾回久远”的意思，寄意用全新的方式演绎京菜。装潢同样充满巧思，门外设竹林庭院，室内则饰以当代艺术水墨画。食物价格亲民，招牌菜除了烧鱼头，还有用明火烤制、伴以手制饼皮的烤鸭。甜品方面，桂花山药酪是很好的选择。酒单选择不俗，不妨和三五知己共享。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "新明园",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-ming-yuen",
+      "telephone": "+86 10 8561 9040",
+      "description": "室内装潢优雅漂亮、中西合璧，用餐环境宽敞舒适，适合各种聚餐宴请。由经验丰富的主厨坐镇，擅长以传统方式烹调粤菜。菜单虽选择精简，但包含烧味、小菜、海鲜等经典粤式佳肴。各式炖汤、桂花炒瑶柱等传统功夫菜值得一试。招牌脆皮鸡肉质嫩滑，鸡皮香脆，十分美味。服务贴心周到，让客人感到宾至如归。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "新荣记 (建国门外大街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jianguomenwai-street",
+      "telephone": "+86 10 8517 1789",
+      "description": "一如新荣记其他分店，室内设计在时尚中透出低调奢华。菜肴均以每天由台州空运到店的优质食材烹制，鲜度毋庸置疑，当中的野生黄鱼更是镇店之宝。现点现炖的金丝燕椰子水牛奶口感嫩滑，配上胶质丰润的燕窝，为餐点画下完美句号。菜品丰富多样，套餐包含多道招牌菜。为了更好的用餐体验，建议提前订座并安排菜单。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "新荣记 (新源南路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-xinyuan-south-road",
+      "telephone": "+86 10 6501 5501",
+      "description": "此为新荣记的旗舰店，设计以中国古典风格为基础，融入现代元素，并设吧台和开放式厨房。食物方面，招牌菜野生大黄鱼、黄金脆带鱼等一律俱备，更有只在本店供应的北京烤鸭，皮脆肉嫩，叫人回味不已。老鸭花胶炖芋艿采用鸭巴肚花胶烹制，芋艿入口即化，软绵香滑。客人更可提前请店家设计菜单，服务贴心周到。",
+      "michelin_award": "THREE_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "新荣记 (金融大街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xin-rong-ji-jinrong-street",
+      "telephone": "+86 10 6618 0567",
+      "description": "为新荣记在北京的首店，主要供应浙江东海海鲜和地道台州美食。大厅的沙发背靠着鱼缸，后面是大型海鲜摊，布局设计突显餐厅主题。厨师因应时令而更换菜单，将当季最优质的新鲜食材以不同烹饪方式呈现，例如多汁软嫩的鮸鱼蒸饺，以及爽弹可口的鮸鱼狮子头。餐厅提供配菜服务，可按用餐人数调整菜式分量。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "新长福",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/everlasting-happiness",
+      "telephone": "+86 10 6831 0256",
+      "description": "新长福为湖南的知名湘菜菜馆，这家是在北京的首家门店，厨师皆来自当地。推荐长沙肉炒肉，以上乘的猪里脊肉和猪油渣同爆炒，油香四溢，更可加入应季菌菇，配饭一流。从湖南常德空运而来的新鲜黄鳝品质绝佳，建议以地道的黄焖做法烹煮，能尝到鳝鱼本身的鲜甜。品牌于湖南自设工厂生产腊味，品种多样，不妨选点一二。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "方砖厂69号炸酱面 (方砖厂胡同)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/no-69-fangzhuanchang-zhajiangmian",
+      "telephone": "+86 136 9115 0449",
+      "description": "全店只卖炸酱面，但客人依然络绎不绝，也不介意拼桌或候座。获安排座位后，店员会先放下炸酱，以及黄瓜丝、萝卜丝、黄豆等传统配料，然后才开始煮面。面条虽然非自制，但口感烟韧，而且相当挂汁。炸酱则咸甜得宜，带有肉粒。吃面时可以另外加上店家腌制的腊八蒜，和带孜然香的辣酱，增添风味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "明园餐厅",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mingyuan-restaurant",
+      "telephone": "+86 10 6528 1688",
+      "description": "这家胡同小馆开业数十年，门头挂着红灯笼，室内以字画布置搭配木桌椅，如实呈现北京烟火气。菜单以京味家常菜为主，也提供炸灌肠、豆汁、小吊梨汤等地道小吃，价格亲民且分量慷慨。焦溜丸子外酥里嫩，每一颗都挂上酸甜适口的芡汁。老北京炸酱面同样美味，手擀面条筋道弹牙，味道咸香浓郁。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "晟永兴 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/sheng-yong-xing-chaoyang",
+      "telephone": "+86 10 6464 0968",
+      "description": "坐落于三里屯使馆区，传统的青砖墙搭配玻璃天窗和吧台，风格中西融合。到达二楼，便会见到砖砌烤炉，以及忙着准备招牌枣酥香烤鸭的厨师。烤鸭采用45天大、附来源证明的北京填鸭，经枣木挂炉烤制后，皮酥肉嫩，肥而不腻，还可增选鱼子酱享用。虾籽烧大虾球滑嫩弹牙，也不容错过。嗜酒者不妨请侍酒师搭配餐酒。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "晶采轩",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/exquisite-bocuse",
+      "telephone": "+86 10 6357 7779",
+      "description": "空间以柔和的木色为主调，注入长城和红色的设计元素，显得大气而华丽。菜单以粤菜为主，广式烧味、老火炖汤等一应俱全，同时也加入江浙菜式，选择多样。潮州老菜脯炒鲍鱼片镬气十足，老菜脯咸香脆口，与爽弹的新鲜鲍鱼呈现丰富口感，值得一试。餐室设有多个包间，可请经理预先排菜。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "曲廊院",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/curvy-corridor-courtyard",
+      "telephone": "+86 10 8403 8229",
+      "description": "坐落于经改造的四合院内，既有传统的中式石墙和庭院，又有现代的玻璃幕墙，特色设计曾荣获多个建筑奖项。年轻女主厨仅采用本地新鲜食材，依不时不食理念设计菜单，构成创新的用餐体验。酒单选择相当丰富，包括来自国内的杯装酒和进口自世界各地的瓶装酒，并提供配酒建议。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "柴氏风味斋",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/ladychal-haidian",
+      "telephone": "+86 10 8838 5108",
+      "description": "这家清真牛肉面店以酱牛肉驰名，其秘方由东主的父亲于1920年所创。酱牛肉味道浓郁，香味四溢，按重量下单，一般人半斤已足够，也可选择其肥瘦程度。搭配的素面备有两个分量，面条软硬适中且带嚼劲，配上香浓的老汤，十分可口。另可佐以蓑衣黄瓜等凉菜。食客须自行到柜台领取酱牛肉，繁忙时段一位难求，几乎都要拼桌。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "梦都会",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/meng-du-hui",
+      "telephone": "+86 10 8818 1555",
+      "description": "餐厅团队来自安徽，主打新派徽菜，并从当地直送大量食材，提供单点及季节菜单。推荐家烧臭鳜鱼，鳜鱼在安徽置于木桶发酵约一个月，使鱼肉紧致，烹调时加入青红椒和香菇粒，酱汁味道鲜美，十分下饭。餐厅共两层，以典型的徽派风格结合现代元素，如宴请聚餐不妨预订包间。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "徽菜"
+      ]
+    },
+    {
+      "name": "檐庭",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yan-garden-by-chef-fei",
+      "telephone": "+86 10 8592 8897",
+      "description": "餐厅由四合院改建，保留了百年香椿树和庭院，环境古朴雅致。领军的辉师傅来自潮汕，精选不少家乡食材，海鲜菜品提供多种烹调方式。其中潮式堂炒花胶以蝴蝶胶、虾米、蟹肉、剁椒酱、菜脯等同炒，带来多重味觉享受。无骨卤水鹅掌胶质丰富，味道香醇。茶品和餐酒均有多种选择，不妨搭餐享用。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "止观小馆",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhiguan",
+      "telephone": "+86 10 6559 9899",
+      "description": "位于止观美术馆内，选址充满艺术气息，落地玻璃更能看到院落景观，环境优雅。其供应的辽河口渔家菜为非物质文化遗产。厨师团队擅长运用北方的江鲜、湖鲜、渤海湾的海鲜，还有长白山的山珍，配合家常方法烹调。其中，薄荷黄蚬肉和葱烧渤海湾螺片鲜味可口，十分推荐。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "东北菜"
+      ]
+    },
+    {
+      "name": "沃夫冈牛排馆 (工人体育场北路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/wolfgang-s-steakhouse",
+      "telephone": "+86 10 6592 4946",
+      "description": "典型美式牛排馆，酒红色真皮沙发配衬暗黄灯饰，感觉传统而稳重。餐前可以在酒吧享用鸡尾酒。只供应美国农业部顶级安格斯牛肉，并于店内经过至少二十八天的干式熟成。厨师和经理曾经在纽约总店受训，传承同样的菜单和食谱，确保品质。菜式分量颇大，牛排和蟹肉饼是招牌，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "泓0871",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-0871-1203720",
+      "telephone": "+86 10 6572 4306",
+      "description": "店名中的0871为云南昆明的电话区号，店东与厨师团队均来自当地，他们在传统菜式中融入了创新意念，呈现不一样的家乡味道。餐厅所用食材大部分来自云南，团队更会定期到各地搜罗食材，并更新菜单。尤其推介曲靖红腰豆酸腌菜黑皮子：看似大肠的猪皮吸饱了汤汁，外弹内软，香浓鲜美。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "滇菜"
+      ]
+    },
+    {
+      "name": "淮扬府 (东城)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huaiyang-fu",
+      "telephone": "+86 10 6426 5959",
+      "description": "餐厅以砖墙青瓦作装潢，一隅的园林山水尽显高雅格调，让客人在北京也能体验江南风情。供应多款经典淮扬菜式，包括清炖国宴狮子头、招牌茨菇红烧肉、淮扬胡椒炒软兜、金陵素鸡炖生敲等。其中的鸡头米清炒手剥虾仁滑嫩弹牙，配以软糯的鸡头米，口感层次分明。除了常规菜单，按季节推出的时令菜肴亦值得尝试。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "淮香国色",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/huai-xiang-guo-se",
+      "telephone": "+86 10 8598 2666",
+      "description": "古朴典雅的风格，处处彰显江南风韵。由南京的餐饮品牌开设，厨房团队从江苏而来，也把当地食材带到北京。单点菜单主打经典淮扬菜，推荐鸡头米手剥河虾仁，虾仁紧实鲜甜，鸡头米质地粉糯，其鲜味双得益彰。四季清炖狮子头由黑猪肉手打而成，慢炖至口感软嫩，同样不容错过。时令菜式选择丰富，更设茶师负责餐茶搭配。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "湘上湘 (金和东路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-shang-xiang-jinhe-east-road",
+      "telephone": "+86 10 8597 2666",
+      "description": "于2021年开业的湘上湘已拓展至北京和成都，而这是品牌的首店。来自湖南的主厨入厨逾廿年，其设计的套餐概念围绕廿四款辣椒，并根据季节调整品种，菜式分量精巧，品项丰富。管家会提前与客人沟通以助选定菜单。酒单以适合搭配辛辣食物的香槟和白葡萄酒为主，不嗜酒的客人则不妨向侍茶师查询茶品配对的选项。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "湘临天下",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-lin-tian-xia",
+      "telephone": "+86 10 6512 0999",
+      "description": "装潢以农家田园为灵感，大厅展示了湖南的时令蔬菜和手工农产品。食物以传统湘菜为主，除了常设菜单，也可留意黑板上的应季菜式。其中湘潭古法剁椒鱼头口感嫩滑，咸辣味鲜，值得一试。土干椒炒宁乡花猪肉香气四溢，建议搭配古法木棕撩米饭一同享用。湘潭雪水臭豆腐外酥内嫩，配上自制酸辣酱汁，滋味满满。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "湘彬萱 (花园路）",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/xiang-bin-xuan-huayuan-road",
+      "telephone": "+86 10 6200 8919",
+      "description": "这家店开业近二十年，一直极具人气，时常需要排队。店内陈列着各种由湖南直送的食材，包括剁椒、酸菜，以及时令蔬果。鱼头选自有机水库鳙鱼，除了经典剁椒风味，也可以试试新派的双椒风味或清香的紫苏炖鱼头。永州血鸭鲜美软嫩，加入浓郁的木姜子油，香气四溢。也有提供臭豆腐、蒿子粑粑等地道湖南小吃。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "湘爱 (工体东路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/in-love-gongti-east-road",
+      "telephone": "+86 10 5352 0033",
+      "description": "餐厅位于工体旁的独栋建筑内，装修采用现代工业风，感觉时尚，并设有户外用餐区。菜单以湖南风味为主，大部分食材均由当地运送到店。招牌菜双椒蒸千岛湖鱼头，肉质鲜美，入口爽滑。此外，菜单也融入粤菜、川菜等地方菜系，并定期推出时令美食。鱼头等菜式准备需时，建议于订座时预留。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "潮上潮 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao",
+      "telephone": "+86 10 8596 2666",
+      "description": "餐室放满店东珍藏的花胶，与此处供应的高档次潮州菜互相呼应。厨房团队多来自潮汕地区，对食材处理一丝不苟，每道菜都尽显手艺。陈年老菜脯扣花胶入口软糯，且保有弹性，与三十年潮汕老菜脯一同烧制，馥郁香味萦绕舌尖。若于秋冬季造访，不妨尝试陈皮梅子烧荷包鳝。海鲜菜式或需提前预订。",
+      "michelin_award": "THREE_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "潮上潮 (西城)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/chao-shang-chao-xicheng",
+      "telephone": "+86 10 6609 1266",
+      "description": "潮州主厨拥有三十余年经验，采用家乡新鲜食材，菜单除了传统美食，也包含其独创菜式。推荐松茸鸽吞燕，把燕窝酿入去骨鸽子中，再以松茸清汤炖煮，口感丰富。主食不妨尝试即场制作的隆江猪手配吊炉烧饼。配备侍酒和侍茶服务，酒单以中国本土葡萄酒为亮点，茶单则是应有尽有，更会用上潮汕的山泉水冲泡单枞茶，十分地道。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "煲煲好",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-bao-hao",
+      "telephone": "+86 10 8563 7848",
+      "description": "室内设计采用彩色玻璃、骑楼、旧招牌、老照片等元素，呈现老西关的风貌。主打地道广东啫啫煲，煲仔饭和煲仔菜口味多样，全都现点现煮，用猛火生啫，充满镬气。沙姜啫鸡是必点菜式之一，鸡肉软嫩，搭配沙姜、蒜头和芹菜，芳香四溢，滋味满满。经常座无虚席，如需聚餐，不妨预订设有最低消费的包厢。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "爆肚金生隆 (东城)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bao-du-jin-sheng-long",
+      "telephone": "+86 131 6119 8656",
+      "description": "这老北京火锅品牌有逾百年历史，于2025年搬迁至现址，楼高两层且设有包厢，用餐环境干净整齐。目前已传承至第四代，山东老板确立爆肚的十三种做法及专用蘸料。各式肉品经过精细切割，推荐口感鲜嫩的羊肚仁，大约七只羊才能产出一份。铜锅涮肉选用内蒙小羔羊，不妨询问店家当日有否供应软嫩丰腴的“半边云”。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "牛街清真满恒记",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/niujie-halal-man-heng-ji",
+      "telephone": "+86 10 6612 6825",
+      "description": "<p>供应传统炭火涮羊肉。尤其推介味道香浓的苏尼特羔羊尾油肥锅，羊肉口感细嫩、没有膻味，更可选择不同肥瘦程度。一口酥烧饼是涮羊肉的绝佳搭配，如果喜欢甜食，现点现烙的麻酱糖饼是不错选择。牛肉方面，选用高品质鲁西黄牛肉，另提供老回民爆肚、五香烧羊肉等多款清真食品。大厅不设订座，包厢须一周前预留。</p>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "玉华台 (西城)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-hua-tai-xicheng",
+      "telephone": "+86 10 6200 4206",
+      "description": "始创于1921年，曾历经搬迁，门前仍保留由清末皇帝溥仪之胞弟溥杰题字的匾额。作为城中知名的老饭馆，这里的淮扬菜口味正宗、用料精细，而且份量十足。鳝鱼菜式尤其出色，招牌菜炝虎尾选取鳝鱼背部，口感肥美、蒜香浓郁。深色古风木椅配上红桌布，用餐环境古朴，包厢可预订，大厅位置须排队候座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "百味园饺子馆 (团结湖路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/baiweiyuan-dumpling",
+      "telephone": "+86 182 1003 9279",
+      "description": "开业逾十年，小店坚持每天制作新鲜的饺子皮和馅料，待客人下单后才开始包煮，因此需要一点耐性。饺子款式繁多，可选水饺、蒸饺或锅贴，镇店招牌是材料丰富的百味饺子，素食者不妨来一客酸甜开胃的西红柿鸡蛋饺子。若于正餐时段光临，可一尝酱牛肉、香醋黑木耳等凉菜，推荐酱香浓郁、肥瘦相间的酱肘花。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "饺子"
+      ]
+    },
+    {
+      "name": "福建菜馆",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-restaurant",
+      "telephone": "+86 153 1301 6661",
+      "description": "入口处陈列着干鲍、鱼肚等佛跳墙用料，另有描绘八闽大地风光的巨幅油画。厨师来自福建，大量采用每天空运而来的家乡食材，口味地道。套餐涵盖福建各地的代表美食，也可提前商定心仪菜式。招牌菜包括武夷红菇炖血鳗、山海同席槐猪肉和泉水宁德大黄鱼。以包间为主，备有茶台和茶艺师，可搭配福建茗茶提升用餐体验。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "福楼",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/maison-flo",
+      "telephone": "+86 10 6595 5135",
+      "description": "想造访这家位于近郊的法国餐厅，最好坐出租车前往。路途稍遠，但当看到内部宽敞的空间和世纪初的建筑风格，便会觉得一切都值得。菜单罗列了经典菜式，包括法式蜗牛、鞑靼牛肉、油封鸭，以及最受欢迎的海鲜拼盘。另外，橙酒薄饼等会由专人在桌边完成烹调。由於餐厅是热门的婚宴场地，建议提早订座。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "福满圆 (新源里)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fu-man-yuan-xinyuanli",
+      "telephone": "+86 10 6460 1988",
+      "description": "品牌的第二家店，与总店仅一街之隔。采用玻璃洋房式设计，墙上饰有点题的福字挂画，装潢明亮大气。厨房团队选用新鲜食材烹调传统家常菜，虽然摆盘不算讲究，但味道出众。招牌菜红烧舟山带鱼烧得色泽红润，肉质细嫩入味。鱼籽烧豆腐选用洞庭湖鱼籽，加上口感软滑的烧豆腐，咸香美味。凉菜老北京素什锦则口感丰富，也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "禾家 (朝阳)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jia",
+      "telephone": "+86 10 5926 8281",
+      "description": "宽敞的餐室布置优雅，辅以中式山水画点缀其中，洋溢浓厚的中国文化气息。厨房由广东师傅主理，口味正宗，菜单中的老火汤每日更换，时令菜单也会定期更新。推介菜式包括杭椒茭白炒斑球，以及用新鲜三黄鸡炮制的脆皮走地鸡。若午市来访，不妨试试其点心，尤以腐皮鲜虾卷为突出。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "粤界 (启阳路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yue-jie-qi-yang-road",
+      "telephone": "+86 10 6439 8088",
+      "description": "来自广东湛江的行政总厨，拥有丰富烹饪粤菜经验，带领团队为客人提供经典粤菜。主打以陈皮制作的菜式和饮品，当中的新会陈皮骨值得一试。招牌花胶螺头爵士汤用料充足，经六小时炖煮，汤头鲜甜醇香。炖汤和烧味为限量供应，须提前预定。点心仅于午市时段供应，喜欢“一盅两件”的食客不要错过。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "紫金阁",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zijin-mansion",
+      "telephone": "+86 10 8520 8989",
+      "description": "装潢以橙色为主，墙上满是手工刺绣的群鸟图案，极富时尚感。广东主厨既保留粤菜的清鲜本味，同时将自己的客家背景融入菜式中，客家山捻酒梅干菜扣腩排便是其特色菜品之一。不要错过招牌点心金鱼虾饺和莲藕千层萝卜酥。也推荐香醇浓郁的深海响螺瑶柱老鸡炖花胶汤。华丽的酒窖藏酒丰富，值得细尝。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "红蕃茄 (玉渊潭南路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/hong-fan-qie-yuyuantan-south-road",
+      "telephone": "+86 10 6821 5512",
+      "description": "餐厅开业近三十载，作为总店，这里以包房为主。厨师团队大多来自湖北，每天从当地送来食材，确保新鲜。菜品以河鲜和蔬菜为特色，辣度稍为调整，并标示在菜单上。推荐番茄江团，其汤汁微辣带酸，与嫩滑的鱼肉搭配在一起，十分下饭。菜单根据二十四节气变更，如在夏季到访，不妨试试爽脆鲜甜的清炒嫩莲子。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "鄂菜"
+      ]
+    },
+    {
+      "name": "羊大爷涮肉 (麦子店西街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/bad-ass-lamb-hot-pot-maizidian-west-street",
+      "telephone": "+86 10 6500 6268",
+      "description": "顾名思义，餐厅专营羊肉火锅，包括十五种不同部位的羊肉，全都鲜嫩且没有膻味。采半自助式服务，客人能挑选各种喜爱的食材和汤底，当中以清汤汤底最出色。招牌菜是手切鲜羊肉。如果喜欢偏瘦的肉质，可以一试羊腱子，稍微涮煮即非常鲜嫩。而白水羊头也叫人惊艳，薄薄的羊头肉佐以孜然粉，滋味丰富。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "美‧大董",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/gastro-esthetics-dadong",
+      "telephone": "+86 51690328",
+      "description": "位于明代仓库遗迹南新仓对面，作为集团旗舰店，室内装潢富有格调。菜单以现代手法演译中国菜，当中包括以时令菌菇及海鲜制作的菜品。烤鸭仍然是招牌菜，选用22天小雏鸭，佐以厚薄适中的么么皮、京葱、面酱等，十分美味，建议预订。此外，于席前作最后处理的烧海参也值得品尝。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "老北京炸酱面大王 (东兴隆街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fortune-long-beijing-bean-sauce-noodles-east-xinglong-street",
+      "telephone": "+86 10 6705 6705",
+      "description": "要数北京的正宗炸酱面，这里一定榜上有名。事实上，餐厅虽然楼高三层，但经常座无虚席。走进店内，首先会看到旁边两个熬酱的锅，每天制作新鲜炸酱。必吃菜式当然是口感丰富、味道香浓的招牌炸酱面，另外也可以一尝炸灌肠、京味爆肚、干炸丸子和京酱肉丝等地道美食。加上古色古香的装潢，别具风味。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "老川办",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lao-chuan-ban",
+      "telephone": "+86 138 1149 3707",
+      "description": "餐厅由四川驻京办开设，装修融入北京胡同元素和四川文化符号，既有传统风韵又不失舒适感。厨师团队、食材和调料均来自四川，菜单上可找到夫妻肺片、水煮鱼等经典美食。其中，口水鸡皮弹肉嫩，油润红亮的酱汁辣而不燥，结合芝麻香气和花生碎的酥脆，充满层次。菜式风味地道，价格亲民，广受欢迎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "胖妹面庄 (香饵胡同)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/pang-mei-noodles",
+      "telephone": "+86 158 0150 4172",
+      "description": "<p>本店在重庆，这是在北京的首家分店。装潢简约舒适，由于不设订座，建议提早前往排队。供应各式重庆面食和小吃。大受欢迎的筋品牛肉面除了可以选择分量，也有四种不同辣度。此外，豌杂面、香脆可口的薄荷酥肉，以及嫩滑的麻辣冒脑花也是不错的选择。最后不妨试试手制的糍粑红糖冰粉，既解辣又清凉。</p>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "腊罗巴",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/la-roba",
+      "telephone": "+86 10 6212 0281",
+      "description": "腊罗巴是云南大理彝族的支系，菜单主打云南少数民族特色菜，大量采用当地的新鲜食材和调味料，室内装潢及员工服饰亦充满民族风情。大理锅巴油粉以手工制作，锅巴绵韧，油粉软糯细腻。白族酸木瓜鱼以糟辣椒和百花木瓜入馔，爽口开胃。店家也提供酥油茶、自酿的糯米酒和梅子酒，甚或米凉虾等特色食品。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "滇菜"
+      ]
+    },
+    {
+      "name": "芙蓉无双",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/furong",
+      "telephone": "+86 10 6600 7175",
+      "description": "新荣记集团旗下的湘菜品牌，厨师团队由湖南主厨领军，多款招牌菜甚具水准：酸萝卜煲猪肚汤酸香回甘，剁椒蒸千岛湖大鱼头则咸香鲜辣。甲鱼菜式也是招牌，除了有黄贡椒蒸、红煨等经典味型，也有适合两位享用的青贡椒生炒鳝鱼马蹄鳖，肉质软糯入味，辣而不寡。不少菜式设有小分量选择，可让客人品尝到更多美食。<br>",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "茉",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/mo-jasmine",
+      "telephone": "+86 10 8582 1919",
+      "description": "为拾久旗下品牌，提供基于京菜和鲁菜研发的创意菜式，卖相精致讲究，尤其推介烤鸭和海参。其中，位上的招牌烤鸭皮酥而充满油香，加选鱼子酱搭配享用，更加美味可口。装潢以墨绿色为主，空间格调典雅，在柔和的光影里，感受有如茉莉绽放的清雅之美，无论是浪漫约会或亲友小聚，都能让人沉醉其中。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "荣小馆 (百子湾南二路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-cuisine-baiziwan-south-er-road",
+      "telephone": "+86 10 6771 1725",
+      "description": "作为新荣记的亲民版本，荣小馆以实惠价格提供正宗台州美食。菜单选择丰富，除了闻名的黄鱼，其他海鲜菜式也琳琅满目，包括肉质细嫩的鲳鱼烧年糕、口感丰富的鲜鱿茭白炒雪菜等。外酥内嫩的黄金脆炸带鱼，咸香味美，惟每天限量供应。装潢结合渔家元素，设置圆桌、包厢等不同用餐空间，适合商务宴请。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "荣袍",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/rong-pao",
+      "telephone": "+86 10 6616 6636",
+      "description": "进门处摆放着泡菜坛子，加上蜀绣工艺品和循环播放的川剧，布局充满四川元素。菜单以宜宾美食为主，大量使用四川时令食材，着重于江河鲜和火爆菜式，调味热辣浓烈。推荐席前藤椒鱼锅，厨师即席将鲜鱼放入加有自制泡山椒、新鲜藤椒和藤椒油的锅内灼熟，香气扑鼻。搭配产自四川的酒水或茶饮，细细品味当地饮食文化的底蕴。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "裕德孚 (东直门内大街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/yu-de-fu",
+      "telephone": "+86 10 8402 6223",
+      "description": "于1998年开业的涮羊肉小店，以铜锅炭火作招徕，食材讲究，采用来自內蒙的绵羊，以巧妙的刀工切片。招牌为四款不同部位的羊肉，肉质鲜嫩，带膻香，甚具风味。也提供鲜牛肉、黑百叶等选择，若想再饱足些，可点上咸香可口的北京烧饼。小店仅设置六桌，由于大受欢迎，且不接受预约，用餐高峰时段需排队等位。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "迦达花园",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/giada-garden",
+      "telephone": "+86 10 6505 7671",
+      "description": "这间由时装品牌开设的餐厅，室内采用切合品牌形象的优雅设计，亦附设绿意洋溢的户外座位。菜单满载意国经典美食，包括米兰小牛排和巴罗洛牛肉。多款手工制作的意大利面，同样不容错过。建议点选套餐，享受完整的用餐体验。酒单囊括意大利各地区的佳酿，其中杯装葡萄酒的选择丰富。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "采逸轩",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/cai-yi-xuan",
+      "telephone": "+86 10 5695 8520",
+      "description": "餐厅采用华丽的中式装饰，配上柔和灯光，营造出典雅的氛围。厨师团队拥有丰富粤菜经验，无论准备功夫还是烹饪技巧都一丝不苟，并选用优质食材入馔，致力提供正宗而上乘的广东菜肴。菜单选择琳琅满目，应季菜单根据时令调整，充分体现不时不食的理念。特别推介黑蒜大千虾球，是厨师引以为傲的菜式。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "钟餐厅",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/zhong",
+      "telephone": "+86 132 6001 9619",
+      "description": "小店藏身于大杂院内，由来自扬州的钟师傅开设，他更兼任点菜和烹饪兩職。提供地道淮扬菜和面食，菜式均现点现做，本帮响油鳝糊口感滑嫩、甜香迷人，值得一试。江南凉菜选择丰富，其中糟卤拼颇有特色，毛豆、鲜虾、鸭舌和鲍鱼不仅爽口，且带着淡雅的香糟味。另有定制的绍兴黄酒，十分适合佐餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "钱塘花园 (双榆树北路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/qiantang-garden",
+      "telephone": "+86 10 6255 0308",
+      "description": "开业近廿年，来自宁波的老板一直提供具有家乡特色的佳肴，并与浙江渔民合作，将海鲜每日直运北京，建议向经理咨询最应季食材。油爆河虾煮得外酥内嫩，咸甜中带有醋和姜末的风味，十分推荐。雷达网带鱼品质上乘，可选择多种烹调方式，是颇受欢迎的招牌菜。每年杨梅季更有自家熬制的杨梅汁，生津开胃。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "闽中闽 (东三环北路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/fujian-cuisine-dongsanhuan-north-road",
+      "telephone": "+86 185 1304 0592",
+      "description": "门头挂着的小金鸭，像是昭告姜母鸭是其招牌菜。菜单主打古早情怀的福建乡土菜和闽南小吃，厨师团队及海鲜食材大都来自厦门，还原传统的福建味道。其姜母鸭遵循家族的老食谱制作，层次和味道丰富。另一看家菜红蟳米糕则蟹膏饱满，蟹肉清甜。甜品芋泥芋香十足，质地软绵细腻，同样值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "静一 (琉璃厂东街)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/jingyi",
+      "telephone": "+86 176 1000 5572",
+      "description": "门面低调，而且装潢简洁素净，呼应店名。供应的是湖北家常菜和时令河鲜。其中，酸辣藕带鸡珍爽口惹味，十分开胃。鱼籽烧豆腐口感嫩滑，鱼籽饱满，佐饭一流。饭后别忘了点一客蜂蜜桂花凉粉，味道清凉甜蜜，有助解辣。冬天则可以品尝热醪糟酒加上鸡蛋花的蛋酒。店内座位不多，若太晚抵埗或要在门外等候。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "鄂菜"
+      ]
+    },
+    {
+      "name": "鲁上鲁",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-shang-lu",
+      "telephone": "+86 10 8718 5556",
+      "description": "以供应鲁菜为主，厨师长来自烟台，对当地食材了如指掌，充分利用每天空运到店的新鲜食材。菜单包含孔府菜和胶东海产，当中的海参菜品尤其出色。烤鸭鱼子酱山东煎饼融合京菜与鲁菜的特色，粗粮所制的煎饼口感独特，并以脆虾片取代传统配料，值得一试。茶单丰富及提供侍茶服务，建议搭配餐茶让体验更完满。",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "鲁菜"
+      ]
+    },
+    {
+      "name": "鲁采 (安定路)",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/lu-style",
+      "telephone": "+86 10 6441 3777",
+      "description": "宽敞的餐室以竹叶作点缀，石级刻上诗经句子，增添优雅气息。厨师团队大多祖籍山东，选用来自威海的海鲜，炮制多款工序繁复的传统菜式，例如葱烧威海一头活刺参需耗时五天制作。另推荐松脆惹味的沂蒙六味煎饼、爽脆开胃的脆拌菜州湾海肠，以及煨煮十余小时的驴胶黄精黑蒜汤。部分菜式限量供应，建议预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "鲁菜"
+      ]
+    },
+    {
+      "name": "鸢尾宫 1893",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/brasserie-1893",
+      "telephone": "+86 10 8520 8989",
+      "description": "英文店名的意思是酒馆，而这里实际是一家高贵优雅的餐厅。走进室内，除了引人注目的艺术品，开放式厨房也是焦点所在。主厨将本地优质食材以当代法式料理技巧烹调，不论卖相或味道都非常出色。套餐凝聚主厨的创意和巧思，其中茶熏乳鸽经过多重工序制成，结合中餐元素与法餐技巧，是其得意之作。",
+      "michelin_award": "Selected",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "黑天鹅",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/blackswan",
+      "telephone": "+86 10 5385 9911",
+      "description": "餐厅面朝美如仙境的湖泊，时有天鹅畅游其中，与岸上的中式园林相映成景。用餐环境纯白优雅，装潢和餐具同样以天鹅为设计元素。法国主厨Vianney Massot通过传统法式烹饪技巧，发挥时令食材的天然风味，带来耳目一新的现代法餐。推荐低温烤制的野生多宝鱼，肉质紧实多汁，搭配的两款酱汁鲜味十足。藏酒丰富，不妨请侍酒师推荐。",
+      "michelin_award": "TWO_STARS",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "龙庭",
+      "url": "https://guide.michelin.com/en/beijing-municipality/beijing/restaurant/the-house-of-dynasties",
+      "telephone": "+86 10 6536 0066",
+      "description": "装修风格受《红楼梦》启发，带有中国传统文化的韵致。主厨来自广东湛江，拥有丰富粤菜经验。菜单汇聚湛江特产风物，如安铺炖鳘肚、菠萝木碳烧黑毛猪，其中湛江式炒龙虾选用产自当地的青龙虾，加入沙姜碎和豆豉一同爆炒，具独特辛香。餐后不妨来一份流罗酥和自制豆腐花，前者加入菠萝蜜，内馅香甜顺滑。",
+      "michelin_award": "ONE_STAR",
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "region": "Beijing Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    }
+  ]
+}

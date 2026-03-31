@@ -1,0 +1,206 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Yangzhou",
+  "city_slug": "yangzhou_1032329",
+  "restaurant_count": 13,
+  "restaurants": [
+    {
+      "name": "刘佘记",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/liu-she-ji",
+      "telephone": "+86 514 8710 9090",
+      "description": "家庭经营的小面馆，藏身在不起眼的小巷里，用餐环境干净卫生。传承自家族手艺的手工跳面，是这里的一大特色，汤底经慢火熬煮，浇头为现点现炒，配面的小吃、调料也是店家自制。招牌蟹黄虾仁拌面每碗用上四只蟹，蟹黄与晶莹剔透的虾仁铺满面条上，诱人至极。座位有限且制作需时，繁忙时段需要排队、拼桌。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "双东酒店",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/shuang-dong",
+      "telephone": "+86 514 8732 7727",
+      "description": "餐馆藏于不显眼的小巷子内，不远处为著名旅游景点，位置闹中取静。供应淮扬菜和本地特色菜肴，选择丰富，充满家常风味，深受本地人喜爱。其中臭大元肥肠将处理得当的肥肠炖至软嫩，搭配臭豆腐和香浓酱汁，以热腾腾的砂锅呈上，惹味可口。大小包间设有最低消费，建议提前订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "壶园美食",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/hu-yuan-mei-shi",
+      "telephone": "+86 135 1175 1990",
+      "description": "位于东圈门内的地道小饭馆，以家庭式经营逾廿年，室内装潢简洁朴素。提供经典淮扬菜式和本地特色菜肴，传统狮子头、盐水鹅、大煮干丝等应有尽有，分量充足且价格实惠。狮子头是必点菜式之一，其猪肉肥瘦有致，入口即化，味道鲜美。盐水鹅表皮带有光泽，肉质紧实鲜香，味道咸香不腻，让人回味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "山",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/mountain-restaurant",
+      "telephone": "+86 514 8780 0010",
+      "description": "餐厅设计巧妙地结合园林景观，创造出时尚又贴近自然的用餐空间。菜肴在经典淮扬菜中融入创新元素，例如肉香浓郁的盐水卤鸽，在咸鲜的基础上添加麻辣风味，大大提升层次。晶莹透薄的灯影鱼片以灯影牛肉为灵感，将新鲜草鱼切片后自然风干，经过烘烤调味，甜中带辣，入口香脆，让人忍不住一尝再尝。",
+      "michelin_award": "Selected",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "怡园 (四望亭路)",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/yi-yuan-siwangting-road",
+      "telephone": "+86 514 8718 7777",
+      "description": "室内是宽敞明亮的老派风格，凭借物美价廉的菜品，成为本地人钟爱的早茶选择，当中以淮扬细点最为出名，午餐、晚餐则供应传统淮扬菜。招牌蒸饺有不同馅料，皮薄且有韧劲，肉馅富有鲜甜汁水。手工制作的精品烫干丝同样出色，手切白干粗细均匀，加入虾籽酱油和芝麻香油调和的酱汁，点亮整体风味。",
+      "michelin_award": "Selected",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "扬州宴 (长春路38号)",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/yangzhou-yan-38-changchun-road",
+      "telephone": "+86 514 8228 2777",
+      "description": "建筑风格典雅大气，亭台楼阁错落有致，尽显古色古香的韵味。顾名思义，这里主打扬州菜，招牌拆烩鲢鱼头鲜美细腻，啖啖胶质，搭配秘制酱汁，层次丰富。烫干丝刀工精细，口感软嫩，加上香浓的麻油酱汁，咸香味美。每天上演两场表演，包括琵琶、古筝和评书，让客人享受美食之余同时体验扬州的传统文化。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "橙园",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/cheng-yuan",
+      "telephone": "+86 180 5259 5088",
+      "description": "餐厅坐落于历史街区，邻近护城河，环境清幽。大门参照古代宫殿设计，气派十足，室内则以现代江南风格为主调。老板和主厨喜欢遍寻各地美食，对食物的想法天马行空，将淮扬菜结合粤菜、浙菜甚至西式元素，炮制出本帮熏立鳞甘鲷、帕马森芝士海山骨等创意菜式。采用私房菜形式，务必提前定制菜单。",
+      "michelin_award": "Selected",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "玉成",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/yu-cheng",
+      "telephone": "+86 514 8730 1738",
+      "description": "这间农家菜馆深藏村中，其装修别致卫生，主打具烟火气息的家常菜，分量足且价格相宜，广受本地人追捧。菜单丰富，也会在小黑板写上当日菜式。风鹅、咸鸡、香肠等自制咸货中，以咸猪脸最为出色，即使只是简单烹调仍糯香诱人。冬瓜咸排煲仅用咸猪排、冬瓜片和糯玉米清炖，味道朴素暖心。咸鱼烧鲜肉亦颇受欢迎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "范水长鱼面 (解放北路)",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/fan-shui-chang-yu-mian-north-jiefang-road",
+      "telephone": "+86 136 6524 5387",
+      "description": "开业十余年，近年因电视节目的推广引起回响，吸引各地食客慕名前来。老板从老家宝应挑选野生长鱼，每天取骨油炸后慢炖至少五小时，制作出鲜甜味美的奶白色鱼汤。除了汤面，也可选择盖浇面或干拌，同样搭配一碗长鱼汤。盖浇面以鱼肉与紫洋葱丝、韭菜同炒，长鱼各部位交织不同口感，且富有镬气；面条软硬适中，并挂上酱汁，不容错过。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "菜根香小馆",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/cai-gen-xiang-xiao-guan",
+      "telephone": "+86 159 5273 6877",
+      "description": "扎根扬州多年，于2023年搬到现址，是正宗淮扬菜的代表餐厅之一。盐水鹅、软兜长鱼、狮子头、扬州炒饭等应有尽有。其中扬州特色烫干丝展现出厨师的精湛刀工，干丝口感软嫩，搭配香浓的麻油酱汁，咸香交织，令人回味，是不可错过的经典菜肴。溜肥肠加入洋葱和彩椒同炒，镬气十足，富有风味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "趣园Plus",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/quyuan-plus",
+      "telephone": "+86 514 8753 5777",
+      "description": "位于扬州迎宾馆内，拥有独立庭院，布局尽显江南韵味。菜单虽精简，但网罗经典和富现代风格的创意淮扬菜。花雕醉蟹展现精准火候，蟹黄饱满浓郁，肉质鲜嫩细腻，带有甜花雕的酒香，令人回味。淮扬软兜由服务员在桌边现炒，以传统胡椒酱油调味，风味十足。包厢提供定制菜单，适合各类宴请聚餐。",
+      "michelin_award": "Selected",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜",
+        "粤菜"
+      ]
+    },
+    {
+      "name": "趣园茶社 (长春路)",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/quyuan-teahouse-changchun-road",
+      "telephone": "+86 514 8729 1777",
+      "description": "原为盐商府邸，相传乾隆四次游览至此，并御书赐名“趣园”。如今改建为茶社，食客可在亭台楼阁享用淮扬美食，尽览园林美景。早上供应扬州早茶，不要错过千层油糕、翡翠烧卖、盐商五丁包等精致细点。午餐和晚餐提供传统淮扬菜。其中水晶肴肉的皮冻透着晶莹光泽，入口即化，肉味香浓。早茶时段多游客临门，可能需排队久候。",
+      "michelin_award": "Selected",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜",
+        "点心"
+      ]
+    },
+    {
+      "name": "香宫",
+      "url": "https://guide.michelin.com/en/jiang-su/yangzhou_1032329/restaurant/shang-palace-1216419",
+      "telephone": "+86 514 8512 8888",
+      "description": "厨房团队由年轻主厨率领，在淮扬菜的基础上加入创意巧思，“新三头宴”是其得意之作，当中包括芦蒿清炖狮子头、澳洲指橙猪头肉和酸汤拆烩鱼头羹。后者沿用拆烩鱼头的传统技法，再加入贵州酸汤和高邮黑胡椒粉，使鲜、酸、辣层层递进，十分开胃。虾籽韭黄炒桂鱼丝用上酸黄瓜丝，和虾籽的鲜味相得益彰。",
+      "michelin_award": "ONE_STAR",
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    }
+  ]
+}

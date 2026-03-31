@@ -1,0 +1,2067 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Shanghai",
+  "city_slug": "shanghai",
+  "restaurant_count": 137,
+  "restaurants": [
+    {
+      "name": "1515牛排馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/1515-west-chophouse",
+      "telephone": "+86 21 2203 8889",
+      "description": "穿过走廊，首先映入眼帘的是熟成室，陈列着不同熟成阶段的牛排。来自澳洲的牛排以明火烤制，口感与味道俱佳，建议搭配由多种香草调制的阿根廷香辣酱，尤为清爽解腻。甜点方面，熔岩巧克力蛋糕和纽约芝士蛋糕都是不错的选择。开放式的烧烤厨房是整室焦点，并设有格调高雅的酒吧，适合餐前浅酌。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "8 ½ Otto e Mezzo Bombana",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/8-%C2%BD-otto-e-mezzo-bombana",
+      "telephone": "+86 21 6087 2890",
+      "description": "位于洛克·外滩源，从阳台外望就是黄浦江景色。厨房团队选用世界各地的优质食材，巧妙添加现代元素，重新演绎意大利风味。意大利面和面包都是手工制作，经典的八道菜套餐以海鲜为主，带来完整用餐体验，时令的松露菜式更是不容错过。酒单包含瓶装及杯装意大利餐酒，不妨请侍酒师挑选让人惊艳的佳酿。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Arva",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/arva-563644",
+      "telephone": "+86 21 8011 9999",
+      "description": "自然光线从落地玻璃洒落室内，搭配金丝楠木装饰的天花，显现出优雅格调。主厨以现代手法演译意大利传统菜式，除了采用当地食材，也有中国本土的海鲜时蔬，当中部分来自自设的果园。每天出炉的面包品质上乘，手工制作的意大利面种类繁多，值得尝试。餐厅位处市郊，比较适合驾车前往。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Cellar to Table",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cellar-to-table",
+      "telephone": "+86 21 6416 6676",
+      "description": "采用酒吧风格的室内设计，天花垂吊着不少酒杯，环境轻松又富有特色。餐厅于2024年迎来新上任的意大利主厨，他广泛搜罗中国各地的食材，包括四川西红杮、山东红虾、云南菌菇等，为意式风味带来新意。手工意大利面软硬度恰到好处，值得一试。酒单种类丰富且价格合理，不妨搭酒配餐。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Da Vittorio",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-vittorio-570570",
+      "telephone": "+86 21 6330 2198",
+      "description": "由历史悠久的意大利Da Vittorio家族经营，在新任主厨的带领下，餐厅既延续布鲁萨波尔托地区美食的精髓，也同时融入中国本土食材，创造出别具风味的组合，当中以鱼虾、扇贝等海鲜为特色。套餐包含多款招牌菜，也不妨单点鱼子酱蛋挞、Vittorio番茄意面等经典菜式。最后来一客提拉米苏，为美好的一餐画上句号。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Hakkasan",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hakkasan-1200248",
+      "telephone": "+86 21 6321 5888",
+      "description": "虽然自名为客家人，供应的粤菜却融合了西方元素，呈现新潮有趣的餐点。推荐菜式包括鱼子酱片皮鸭，把中、西两种代表食物搭配在一起，层次丰富。纯手工制作的点心精致美味，并加入天然果蔬汁调色，富有新意。酒吧供应的鸡尾酒以本地烈酒调配，值得一试。餐厅坐拥旖旎外滩江景，亦设有包厢，是不错的商务宴请地点。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜",
+        "粤菜"
+      ]
+    },
+    {
+      "name": "Il Ristorante - Niko Romito",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/il-ristorante-niko-romito-563683",
+      "telephone": "+86 21 3606 7788",
+      "description": "水晶灯衬托着皮制沙发，尽显奢华时尚，配备落地玻璃窗，让人饱览外滩和黄浦江的美景。由意籍主厨主理，并由大厨Niko Romito定期到场指导，菜单富有季节性同时保留传统风格。手工意面选择丰富，尤其推荐鲜味十足的意式扁面配龙虾。甜点乳清芝士冰淇淋细滑香浓，不容错过。酒单罗列多款香槟和意法佳酿，不妨请侍酒师提供意见。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Jean Georges",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jean-georges-506640",
+      "telephone": "+86 21 6321 7733",
+      "description": "由法国厨师Jean Georges开设，餐室时尚、雅致且有气派，配备开放式厨房。套餐菜单跟随纽约总店的步伐，经典菜式如鸡蛋鱼子酱等均在其上。金枪鱼配酪梨的用料上佳，酪梨蓉配上小红萝卜碎及姜汁口味清新。美酒同样不容错过，酒单上有搜罗自世界各地逾七百款优秀餐酒。服务员亲切友善，常照顾客人需要。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "Mercado 505",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercado-505",
+      "telephone": "+86 21 6248 8505",
+      "description": "蓝白相间的招牌，醒目又清新。门外设有露天座位，室内则设开放式的厨房和吧台，即使独自用膳，也会被轻松活泼的气氛所感染。餐厅的进口海鲜品质尤佳，西班牙红魔虾、鳗鱼苗等独特食材，都提供多种做法。推荐须提前预订的西班牙海鲜锅，其汤底浓缩了蓝贻贝、牛肝菌、白芸豆的风味，与多种海鲜一同炖煮，鲜味醇厚。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "西班牙菜"
+      ]
+    },
+    {
+      "name": "Mercato",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mercato-506693",
+      "telephone": "+86 21 6321 9922",
+      "description": "充满活力的Mercato渗透着丝丝地中海风，与一般意大利餐厅略见不同。木炭烤披萨如黑松露三种芝士和有机鸡蛋很受欢迎。其他招牌菜有木炭烤整条冰岛比目鱼和牛肝菌裹三文鱼金葱油醋汁等都值得试试；另设有厨师推介菜单。所有菜式都是以家庭分量奉客，可供多人分享。酒单上不乏来自意大利的佳酿。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "Mr & Mrs Bund",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mr-mrs-bund",
+      "telephone": "+86 21 6323 9898",
+      "description": "餐厅坐拥河岸景致，周到服务加上时尚的背景音乐，用餐环境舒适轻松。菜单品项多样，包括炭烤牛排和海鲜烧烤，不少菜式的分量足够多人分享，不妨携同亲朋前往品尝。当中“主厨独创”的菜式均值得一试，例如造型跟柠檬几可乱真的香浓柠檬塔，以经过浸泡处理的柠檬皮包裹柚子和雪芭，是不错的甜品选择。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "Narisawa",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/narisawa-1209925",
+      "telephone": "+86 186 1605 6980",
+      "description": "由日本主厨Narisawa监督，并委任共事十余年的厨师为驻店主厨。菜单内容依时令变更，大量采用本土新鲜食材，菜式巧妙融合东西方的烹饪技巧。森林面包是这里的招牌菜，于席前发酵再以高温石锅烤制，做法跟东京店一样，而配料会随着季节更换成白茶、柑橘等。餐厅设有开放式厨房，于吧台用餐可近距离与厨师交流。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "Nuits",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nuits",
+      "telephone": "+86 173 4975 8268",
+      "description": "店名在法文解作“夜晚”，也寓意了勃艮第着名的红酒产区“夜丘”。这里的藏酒也多产自勃艮第，客人可于藏酒室与侍酒师直接沟通，选择心仪佳酿。菜肴方面，牛肉塔塔为招牌菜，主厨特意加入了象拔蚌肉和生蚝汁，把海陆风味相结合，充满特色。餐室以亮眼的橙色为主调，座位不多，建议提前预位。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "Obscura",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/obscura",
+      "telephone": "+86 191 2147 1147",
+      "description": "新任主厨钟爱川菜浓郁辛辣的味道，而且擅长在中菜的基础上融入当代元素，为传统风味带来变奏。招牌菜以花椒制成酸辣酱汁，搭配鲜嫩无比的鱼肉，鲜味层层交织，回味无穷。最有趣的，是让客人在盲盒中抽取卡片，主厨根据卡中内容即场烹调惊喜美食。除了葡萄酒单，也提供无酒精茶饮配餐。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "Polux",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/polux",
+      "telephone": "+86 21 6333 9897",
+      "description": "名字既是法国著名卡通角色，也是东主兼主厨Paul Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛，散發巴黎咖啡室的格调。除了早午餐轻食，也有海鲜和肉类等主菜可选，当中包括集团其他餐厅的招牌菜式。传统洋葱汤味道浓郁，加上奶酪和微焦的多士，整体配搭得宜，值得一试。餐厅人气颇高，建议订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "Pop",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/pop",
+      "telephone": "+86 21 6321 0909",
+      "description": "餐厅设计时尚，采用皮椅沙发和大理石及木制装饰，营造出舒适典雅的氛围，室外阳台更可一览黄浦江的动人景色。在这里可以尝到欧洲各地的经典名菜，烧烤肉类和海鲜琳琅满目，更有伊比利亚火腿、自制鹅肝酱、黑松露意面等佳肴。每天上午提供早午餐，不妨以美食搭配江景，展开悠闲的一天。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "欧陆菜"
+      ]
+    },
+    {
+      "name": "Scilla",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scilla",
+      "telephone": "+86 21 6073 0258",
+      "description": "位于历史悠久的老洋房，以一种地中海蓝钟花命名，反映着这里的菜系特色。厨师广泛运用中国本地海鲜，配合地中海风格的调味，为菜式注入创意。推荐炭烤黄鱼搭配法式鱼汁及蛋黄酱，取自台州的黄鱼烤得表皮焦脆，鱼肉弹嫩。菜品分量偏大，适合多人分享。地下酒窖藏品丰富，不少来自地中海沿岸的小众产区。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "地中海菜"
+      ]
+    },
+    {
+      "name": "Shanghai Tavern",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai-tavern",
+      "telephone": "+86 21 5368 9511",
+      "description": "艾迪逊酒店的客房设计奢华，和位于一楼的Shanghai Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，优雅的环境加上棕榈树盆栽、白色制服的服务员、甜品车等，仿佛令人回到往昔。菜单涵盖各类欧陆美食，包括海鲜、烤肉，甚至奶酪焗通心面。亲切热情的服务和动人的音乐，令餐厅更具吸引力。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "Shaughnessy",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shaughnessy",
+      "telephone": "+86 21 6029 6789",
+      "description": "位于大厦顶楼，可饱览黄浦区的城市景观，以及外滩边的著名建筑。餐厅选用美国极佳级别的黑安格斯牛排，在店内特设的干式熟成柜熟成至少28天，亦备有熟成至180天的肉品，但须提前咨询预定。由服务员提供桌边服务，把烤至外焦内嫩、香气四溢的牛排，根据客人的喜好进行分餐。此外，熟成鸽子也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "Villa Le Bec - Bistro 321",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/villa-le-bec-bistro-321",
+      "telephone": "+86 21 6241 9100",
+      "description": "餐室设于古老洋房内，划分成四个特色区域，如备有火炉的古典房间、面向园林的玻璃房。来自里昂的主厨带来众多经典法国小餐馆菜式，如五香肉馅饼、干邑半熟鸭肝、烤带骨牛眼肉等。还有以中国时令食材结合法式烹饪技法的季节性菜单，令人惊喜。酒窖的藏酒品质尤佳，不妨与亲友在院子里共品好酒。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "le Comptoir de Pierre Gagnaire",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/le-comptoir-de-pierre-gagnaire",
+      "telephone": "+86 21 5466 9928",
+      "description": "这家由法国大厨开设的时尚法式餐厅，位于上海最大的石库门清水红砖建筑群。主餐室灯光和煦，环境恬静，洋溢悠闲的法式氛围。用餐前不妨到入口旁的酒吧浅酌一杯，享受安谧时光。食物方面，不论是经典菜式布列塔尼蓝龙虾，或运用中国本土食材的纸包福建鲷鱼，都精致美味。亦不要错过经典法式甜品兰姆巴巴。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "三号黄浦会",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-table",
+      "telephone": "+86 21 6321 3737",
+      "description": "位于外滩大街，落地玻璃尽览醉人的黄浦江景色。室内设计简约，以身穿旗袍的女子画像点缀，呈现老上海风情。有趣的是，餐厅主打粤菜，菜单涵盖烧味、点心等广东美食。建议一尝桂花炒鱼肚，炒蛋形似桂花，金黄漂亮，配合银芽和鱼肚丝，口感出众。甜点也不容错过，如现点现烤的枫叶奶黄酥，焦香酥脆，香甜诱人。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "上海总会",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai-club",
+      "telephone": "+86 21 5299 8660",
+      "description": "作为苏浙汇旗下的高档品牌，菜单上的选择可谓应有尽有，除了精彩多样的经典上海菜肴，当中更不乏核桃酱鸭方等较少见的手工菜式。除此之外，亦提供海鲜及随季节更替的时令美食；中午时段甚至有广式点心。餐厅以老上海风格设计，设有多个独立包厢供大小聚会。捧场客众多，建议预先订座。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜",
+        "粤菜"
+      ]
+    },
+    {
+      "name": "上海餐厅",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shanghai",
+      "telephone": "+86 21 5396 5000",
+      "description": "作为以专营蟹宴闻名全国的王宝和酒家的姊妹店，上海餐厅同样以高素质的本帮菜而家喻户晓。优质的食材加上用心烹调制作的一道道经典上海菜式，风味传统，令人回味再三。每逢大闸蟹当造季节，餐厅同样有蟹宴供应。食客可在店内购买店家自酿的黄酒或其他材料回家亲自下厨。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "东平潮",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dong-ping-chao",
+      "telephone": "+86 21 5888 8790",
+      "description": "位于有上百年历史的老洋房内，只设有八个包间。厨师团队来自潮汕，海鲜等食材也每天从当地空运到上海。客人须于用餐前至少一天与餐厅订制菜式，不妨同时询问各种海鲜的最佳品尝方式。尤其推荐焗脆皮婆参，其外皮酥脆，内部软糯，酱汁浓郁且带点花生酱香气，精致而满有新意。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "东方景宴",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/oriental-sense-palate",
+      "telephone": "+86 21 5464 1319",
+      "description": "位于思南公馆的独立老洋房内，装潢简洁优雅，想保有私密度可选坐独立包房。厨师团队由辉师傅带领，采用来自广东的食材，创造出摆盘精致的潮州美食。前菜椒酱肉盐田虾干富有潮汕特色，咸香微辣，口感丰富。另有选用二十天妙龄鸽的招牌脆皮乳鸽，以及多款新鲜海产。部分菜式须提前预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "临江宴",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-jiang-yan",
+      "telephone": "+86 21 6859 9777",
+      "description": "餐厅所在的洋房始建于1902年，现为受保护文物。除大厅座席，也设有可以观赏江景的包间，特别适合商务宴请。主要供应江浙菜式，由经验丰富的厨师主理，在传统风味融入创新元素；另有广东师傅负责海味菜肴。推荐鲜香十足的福袋腌笃鲜，浓汤里是一个个由豆腐皮扎成的福袋，裹着上等猪肉和荠菜，需提前预定。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "临湖素食",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-lakeside-veggie",
+      "telephone": "+86 21 3356 7008",
+      "description": "品牌起源于杭州西湖边，故名为临湖素食。上海店则在龙华寺附近，每月初一、十五格外热闹，建议提前订位。餐厅的手工点心种类繁多，推荐松茸汤包，其表皮吹弹可破，内馅饱满多汁，热辣可口。招牌菜则有炝烧豆腐，以豆香浓郁的老豆腐所制，炝烧后更带焦香。甜品饮料也颇受欢迎，如自家熬煮的鲜山楂乌梅汁。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "之舞",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/la-scene-ronde",
+      "telephone": "+86 133 4160 0710",
+      "description": "餐厅名La Scene Ronde在法文解作“圆形舞台”，这恰如与吧台相连的开放式厨房，是厨师向客人展示烹饪艺术的舞台。日本主厨擅长融合亚洲和欧洲元素，并按季度更换菜单内容。使用秘制烧肉汁煮成的招牌和牛高汤，肉味浓郁。 “一口珍馐”形似寿司，米饭取自东北种植的日本水稻，搭配现切的伊比利亚火腿，柔润可口。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "乔艾莱莱小笼 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/qiao-ai-lai-lai-xiao-long-huangpu",
+      "telephone": "+86 21 6352 0230",
+      "description": "置身老区的小巷内，店面干净整齐，可以透过明档厨房看到师傅手工包制各类小笼。招牌纯蟹膏小笼包含满满的蟹膏，搭配店家特调的姜丝醋，浓郁鲜香。蟹粉馄饨、蟹粉荠菜羹、蟹粉春卷也各有特色。也有供应经济实惠的猪肉小笼包。生意十分火爆，尤其是在大闸蟹最肥美的季节。中午休店一小时，人多时须拼桌。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "云",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/les-nuages",
+      "telephone": "+86 21 5718 9999",
+      "description": "位于高层，落地玻璃外的江景一览无遗，恍如置身云端。单点菜单囊括各类西式菜肴，尤其推荐自家干式熟成的牛排。同时也有主厨定制的创意套餐，融合本土食材与西式技法，让人惊喜不断。当中，“六月黄”是包着蟹粉和醋粒的炸丸子，咬下时蟹黄的鲜味一涌而出，不容错过。\"巧克力\"则以上海甜点为概念，更是勾起本地人的童年回忆。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "云和面馆 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yunhe-noodle-huangpu",
+      "telephone": "+86 157 2157 8788",
+      "description": "藏身在老式民宅之中，室内尽是霓虹灯和涂鸦墙，风格时尚。提供传统口味的狮子头面、大排面，也有松茸、蛤蜊等选择，可组合出创新的面食搭配。以现剥蟹粉和三虾做成的浇头，是这里的招牌，而三虾只在时令季节供应，建议把握时机品尝。另外，小菜苔条黄鱼和妙手风胗的味道出色，值得加点佐餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "面食",
+        "沪菜"
+      ]
+    },
+    {
+      "name": "井梅无锡面馆 (延平路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jing-mei-wu-xi-si-fang-mian-guan",
+      "telephone": "+86 191 0218 1275",
+      "description": "老板来自无锡，这里的面条、点心和菜肴皆饶富当地特色。无锡酱排骨面是必点菜式，排骨炖得酥烂入味，入口即化，可选配汤面或葱油拌面，前者搭配经典无锡红汤，甚是开胃。太湖三白大馄饨以白鱼、白虾、银鱼和荠菜碎作馅料，饱满扎实，鲜甜无比。此外，玉兰饼和现点现包的无锡小笼亦不容错过。饭点常见人龙，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "人和馆 (徐汇)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ren-he-guan-zhaojiabang-road",
+      "telephone": "+86 21 6403 0731",
+      "description": "室内灯光幽暗，饰以怀旧摆设，驻场歌手演唱着老上海金曲，还有穿民国服装的服务员，令人有种时光倒流的错觉。食物同样充满特色，蟹粉捞饭采用老板自家养殖场的螃蟹所制，鲜美丰腴。精品糟拼、青浦练塘茭白炒鳝丝等也是厨师的得意之作。最后不妨与亲友共享一份酒酿圆子。由于味美价廉，店内经常座无虚席。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "何洪记",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ho-hung-kee-570572",
+      "telephone": "+86 21 5218 8019",
+      "description": "为源自香港的老字号品牌，装潢设计新颖，充满中式元素但不老气。菜单包括港式面食、粥品和点心等，与香港本店几近相同。云吞面的汤头以大地鱼、红虾皮熬煮，配上鲜虾云吞和自制竹升面，鲜味可口。斗门靓虾籽捞面爽口弹牙，充满咸香；蜜汁叉烧酥皮薄松化，叉烧内馅甜香而不腻，同样出色。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粥面"
+      ]
+    },
+    {
+      "name": "兰心 (进贤路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lan-xin-jinxian-road",
+      "telephone": "+86 21 6253 3554",
+      "description": "业务扩展至大型商场的兰心早于八十年代开业，位于进贤路的为本店。店面朴实无华，但无碍人气高涨，纵然附近餐厅林立，其门外常常满是排队候座的客人。餐室由旧民居改装而成，装潢简朴，充满怀旧气息。耳熟能详的本帮菜都能在此尝到：红烧肉、酱鸭、油爆虾、糖醋小黄鱼……欲细味老上海家常味的不能错过。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "凌珑",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ling-long-1209951",
+      "telephone": "+86 21 2329 0313",
+      "description": "餐厅位于古典主义风格的百年建筑内，装修以红和黑为主色调，别具现代中式韵味。仅提供套餐，年轻主厨Jason带领团队以西方烹调技法结合中餐调味，将本土食材制作成创意菜式。例如招牌菜蚝与牛选用山东和牛先炸后烤，搭配用福建生蚝自制的蚝油，呈现变奏版的蚝油牛肉。餐酒搭配同样趣味十足。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "利苑 (徐汇)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lei-garden-xuhui",
+      "telephone": "+86 21 5425 2283",
+      "description": "源自香港的利苑，业务遍布亚洲，提供高素质的正宗粤菜。无论是点心、烧味还是炖汤，厨师团队每日都严格把控出品水准。以熬煮超过六小时海鲜汤即席泡煮的过桥象拔蚌，或即点即做的腊味煲仔饭皆值得一试。新鲜海产种类繁多，且烹饪方法多样，也十分推荐。此店位处大型商场，经常满座，建议订座时同时预留烧味和炖汤。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "利苑 (浦东新区)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lei-garden-pudong",
+      "telephone": "+86 21 5106 1688",
+      "description": "国金中心内的利苑总是人头涌涌，可见餐厅出品的粤菜素质有相当水准。老火汤和精制广东点心是午饭时段上班族的最爱。晚饭时间，可以从主菜单点选海鲜、鲍鱼等高级食品，亦可从每天更新的菜单中点选时令小炒或煲仔菜等等。餐厅提供多种经济的菜式组合，也有适合多人共享的套餐。建议预早订座。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "功德林 (南京西路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gong-de-lin-jingan",
+      "telephone": "+86 21 6327 0218",
+      "description": "功德林作为上海知名的老字号菜馆，多年来追随者众。可别看招牌菜名为糖醋排骨、油爆鳝丝，其实全都是不折不扣的素菜。厨师以巧手将豆腐和菇菌等食材造成不同形状、外型吸引的菜式，上桌的餐点有的像鱼、有的像肉，以假乱真的功夫叫人拍案叫绝！餐馆还设有外卖部销售糕点，例如现做现卖的青团等。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "南兴园",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nan-xing-yuan",
+      "telephone": "+86 21 6438 0838",
+      "description": "由来自四川的厨师团队主理，炮制出口味正宗的川菜。餐厅提供川式宴席菜，并以订菜形式营运，客人在预约时可调整菜品。套餐设计富有心思，口味层层叠进，将川菜味型展现得淋漓尽致。不论是展现吊汤功力的开水白菜，还是家常风格的青椒炒肉，厨师都处理得宜。餐厅环境宽敞舒适，仅设独立包厢。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "南翔馒头店",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/nanxiang-steamed-bun-city-god-temple",
+      "telephone": "+86 21 6355 4206",
+      "description": "拥有过百年历史的老店，以皮薄馅足的南翔小笼馒头而闻名。除了大受欢迎的鲜肉小笼和蟹黄小笼，还有需要用吸管享用的蟹黄灌汤包，以及上海本帮菜，满足客人的多样化需求。联合百年茶楼推出配茶套餐，重现“一笼一茶”的经典海派生活。设有多间包厢，建议提前预订。早上十时半前到来可避开人潮。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "古铜法式餐厅",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cuivre",
+      "telephone": "+86 21 6437 4219",
+      "description": "开在法国领事馆旧址，装修充满设计感，大量使用铜器、木材和皮革，洋溢复古氛围。菜单主打现代法国菜，同时糅合亚洲元素。焗烤羊排外层焦香，内里肉汁充盈。萨凯帕朗姆酒巴巴配香草鲜奶油和香橙皮交织多种风味，更渗出淡淡柑橘清香，不容错过。酒单包括许多法国小众酒庄和新世界产区的选项，颇有惊喜。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "吉品轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ji-pin-court",
+      "telephone": "+86 21 6469 9969",
+      "description": "位于法式古建筑内，让食客在优雅环境中享用粤式美馔。厨师致力呈现粤菜精髓，从餐前小食、小菜到汤羹都力求色香味俱全。推荐皮脆肉嫩的茶皇烟熏鸽，另外，砂锅陈皮沙姜煎鸡、马友咸鱼蒸鲜虾肉饼及蜜汁叉烧也值得细味。菜式分量可按需要调整，建议订座时查询海鲜供应。酒藏丰富，不妨请侍酒师搭配美酒。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "周舍 (闵行)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/zhou-she-minhang",
+      "telephone": "+86 21 3463 6976",
+      "description": "设有精致包间，位置接近机场和火车站，适合商务宴请。菜单既传承沪菜的烹饪技法，也融合各地风味，除了海派菜肴，兼有粤菜及淮扬菜等。特别推荐青麻老卤鸽和韭芽滑鱼丝，前者将乳鸽放入陈年老卤中低温浸泡，鸽肉软嫩入味；后者鲜味十足，厨师将鱼肉细切成丝，粗幼相若，足见刀功。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "味香斋 (雁荡路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wei-xiang-zhai",
+      "telephone": "+86 21 5383 9032",
+      "description": "雁荡路上的味香斋已伫立超过八十年，纵然店面满佈古旧痕迹，却依然门庭若市，全因店内一碗碗充满怀旧味道的面食叫人回味无穷。菜牌非常简单，只提供数款面食及面交。当中最受欢迎的，当然是招牌麻酱面。推荐搭配辣酱交、牛清汤或是排骨年糕，加倍满足。若于炎热天氣造访，则不妨来一碗冷面消暑。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "唐阁",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/t-ang-court-506725",
+      "telephone": "+86 21 2330 2288",
+      "description": "唐阁主营经典粤菜，团队由行政总厨苏师傅带领，以优质食材呈现粤式珍馐百味。菜单选择繁多，融入季节元素的时令菜单是最大亮点。推介菜式包括肉质爽口的虾籽葱爆大虾球，以及外皮酥脆、咸香鲜嫩的招牌脆皮鸡。各款点心小巧精美，值得一试。用餐环境高雅，聚会或商务宴请皆宜。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "喜粤8号 (黄浦）",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/canton-8-runan-street",
+      "telephone": "+86 21 6733 7123",
+      "description": "来自香港的主厨拥有超过四十年粤菜经验，客人在这里可品尝到高素质的广东菜。菜单选择丰富，烧味、小炒、海鲜一应俱全，而且价格亲民。怀旧锅贴明虾夹是别处难寻的传统菜式，炸得干爽且富有蛋香。其手工包制的各种点心也是一大亮点，也不妨向店员询问当日的老火靓汤，用料讲究，口味随季节变更。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "壳里",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/coquille",
+      "telephone": "+86 21 3376 8127",
+      "description": "餐厅占地两层，饰以金属元素和黑白纹格地砖，环境精致而富有悠闲情调。厨师在传统法国菜中注入亚洲元素，并侧重海鲜为食材。焦糖鹅肝布丁和秘制香烤珍宝蟹是其得意之作，威灵顿牛肉为必试之选，建议提早预订。椰子舒芙蕾香气浓郁，搭配椰蓉脆片和海盐椰子冰淇淋，是让人回味的餐后甜点。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "壹零贰小馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/102-house",
+      "telephone": "+86 21 6373 3122",
+      "description": "餐厅于佛山起家，主厨钻研古法粤菜多年，尤其擅长传统广府手工菜。不同价位的套餐及主题菜单均会呼应季节作变化。招牌菜咕噜肉选用金华两头乌肥头肉制作，味道出色。荔荷炖老鸭同样令人回味，结合时令的荔枝和荷花，入口清甜带香气。建议参考侍酒师的意见，以美酒配搭佳肴。若多人聚餐，不妨预订可饱览滨江景色的包厢。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "夏宮",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/summer-palace-506733",
+      "telephone": "+86 21 2203 8889",
+      "description": "餐厅分为三个区域：供应点心的厨房区、提供传统砂锅菜的灯笼厅，以及专侍高级经典粤菜的皇家厅。有品质的家具摆设及雅致的装潢，令室内环境高贵且有气派。这里的粤菜出品稳定，点心烧腊一应俱全，应时令推出的蟹粉菜肴颇具上海特色，令人耳目一新。以优秀的酒单为佳肴画龙点睛最适合不过。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "外滩 · 林家一",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lin-family-of-one-the-bund",
+      "telephone": "+86 21 6327 7779",
+      "description": "选址在拥有百年历史的中央广场内，餐厅设有多个包厢，适合各种商务宴请和庆祝活动。东主生于台州，入厨经验丰富，不但对家乡食材和传统烹调手法有透彻认识，也坚持采用来自台州的新鲜材料。不要错过其家烧东海白鲳，鱼肉嫩滑鲜美，搭配手打年糕，可口非常；蟹粉台州盐卤豆腐和沙蒜豆面亦值得品尝。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "夜上海",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ye-shanghai",
+      "telephone": "+86 21 6311 2323",
+      "description": "新址位于商场内，但设计师用灰砖外墙来模拟石库门风貌。室内则以带有上海元素的现代艺术品，营造时尚优雅的环境。这里的上海菜同样带有现代风味，特别推荐口感酥脆的野山蒜油爆虾。秋季到访，更可以品尝应季的大闸蟹菜式，无论是蟹粉酿蟹盖还是蟹粉狮子头，都尽显厨师的厨艺。酒吧供应一系列创意鸡尾酒。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "大壶春 (四川中路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-hu-chun-middle-sichuan-road",
+      "telephone": "+86 21 6313 0155",
+      "description": "这家生煎包老字号早于1932年开业，食客络绎不绝，都是慕着现做的生煎包和小云吞之名而来。生煎包包底香脆可口，内馅鲜美丰膄，有别于坊间汤汁四溢的生煎包，但足以令人齿颊回香，尤其在刚上碟时品尝最佳，馅料更可加配大虾或蟹粉等。店面不大，以自助形式服务，设有小卖部售卖各式上海糯米糕点和生云吞。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "大董 (徐汇)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/da-dong-xuhui",
+      "telephone": "+86 21 5466 5758",
+      "description": "以烤鸭驰名的大董在上海设有数家分店，这家位处铁路站上的商场内，经常人头涌涌，足证其烤鸭甚具水准——来自北京的填鸭给烤至皮脆肉嫩，并佐以多款精细佐料，同时配上面饼进食。不能错过的还有葱烧海参。餐厅亦设时令菜单及廿四节气菜式，选择多样。晚市宾客盈门，宜提早到埗。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "头灶",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tou-zao",
+      "telephone": "+86 191 2133 7327",
+      "description": "餐厅以“头灶”为名，强调主厨引以为傲的炒锅技巧和火候控制。有别于一般中餐厅，布局采用主厨吧台，除了可近距离欣赏烹饪过程，也缩短上菜时间，让食物呈现最佳状态。菜单包括贵妃脆皮鸡、春卷等自开业以来供应的招牌菜式，主厨也会根据时令食材，即席决定菜品内容和相应的热炒技法。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "宏玉方",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-yu-fang",
+      "telephone": "+86 158 0077 2430",
+      "description": "在黄浦区开业十多年，颇受欢迎，迁址后依旧人气不减，饭点时门外定会排队。店内干净整洁，设有透明厨房，可以看到制作点心的过程。菜单品项不多，其中锅贴的外皮煎得酥脆焦香，内馅紧实多汁，调味经典，难怪成为招牌餐点。此外，香肠咸肉菜饭用料实在，米饭被猪油包裹，颗颗分明且油润香甜，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "宝丽轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bao-li-xuan",
+      "telephone": "+86 21 3606 7788",
+      "description": "餐厅坐落于精心修复的历史建筑中，包厢设计以中国传统文化结合宝格丽珠宝，展现老上海的典雅韵味与现代奢华。在主厨的掌舵下，这里的菜品兼具传统功底和鲜明特色。化皮乳猪件将经典粤菜重新演释，酥脆乳猪皮搭配荷叶小饼，令人回味无穷。中式酥点尽显手艺，尤其推荐松软可口的原只鲍鱼酥。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "家全七福",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/seventh-son-jingan",
+      "telephone": "+86 21 6266 3969",
+      "description": "家全七福是来自香港的高级粤菜品牌，由两个大厅组成的宽敞空间，从装潢设计展现出富丽堂皇的气派。供应各式各样的传统手工粤菜，不论是海味、汤品、烧味还是小炒，都蕴含厨师团队卓越细腻的烹饪技巧，当中以蟹肉桂花虾丝尤其出色。午市提供逾三十款自家制作的点心，选择众多，是不少客人再三光临之因。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "小陶面馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xiao-tao-mian-guan",
+      "telephone": "+86 156 1801 3853",
+      "description": "这家老小店供应汤面和拌面，后者更受欢迎，采用传统上海葱油拌面为基底，加入大量炸得酥脆的小葱，香气四溢。浇头可任意搭配，其中鳝背肉口感弹牙，咸香中透出微甜，让人饱尝老上海风味。辣肉则味鲜汁浓，十分推荐。可免费添加面条，不妨告知老板对面条软硬的偏好。饭点大排长队，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "尚牛社会 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/beef-liberty-west-nanjing-road",
+      "telephone": "+86 21 6289 5733",
+      "description": "这家主营汉堡包的餐厅讲究选材，采用新西兰草饲牛肉、无激素鸡腿肉，连面包也是自家制作。首次到访，建议尝试经典起司汉堡，牛肉厚实多汁，搭配轻微融化的瑞克雷特起司和焦糖洋葱酱，味道浓郁且平衡。融入四川元素的创意辣味汉堡，为味蕾带来惊喜，也有季节限定的汉堡供应。不妨以幼滑的招牌奶昔，或是口味特别的啤酒佐餐。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "美国菜"
+      ]
+    },
+    {
+      "name": "屋有鲜",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wu-you-xian",
+      "telephone": "+86 158 0072 2498",
+      "description": "这汤包专门店出品均为现点现包，包皮吹弹可破，内馅都是当天现制，数量有限。厨师将蟹分拆成蟹粉、蟹黄、蟹膏等多款馅料，也有搭配海参、鲍鱼等特色组合，其中以纯蟹汤包最受欢迎。“感蟹贵客”可一次尝到三款口味，以野荠菜为内馅的时令汤包也值得一试，也有供应小馄饨、牛筋汤等老上海风味。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "席作 · 福建会馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hokkien-huay-kuan",
+      "telephone": "+86 21 5777 6799",
+      "description": "品牌源于福建，厨师多数来自当地，为了保证菜肴的原汁原味，不少当季食材也从福建新鲜运到上海。厦门招牌水煮三鲜选用生敲虾、竹蛏皇和东山大红管，味道略带麻辣，十分推荐。闽南红葱油酥肉汁福鼎芋则选用芋头的中心部位，在肉汁中煨煮数小时，软糯鲜甜。用餐区给巧妙地划分成多个区域，环境优雅宁静。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "徐记海鲜 (徐汇)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xuji-seafood-xuhui",
+      "telephone": "+86 21 6288 7098",
+      "description": "品牌于湖南创立，此店是其最新的旗舰店，设计典雅大气。主打新鲜海产，从世界各地及国内养殖场采购，品种多样。烹饪风格以粤菜和湘菜为主，例如招牌菜堂灼鱼汤鲜贝，将东海元贝放进以海鲈鱼熬成的浓郁奶白鱼汤汆烫，呈现迷人的鲜甜味。软糯顺滑的薯粉钵，也不容错过。服务贴心，不妨请店员建议菜品搭配。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "御宝轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/imperial-treasure-fine-chinese-cuisine-huangpu",
+      "telephone": "+86 21 5308 1188",
+      "description": "黑色装潢配合优雅的水晶吊灯，气派十足，与餐厅提供的高级粤菜相得益彰，是宴会和聚餐的理想场所。厨房团队由经验丰富的香港主厨带领，经典菜式都做得正宗而精细，蟹肉桂花炒瑶柱、适合多人共享的糯米黄金脆皮鸡等更尽显厨师手艺。甜食方面，不妨试试香甜回甘的生磨合桃露。炖汤、片皮鸭等限量供应，建议提前预留。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "德兴馆 (广东路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/de-xing-guan-guangdong-road",
+      "telephone": "+86 21 6352 2535",
+      "description": "德兴馆创于1878年，广东路上的总店有着夺目的金漆招牌和中式楼阁门面，地面层是售卖面食和盖浇饭的面馆，沿着楼梯回旋而上，则是环境较舒适的餐室和包厢，供应本帮上海菜，冷盘、热菜、汤品和面食点心等一应俱全。其面食和点心都是店内鲜制，厨师们每天清晨四点就到来准备，尤其推介两鲜面和三鲜面。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "恒悦轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hang-yuen-hin-xuhui",
+      "telephone": "+86 21 6472 9778",
+      "description": "舒适的环境加上园林景色，令在此用餐变成赏心乐事。餐厅供应广式粤菜，主厨曾于粤港两地工作，融汇两地饮食文化，炮制出少油少盐、保持食材原味又有益健康的菜肴。餐厅的招牌菜不少，西杏炸虾卷和脆皮烧乳鸽均值得品尝。中午时段供应多款点心，不妨邀约亲友，午餐时来个一盅两件。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "悦轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/dining-room-1196349",
+      "telephone": "+86 21 6888 1234",
+      "description": "位于酒店87层，巨幅落地玻璃带来开阔视野，将黄浦江景色一览无遗。菜品主打江南风味，在传统之上加入主厨的创意元素，炮制出别具特色的招牌菜。前菜种类多样，推荐以崇明二黄鸡制作的老上海葱油鸡，搭配京葱、香葱、肉葱和干葱头制成的葱油酱，再以法式细叶小葱作点缀，多种香气层层叠加，额外迷人。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "成隆行蟹王府 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cheng-long-hang-huangpu",
+      "telephone": "+86 21 6321 2010",
+      "description": "为确保大闸蟹的素质，餐厅自设大型养殖场，所供应的大闸蟹肉质鲜甜爽滑，蟹黄入口清香，出油回味。招牌菜醉蟹选用二两重的大闸蟹，在完成最后一次脱壳后用花雕酒腌制一个月而成。雪花蟹斗取大约三只大闸蟹拆肉制成，真材实料。提供单点菜单，套餐需提前预定。不妨以黄酒搭配鲜美的蟹肉菜肴享用。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "扒",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-meat",
+      "telephone": "+86 21 6169 8886",
+      "description": "长餐室两边设小型厢座，天花挂满红色牛角状吊灯，别具型格。餐厅主要供应产自澳大利亚的牛肉，并置于店内的醒肉房熟成25至31天，以达致最佳味道和口感。主厨特别推荐芝士熔岩牛排，选用澳大利亚的但马和牛，在其表面淋上融化的奶酪，柔滑细腻，香气扑鼻。酒单选择不俗，包含酒店自酿的手工啤酒。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "扬州饭店 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yangzhou-fan-dian-huangpu",
+      "telephone": "+86 21 6322 5266",
+      "description": "这家老字号饭店主理淮扬风味小菜，风味正宗、做工精细，收取的是平民价钱，因此深受上海人欢迎。福建中路的这家分店占地三层，2017年完成翻新后餐室缀以山水和动物画作，二楼更放有大型金色雕刻画，更添中式韵味，而玻璃窗外是繁盛市貌，蛮有趣味。推介菜式有扬州干丝、狮子头和拆烩千岛湖鱼头等。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "斐霓丝",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/phenix",
+      "telephone": "+86 21 2216 6988",
+      "description": "主厨以新派法餐结合中国本土食材，晚市供应单点菜单、经典菜式为主的探索套餐，及主厨品鉴套餐。其中一料两吃的乳鸽菜式叫人回味，将鸽腿油封后以荔枝木炭烤，另将丰腴的鸭肝酿入鸽胸肉之中，肉质柔嫩多汁，佐以甜菜根和李子酱，尽见主厨的烹饪风格。室内设计时尚简洁，建议预订窗边座位，透过巨幅玻璃欣赏窗外的丛林树影。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "法国菜"
+      ]
+    },
+    {
+      "name": "新荣记 (南京西路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-rong-ji-west-nanjing-road",
+      "telephone": "+86 21 5386 1717",
+      "description": "这家新荣记立足上海多年，以供应台州菜为主，门外特设海鲜摊位，供客人挑选新鲜海产，选择丰富。黄金脆带鱼表皮炸得酥脆干香，鱼肉细腻，和家烧黄鱼、沙蒜烧豆面都是店内招牌，建议提前预定。个别菜式加入时令食材，以显不时不食的宗旨。餐酒单由专业品酒师设计，选择不俗且定价亲民，值得一试。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "明阁 (闵行)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ming-court-570629",
+      "telephone": "+86 21 5263 9618",
+      "description": "餐室以金色吊灯、旗袍女子壁画等装饰，重现十里洋场的老上海摩登风情，营造出优雅舒适的用餐环境。菜单涵蓋各式经典粤菜，更提供带有上海特色的点心。招牌菜蜜味黑豚叉烧肥瘦适中，入口即化。饭后不妨来一客葛仙米雪燕冻清梨，梨肉清甜细腻，丝丝缕缕的雪燕与爽滑的葛仙米互相交织，轻盈滋润。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "春",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chun",
+      "telephone": "+86 21 6256 0301",
+      "description": "餐厅早于1989年开业，后曾一度歇业，如今在原址重开，吸引不少老顾客再临。老板娘友善健谈，能提供最合适的推荐。她每天都亲自到市场采购食材，盼以最新鲜、合时的材料制作传统本帮菜。招牌菜田螺塞肉味浓多汁，坊间不常见。油爆虾则选用大个头河虾，原汁原味。若饭点到访宜提前订位，否则或要排队。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "晟永兴 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sheng-yong-xing",
+      "telephone": "+86 21 6330 2885",
+      "description": "作为此京菜馆在上海的第一家店，坐落地理位置优越的外滩五号，不仅可以欣赏璀璨江景，室内环境也十分浪漫舒适。招牌烤鸭以45天大的北京填鸭制作，上菜时更可查看其来源证明。鸭只经过枣木烧烤，皮酥肉嫩，肥而不腻，充满香气。设有由侍酒师管理的大型酒窖，酒单上更提供配酒指南，助客人选择合适餐酒。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "景煊",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sole",
+      "telephone": "+86 21 6268 2888",
+      "description": "由大厨卢怿明担任顾问，带领全是广东人的厨房团队。菜单选择丰富，涵盖传统粤菜以至潮汕美馔，除了点心、烧味、海鲜、炖汤和小炒，还有鸡子戈渣、炸酿鲜蟹盖等传统手工菜。蟛蜞膏带子饺的外皮晶莹剔透，蟛蜞膏金黄油润、鲜味浓郁，搭配带子和香菇碎，别具风味。菜式都是限量供应，建议预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "望庐 (浦东)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wang-lu",
+      "telephone": "+86 21 5888 3331",
+      "description": "装潢以中式风格融合时尚元素，用上景德镇手绘釉下彩青花瓷餐具，甚有特色。菜单精巧，处处尽显江西风情。招牌菜常寿甲鱼炖花胶酱汁鲜味，十分下饭。当这道菜上桌，服务员会解说菜式及朗读恭贺对联，仪式感十足。江西版南昌三杯鸡以猪油、米酒和酱油烹制，肉质紧实且带焦香，甚有水准。最后不要错过南昌白糖糕。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "中国菜"
+      ]
+    },
+    {
+      "name": "松涧",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-pine",
+      "telephone": "+86 177 6517 7375",
+      "description": "位于历史悠久的花园洋房内，外观优雅，内部放了许多艺术品，值得细细欣赏。供应数款套餐，主厨在传统欧洲烹饪的基础上，加入大量中餐元素，并广泛运用本地食材和中式调味。例如煎烤澳洲和牛配上中式的干烧牛筋作为酱汁，微辣解腻。用上东星斑的酸菜汤泡饭也不能错过。建议请侍酒师推荐配酒。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "柴门荟 (浦东)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/chaimen-hui-1205571",
+      "telephone": "+86 21 5883 7779",
+      "description": "设有巨大的环形吧台，加上灯光绚丽的穹顶，感觉时尚。厨师团队来自品牌的成都总店，贯彻以优质食材入馔，除了烹调经典川菜，亦注重为菜式加入创意。例如一道辣味藿香水蜂子，以肉质细嫩的蜂子鱼代替传统做法中的鳝鱼，入口鲜辣咸香。此外，椒烧东海海钓大黄鱼、担担面、松茸包和汤圆等也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "永 · 江臻",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-jiang-zhen",
+      "telephone": "+86 21 5496 0577",
+      "description": "餐厅位于四层楼的老洋房，装修风格复古，颇具老上海的情调。主打长江江鲜，若于立春、清明之间光临，便是刀鱼最为鲜美之际，不妨一尝红汁蒸鲜刀，用上酱油、糖和猪油调配的秘制红汁，口味鲜甜不油腻。也推荐白汁烧河豚，当中的白子、鱼肝烧得软糯入味。仅设独立包间，并配有茶室供客人餐前休息。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "永丰面馆 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-feng-mian-guan",
+      "telephone": "+86 21 3161 5653",
+      "description": "这家清真面馆历史悠久，早年曾关门歇业，如今择址重开，店面更加明亮宽敞。由老员工在店里坐镇，食物保持原有水准，服务亲切，不妨向他们询问推荐品项，或提出对面条软硬的要求。推荐红烧羊肉面，选用宁夏的羊前腿肉，肉质精瘦扎实，搭配咖喱牛肉汤，是老上海的味道。若选择拌面，建议加配溏心荷包蛋，滋味更佳。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "永兴",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-xing",
+      "telephone": "+86 21 6473 3780",
+      "description": "这店子隐藏于民居中一条细小的巷子里，不知就里的人容易错过。餐厅内墙壁贴上了红砖图案的墙纸，加上一道圆拱形的门，还有墙身的旧火炉，形成酷似地窖的环境，带着浓浓的怀旧味道。餐厅规模不大，供应的是传统上海菜肴，食物水准不俗，且价钱相宜，江东鲈鱼炖姜丝值得一试。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "沼田双",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/numata-sou-1215509",
+      "telephone": "+86 21 6366 7900",
+      "description": "大阪天妇罗名店沼田在海外的首家分店，店名中的“双”代表着不时亲临领航的主厨沼田和也，以及驻店掌舵的主厨坂田勇太。提供单一主厨发办套餐，包含各种季节海鲜和蔬菜，共逾20品菜肴。主食可选择天丼、天茶或天玉子，后者将蛋黄裹浆油炸，内里呈溏心状态，足见高超技巧。座位有限，需提前预约。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "天妇罗"
+      ]
+    },
+    {
+      "name": "泓0871",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hong-0871",
+      "telephone": "+86 21 5677 6898",
+      "description": "来自昆明的老板锐意推广云南美食，除了大量选用家乡食材，也在餐厅入口陈列着琳琅满目的云南时令蔬果和农家产品。酱肉破酥包的馅料以当地冬瓜猪制作，不论蒸制或油炸，同样美味可口。风干三年的诺邓火腿搭配洱源手撕乳扇亦十分出色。提供云南茶品配餐，另有使用当地水果调制的特色饮品，呈现新鲜天然的地道风味。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "滇菜"
+      ]
+    },
+    {
+      "name": "泰安门",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/taian-table",
+      "telephone": "+86 173 0160 5350",
+      "description": "始创于2016年，城中老饕对这家仅接受网上预约的餐厅都不会陌生。建议选择开放式厨房前的座位，既可感受热络气氛，还可欣赏到德籍主厨Stefan Stiller与团队的烹饪过程。两款套餐的菜式突破国界，既带有德国风味，也巧妙融入泡菜、咖喱等亚洲元素，口感和味道的层次丰富，叫人惊喜。酒单同样出色，包含多款德国佳酿。",
+      "michelin_award": "THREE_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "海味观 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hai-wei-guan",
+      "telephone": "+86 21 6256 9956",
+      "description": "楼高两层，室内装潢时尚舒适。以“传承不守旧，创新不忘本”为烹饪理念，提供新派上海菜式。招牌菜黑松露脆皮烤鸡采用丽江纳西族的手法，皮脆肉嫩，带着黑松露香气，须提前预订。茅台百草醉蟹将蒸熟的大闸蟹以陈年茅台腌制48小时，啖啖蟹黄，酒香浓郁。惹味虾松炒螺头镬气十足，搭配紫苏叶和脆米同吃，富有创意。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "渔哥 · 湛江 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-ge-zhan-jiang-jingan",
+      "telephone": "+86 139 1690 6148",
+      "description": "主营广东湛江菜，其中鸡肴有白切和脆皮两种，均选用湛江散养土鸡烹煮，其肉味浓郁，汁水充盈。另外，也推荐香煎白鲳鱼，虽只是简单香煎，但其面衣薄脆，鱼肉油润鲜甜，尽显厨师功力。菜单还有多款手工农家小点，例如口感软糯的田艾饼。营业至凌晨两点，是宵夜好去处，惟热门菜式限量供应。建议提前预留。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "渔都老味面 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yu-du-lao-wei-mian-huangpu",
+      "telephone": "+86 177 1780 1792",
+      "description": "这海鲜面馆源自舟山沈家门，老板的母亲擅长做面，现由老板承袭其手艺。店内的海鲜品种丰富，全都来自舟山，尤以黄鱼和带鱼为特色。私房酱烧黄鱼面风味浓郁，真材实料，亦推荐味道鲜甜的黄鱼春卷。在十月至十二月带鱼当季时，更限量供应金牌剔骨带鱼面，值得品尝。餐厅营业到凌晨，是宵夜的好去处。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "滇道 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/legend-taste-jingan",
+      "telephone": "+86 21 5228 9961",
+      "description": "餐室小巧，墙面以普洱茶砖和茶饼点缀，木桌铺上蓝色扎染布，装潢与菜单同样带民族色彩。这里供应简单却地道的傣族云南菜，推荐炖煮数小时的牛叭呼，选用云南小黄牛肉，肉质软嫩，搭配着牛肉汤同吃，一口暖到心窝。每逢菇菌季，餐厅会推出以鸡枞菌、牛肝菌等作主料的特色菜肴，可品尝到难得的时令鲜美。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "滇菜"
+      ]
+    },
+    {
+      "name": "甬府 (虹口)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu-hongkou",
+      "telephone": "+86 21 6686 7777",
+      "description": "餐厅位处高楼，装潢端庄华贵，大厅直面浦东景致，包间更拥有绝佳江景，开放式厨房则呈现出厨师烹调的过程。菜单主打宁波菜与创新融合菜，厨师特别注重海鲜品质，黄鱼、白蟹等每天从浙江东海直接引入。渔家白蟹骨酱、鲜虾籽炒蒲菜等，每一口都至鲜至美，十分推荐。黑芝麻汤圆皮薄馅浓，同样美味。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "甬府 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-fu",
+      "telephone": "+86 21 3356 6777",
+      "description": "为了煮出最传统地道的宁波囗味，餐厅一直选用当地食材，各种时令海产每天新鲜运抵。菜单上的传统菜式琳琅满目，芋乃羹为招牌之选，也有黄鱼鱼籽冻等手工菜。三月到五月期间，更有机会品尝来自宁海的蛏子。菜品分量可因应人数调节，十分贴心。最后不要错过香甜软糯的手工汤圆，为完美的一餐作结。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "甬府小鲜 (浦东新区)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfu-mini",
+      "telephone": "+86 21 5081 2795",
+      "description": "和甬府属同一集团，同样采用当天送抵的东海鲜货，但甬府小鲜走亲民路线，提供大众化的传统宁波菜。独有菜式包括咸米鱼生焗饭、火焰花雕鸡等皆十分出众。招牌十八斩则根据宁波咸蟹改良，佐以十八种酱汁，味道鲜美而肉质嫩滑，唯每年五至十月停售。餐厅不设订座，建议于开店前到场等候。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "白茸",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/bai-rong",
+      "telephone": "+86 21 5279 8975",
+      "description": "以山东省花牡丹的别称命名，在这里不但可享用山东村镇的特色菜肴，还品尝到由胶东直送上海的肥美海鲜。例如胶东四大拌通过不同调味呈现四种小海鲜的风味，值得一试。花胶临沂炒鸡仅取用最幼滑的鸡肉部位与花胶同烧，口感软嫩无比。餐厅装修时尚，摆放了大量花卉绿植，令用餐氛围显得自然生动。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "鲁菜"
+      ]
+    },
+    {
+      "name": "皇朝会",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/royal-china-club-506535",
+      "telephone": "+86 21 6333 2981",
+      "description": "这家高级粤菜厅由来自伦敦的皇朝集团开设，以供应鲍鱼、鱼肚等海味及海鲜等高级广东菜式为主。厨师注重选材用料，部分菜式用上独家从英国进口的食材，例如苏格兰龙虾。午膳时间可品尝各款自制广东点心。在传统节日，更有自制应节食品如粽子、月饼等出售。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "皖宴 (长宁)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/wan-yan",
+      "telephone": "+86 21 6209 5177",
+      "description": "餐室环境带有浓烈复古气息，陈列着来自世界各地的艺术品，墙壁由安徽古旧青砖组成，配合丝绒座椅，恍如置身于电影场景。厨师大量选用安徽食材：窖香臭鳜鱼以发酵一星期的桂鱼烹调，味道独特，值得一试；毛豆腐为经典徽菜，充满传统安徽滋味。以陈年卤水制作的徽味酱猪手，味道层次丰富，也值得一试。除了单点，亦可与餐厅沟通订制专属菜单。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "徽菜"
+      ]
+    },
+    {
+      "name": "福一零一五",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1015",
+      "telephone": "+86 21 5237 9778",
+      "description": "位于老洋房内，装潢怀旧优雅，让人有时光倒流的感觉。主打上海本帮菜，以套餐形式供应，共设传统经典和季节时令两个主题，部分菜式融入现代元素，充满惊喜。其中炒虾蟹选料新鲜，鲜甜嫩滑，十分出色。除了传统甜点，也有创新的豆浆冰淇淋配油条。设有十五个包间，须提早预订，若有忌口可提前告知店家。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "福一零三九",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1039",
+      "telephone": "+86 21 5237 1878",
+      "description": "这是福集团首家食府，位于1921年兴建的古宅之中。室内的古董摆设、灯饰、旧照片等洋溢着怀旧味道，亦设有面向花园的阳台座位及厢房。菜单中除了经典沪菜，也有不少手工菜肴。当中河鲜品质极高，尤其是河鳗和鳝鱼，提供各具风味的做法，值得一试。食物以外，贴心的服务也是客人再访之因。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "福一零八八",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-1088",
+      "telephone": "+86 21 5239 7878",
+      "description": "餐厅位于一幢建于上世纪二十年代的洋房，室内的怀旧瓷砖地台、精致雕花木墙、水晶灯和古董摆设都展现出老上海风情。厨师团队经验丰富，必不能错过采用青鱼鱼腩制作的上海熏鱼，外层酥脆而肉质鲜嫩，搭配微甜的酱汁，额外可口。现点现做的河虾仁、香气十足的腰果苔条酥，也十分有水准。晚饭时间设个人最低消费。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "福和慧",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/fu-he-hui",
+      "telephone": "+86 21 3980 9188",
+      "description": "福集团在愚园路上有多家餐厅，唯福和慧专门提供素菜。不论餐室装潢或菜式皆满载禅意。餐厅只供应套餐，每道菜都经过精心设计，厨师们搜罗全国各地时令食材，且按四时更替变换内容。菜单中包含不少传统功夫菜，如素菜版传统扣三丝，别有一番味道。不妨选配中国茶，轻啖素菜之余品味醇香茶饮。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "米泰",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mi-thai-an-fu-road",
+      "telephone": "+86 21 5403 9209",
+      "description": "登上两层木楼梯，穿过隐密的入口，便会到达这家装潢摩登而富个性的泰国餐厅。餐室分成两部分，一面因着开放式厨房而显得生气盎然；另一面以木制檐顶装饰，却是雅致舒适。厨房由泰籍厨师执掌，确保每道菜都味道正宗传统，且价格亲民。当中炸虾饼、黄咖喱海鲜和虾酱空心菜颇得食客口碑。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "泰国菜"
+      ]
+    },
+    {
+      "name": "粤海棠",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yue-hai-tang",
+      "telephone": "+86 21 5858 7977",
+      "description": "厨师长曾于上海著名粤菜餐厅工作，后来与共事多年的厨房团队创立此店，并邀得师傅任顾问，班底经验丰富。提供各式广东佳肴，包括时令菜及手工菜式，如龙虾金钱蟹盒等。其烧味十分出色，其中脆皮妙龄鸽皮脆肉嫩，多汁入味。餐厅更和葡萄酒商合作，提供近五百款餐酒。设多个独立包间，惟经常满座，宜提前订座并预订菜式。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "绿波廊",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-bo-lang",
+      "telephone": "+86 21 6328 0602",
+      "description": "邻近城隍庙和豫园等宝贵古迹，绿波廊位于九曲桥旁依水而建的明朝旧建筑内。经修缮后店面更具现代感，玲珑浮凸的银色金属天花配合绿色灯光，营造出波浪感觉，与园林建筑古今汇聚。各式地道传统上海点心美味依然，如萝卜丝饼、桂花拉糕、眉毛酥等全是招牌美食，价格相宜。更设多个包厢，适合家庭或商务聚餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "美 · 大董",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/gastro-esthetics-at-dadong",
+      "telephone": "+86 21 3253 2299",
+      "description": "室内装修以梵高“盛开的杏花”为主题，令人耳目一新。招牌烤鸭采用北京鸭种，食客可选择45天的填鸭或22天的小雏鸭，两者均皮脆肉嫩。厨师更会在席前将烤至焦糖色的烤鸭慢慢切片。此外，鲍鱼、海参等食材，都在此焕发不一样的风味，特别是葱烧海参，口感软糯，酱汁带浓郁葱香，不可错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "翡翠36",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jade-on-36",
+      "telephone": "+86 21 2828 6888",
+      "description": "顾名思义，翡翠36位于酒店的三十六楼，把绚丽的黄埔江景色尽收眼底。这家历史悠久的餐厅近年换上全新装潢，并由法国主厨掌勺，糅合传统法国菜、地中海风味与现代感，为客人提供精致的用餐体验。推荐以龙虾为主题的三道菜经典套餐。午市套餐非常超值，晚餐时段到访则可欣赏迷人夜景。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "老兴鲜 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-xing-xian",
+      "telephone": "+86 136 8165 3751",
+      "description": "店主在东海拥有自家渔船，捕获新鲜时令的海鲜，置于店内的海鲜展示区供客人挑选，并可搭配多种烹调方式。不妨试试清蒸东海油带鱼或小黄鱼，品尝最纯粹的海洋味道。老上海白烧鳝背采用苏北野生鳝鱼，以白烧手法保留鳝鱼爽脆的口感。提供部分经典粤菜，及设有大量包间，满足不同宴请需要。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "老地方面馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-di-fang-mian-guan",
+      "telephone": "+86 187 1792 2234",
+      "description": "三十年老店择址重开，继续是街坊品尝传统家常面食和小吃的“老地方”。现炒浇头的选择丰富，并随时令变化，是店内最大特色。推荐青咸菜目鱼面，有汤面和拌面选择，浅渍一夜的青咸菜与目鱼同炒，清脆鲜爽，配上带有韧度的面条，十分美味。建议搭配豆腐衣包肉或走油肉，更添风味。菜品现点现做，须耐心等待。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "老干杯 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/kanpai-classic-506687",
+      "telephone": "+86 21 6340 0767",
+      "description": "这家烤肉店由台湾干杯集团开设，供应不同部位的顶级澳大利亚和牛，还有各种肉品、海产及和风食物。所用和牛皆从本地牧场直送到店内熟成，确保素质，尤其推荐厚切横膈膜，柔韧多汁，肉香充盈，搭配柚子胡椒巧妙平衡了油腻感。餐室风格时尚，每张桌子均配备燃碳烧炉，店员会从旁协助，好让客人轻松品尝烤肉。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "烧烤"
+      ]
+    },
+    {
+      "name": "老正兴",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lao-zheng-xing-huangpu",
+      "telephone": "+86 21 6322 2624",
+      "description": "老正兴是上海历史最悠久的本帮菜馆，由1862年开业至今享誉海内外。作为不少经典名菜的起始之处，这里是探索正宗本帮菜的不二之选。糟溜黄鱼片鲜嫩如脂，芡汁结合糟香与酸香，恰到好处地衬托出鱼的鲜味。招牌油爆虾火候拿捏精准，小河虾外壳酥脆，虾肉鲜嫩弹牙，佐以本帮甜口酱汁，让人欲罢不能。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "聪菜馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/cong-s-kitchen",
+      "telephone": "+86 21 6333 5531",
+      "description": "年过七旬的老板因为对烹饪的热爱，退休后回到上海，开设了这家餐厅。主打上海佳肴，但菜式带有老板的个人风格，部分在外间不常见，例如以魔鬼鱼制作的熏鱼、配上姜醋汁伴吃的鱼肝酱等。招牌菜虾仁虾膏将河虾与虾膏同炒，鲜味十足。店内设多个包房，以中式家具搭配艺术画作，环境舒适雅致。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "艾利爵士",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sir-elly-s",
+      "telephone": "+86 21 2327 6756",
+      "description": "餐厅位处酒店顶层，坐享得天独厚的黄浦江美景，客人可从天台酒吧欣赏动人心魄的城市景色，视觉享受让进餐体验变得完满。意大利主厨游历世界各地，并将体验融入创作，使菜肴兼具意国传统风味与创新元素。以上海崇明乳鸽制作的“一鸽三吃”为主厨的得意之作，手工制作的意饺和意面选择多样，不容错过。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "茂隆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/mao-long",
+      "telephone": "+86 21 6256 1167",
+      "description": "餐室由民居改装而成，為家族式经营，只有二十个座位，繁忙时段要有拼桌的心理准备。由1989年开业至今，店东坚持不开分店，也不增加座位，希望保持最好的食物素质和传统味道。因此，在这里能够品尝地道的本帮家常菜。菜单上渔鲜水产菜式选择丰富、食材新鲜，特别推荐厨师引以为傲的红烧肉。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "荣家黄鱼面 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rongjia-noodle-soup-with-yellow-croaker",
+      "telephone": "+86 156 1870 6378",
+      "description": "用餐区墙上大大小小的黄鱼图案，正好点出餐厅特色：这家新荣记集团旗下的面食店，主打的黄鱼面采用东海黄鱼，每天新鲜熬制呈奶白色的鱼汤，鲜甜味美。手工面为每天现造，同时亦聘用潮汕师傅监控卤水的制作。除了黄鱼面、卤水狮头鹅和佐餐配菜，更有多款每天鲜制的点心，值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "荣小馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/rong-cuisine-huangpu",
+      "telephone": "+86 21 6206 6176",
+      "description": "荣小馆是新荣记旗下定位年轻客群的品牌，故即使货源相同，价格相对较大众化，并着重给予顾客更多空间。菜单以海鲜为主，厨师每天自东海引入大部分海鲜，并置于门外的鱼市场供客人挑选。海鲜仅以矿泉水和生抽烹煮，以家烧或红烧方式带出原汁原味。此外，浙江农家菜和台州卤味亦值得一试。订座仅限于包厢。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "荣府宴",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/the-house-of-rong",
+      "telephone": "+86 21 6289 1717",
+      "description": "位于贝轩大公馆，不但有江苏风格的亭台楼阁，室內更满是古董和已故建筑师贝聿铭的手绘作，处处透露着历史韵味。作为品牌的上海旗舰店，这里采用全包间形式，提供海鲜为主的客制化菜单。食材经精挑细选，讲究时令，每天由台州送抵店内。菜式风格多样，家烧黄鱼及各式海产菜式均有口皆碑，并供应丰富的酒品选择。",
+      "michelin_award": "TWO_STARS",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "莱美露滋",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/maison-lameloise-563686",
+      "telephone": "+86 21 6881 6789",
+      "description": "高踞商厦第六十八层，可在外滩美景的环抱下品尝美食。新任主厨曾在法籍厨师Éric Pras麾下工作，并作为开业团队在上海分店服务多年，菜品风格与法国总店一致。店家自制的面包品种多样，口感绝佳。部分菜式融合中国本土食材和法式经典烹饪，值得一试。酒单不乏勃艮第佳酿，不妨请侍酒师提供餐酒搭配。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "菁禧荟 (长宁)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/amazing-chinese-cuisine-changning",
+      "telephone": "+86 21 6262 5677",
+      "description": "位于独栋别墅内，仅提供包间，必须提前订座。主厨来自潮汕，部分食材从当地搜罗而来，以呈现地道滋味。菜单选项多达200道，式式俱备，包括采用三年狮头鹅制作的卤水老鹅头，以及鲜甜多膏的潮式冻花蟹。鸡油菌香浓烧花胶以海味干货熬煮逾五小时，加上时令的鸡油菌慢煨入味，胶质浓醇，也是出色之作。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "言盐",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/stonesal",
+      "telephone": "+86 21 5465 1765",
+      "description": "餐室一角的干式熟成柜格外抢眼，以喜马拉雅盐砖为背景墙，色彩亮丽。菜单包罗澳洲 Rangers Valley 不同等级的牛排、新西兰 Ocean Beef 的肉眼、Mayura Station农场的签名级纯血和牛战斧，还有以澳洲纯血和牛制作、经10至12个月熟成的独家牛肉火腿。味道香浓的辣牛肉蔬菜汤值得一试，也可向服务员查询菜单外的精选菜式。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "豪生酒家",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/hao-sheng",
+      "telephone": "+86 139 0182 3035",
+      "description": "小店装潢朴实，开业近三十年，凭借上海家常好菜，以及友善亲切的服务，掳获一众老顾客的心。菜式根据季节变化，包括醉鸡、白切猪肝、炒河虾仁等，食材新鲜且做法传统。醉鸡尤其出色，滑嫩多汁，鸡油丰富，黄酒香气令人陶醉。店家根据客人的喜好、预算和人数来安排菜单，必须提前预定。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "逸道 (北京东路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/tea-culture-east-beijing-road",
+      "telephone": "+86 21 6333 0383",
+      "description": "餐厅以茶道配合淮扬菜，设有专业泡茶师，以天然泉水为客人冲泡优质茶饮，茶类选择非常丰富。菜单方面，亦有网罗浙江菜和粤菜，选择多元化。除了招牌鱼头佛跳墙值得一试，以药材炮制的淮扬老卤盐水乳鸽，也十分出色。另外，年糕烧黄鱼取一斤多的大黄鱼加入秘制酱汁烹调，鱼肉鲜嫩，惹味好吃。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "逸采 (静安)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/easeful-cuisine",
+      "telephone": "+86 21 6417 2966",
+      "description": "餐厅主营江浙私房菜。老板兼主厨经验丰富，从浙江一带购入海鲜，以返朴归真的烹饪手法，彰显食材原味，炮制出家常的地道风味。其中以鳕鱼制作的爆汁无刺熏鱼现点现炸，皮脆肉嫩，口感细腻，是其中一道招牌菜。红糖核桃年糕为手工制作，外焦内软，不妨点选作为饭后甜点。用餐环境舒适，设有六个包厢，可供提前预订。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "逸龙阁",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yi-long-court",
+      "telephone": "+86 21 2327 6742",
+      "description": "装潢融合典雅、细致与奢华，呈现1930年代上海菜馆风华。厨房团队坚持采用传统烹调技巧，制作出口味正宗的广东佳肴。菜单包括海鲜、广式烧味、时令老火汤等，每道菜式都显见厨师功架。午市提供样式丰富的点心，并设单人套餐。其中珍珠咸水角外皮软糯香甜，配以香菇猪肉制成的内馅，滋味一流。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "遇外滩 (中山东二路)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/meet-the-bund",
+      "telephone": "+86 21 6377 7668",
+      "description": "口味正宗，不仅厨师团队全为福建人，菜单亦以福建话作分类，充满特色。招牌菜盐酒干蒸闽西河田鸡，使用龙岩河田镇的名鸡烹调而成，肉质新鲜带嚼劲。此外，也建议预订原汁滴露鸭，遵循福建传统烹饪技法，炖煮过程不下一滴水，烩成的鸭汤鲜味十足。茶单由侍茶师设计，尤以福建茶叶为特色，值得尝试。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "金轩",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/jin-xuan",
+      "telephone": "+86 21 2020 1717",
+      "description": "位于浦东丽思卡尔顿五十三楼，邻近东方明珠塔，无论身处餐厅任何角落，皆可俯瞰黄浦江的迷人景致。菜单罗列多款粤菜及点心，当中不乏名贵用料，如澳大利亚冰川犬牙鱼、新西兰龙虾等进口食材。包含三款不同口味的点心拼盘，精致可口，值得尝试。葡萄酒单选择丰富，同时提供杯装佳酿，适合搭配各式美食。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "闽和南欢席",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/min-he-nan-huan-xi",
+      "telephone": "+86 21 5788 1881",
+      "description": "“欢席”的闽南语发音近似“欢喜”，有喜庆圆满之意。厨师团队多来自福建，由当地直送食材，确保菜式原汁原味。招牌白萝卜饭用五常大米、土猪肉、骨汤、萝卜和干海货一起熬煮，清甜鲜香。欢席肠灌肠是传统手工菜肴，将洗净的小肠层层套叠，达到软中带韧的口感。茶单包含不少福建名茶，建议来一壶醇厚的老白茶。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "阿娘面馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/a-niang-mian-guan",
+      "telephone": "+86 21 5306 6604",
+      "description": "店子外表平实无华，繁忙时段却常见长长的人龙在店外等候，明显食客都是冲着食物而来。这里提供十多款地道面食和数款浇头，其中黄鱼面和爆鳝面最为知名，伴以咸菜肉丝或素鸡等浇头，便能大快朵颐。小店采用半自助形式，顾客需先在门口柜台点餐付费，然后找个位子坐下，服务员便会将餐点奉上。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "随堂里",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/sui-tang-li",
+      "telephone": "+86 21 3216 8068",
+      "description": "餐室设计富现代感，被落地玻璃环抱，采亮度充足。菜单包含各式各样的食材及烹调方法，在地方菜上添加创意，如加入西班牙火腿粒及红菜头汁的小笼包，颜色新颖且富鲜味。塔吉锅焗椒麻云南小刀鸭选用肉质细嫩的鸭种，椒麻味夹杂着蒜香，搭配自制的鸭肉饺子，风味独特。酒单经过精心设计，不妨细阅。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "雍福会",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yongfoo-elite",
+      "telephone": "+86 21 5466 2727",
+      "description": "这栋古迹建于1930年，曾是外国领事馆，后改建为餐厅，空间独具一格。餐厅专注于精致上海菜，不少菜肴是从古法本帮菜复刻而来。季节性的蟹粉菜式选用当日手工现拆的蟹粉，鲜美无比。此外，也提供小笼包、生煎包和葱油拌面等地道美食。酒单经精心设计，加上专业的服务，让用餐体验更圆满。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "沪菜"
+      ]
+    },
+    {
+      "name": "雍颐庭",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/yong-yi-ting",
+      "telephone": "+86 21 2082 9978",
+      "description": "室内饰有以苏州园林为灵感的花窗和水墨纱帐，配合悠悠扬扬的古筝琴音，让人仿佛走进江南水乡。提供经典江浙美食，并会随季节推出新菜。午市供应千岛湖米果、四喜饺等江南特色点心。招牌菜杭州翡翠斩鱼圆以千岛湖鱼头拆肉制作，细滑软嫩，搭配云南蜜豆，美如翡翠中的白玉，每天限量供应，建议提前预留。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "顶特勒粥面馆",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/ding-te-le-zhou-mian-guan",
+      "telephone": "+86 21 6339 1259",
+      "description": "这家粥面馆藏身于淮海路雁荡路对面的一条弄堂里，简朴的店面与一般上海弄堂食店大相迳庭，不甚显眼，走近店门，粥、面、饭和小食的香气却扑鼻而来。店子所售的地道面食甚受欢迎，葱油肉丝面、雪菜黄鱼煨面和香炸大排更是热卖之选。店家廿四小时营业，食客可到阁楼的小餐室享用。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "粥面"
+      ]
+    },
+    {
+      "name": "食光",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/scarpetta",
+      "telephone": "+86 21 3376 8223",
+      "description": "Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人舔嘴咂舌之意。餐室占地两层，于2018年重新装潢，新环境带有温暖浪漫的氛围，适合情侣用餐。招牌菜包括铺满黑松露的和牛生牛肉薄片、风味獨特的蛤蜊披萨，以及煎冰岛比目鱼，自家制的披萨及意粉更是不容错过。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "食川非川 (徐汇)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/shi-chuan-fei-chuan-xuhui",
+      "telephone": "+86 21 5888 8637",
+      "description": "顾名思义，这家店提供非传统的川菜，并融入世界各地的优质食材，加上精致的摆盘，别具一格。招牌菜酸萝卜老鸭猪肚汤以自制酸萝卜熬煮，浓郁鲜香，生津开胃。手工包制的酱肉包，面皮蓬松，内馅结合猪肉末和红油，鲜辣爽口。必点的红糖冰粉同样是手工制作，晶莹剔透，还可自选配料，清凉解辣。店内桌数不多，宜提前订座。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "香料与鹅肝",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/epices-foie-gras",
+      "telephone": "+86 150 2157 7519",
+      "description": "位处南京东路附近相对较为宁静的地段，穿过小小的入口，便是这家空间不大、设计时尚而不落俗套、感觉舒适轻松的法国小酒馆。由一对法裔夫妇经营，餐厅名称点出了店内招牌菜。主厨以多种不同烹调方式处理鹅肝，欲一次品尝多种滋味，可点选鹅肝三部曲；开心果百里煎羊排也值得一试。午市则提供经济实惠的套餐。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "馨源楼",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/xin-yuan-lou",
+      "telephone": "+86 21 6472 5222",
+      "description": "坐落于瑞金洲际酒店主楼旁的一幢三层红砖西式洋楼中，划为茶室、客厅、酒吧和多个独立包厢，四周布满中式艺术品、火炉、古典风格的吊灯及家具，洋溢着浓浓的老上海风情。菜单以粤菜为主，还有少量本帮菜，不妨试试广式叉烧、烧鹅、盐焗鸡和卤水，或预定按季节推出的时令菜式，例如秋季的菌菇菜肴。",
+      "michelin_award": "Selected",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "鲁采 (黄浦)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/lu-style-1203592",
+      "telephone": "+86 21 5309 9977",
+      "description": "厨房团队大多来自山东，深谙当地食材特性，并按季节调整菜式口味。来自胶东的优质渔获每天新鲜送抵，其中以威海活参制作的葱烧海参配乌米菌，酱香与葱香互相交织，层次分明，是这里的招牌菜。渤海湾大虾烧白菜以虾头熬煮汤汁，其鲜美结合白菜的清甜；冷盘胶东四大拌的调味清爽开胃，也不容错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "鲁菜"
+      ]
+    },
+    {
+      "name": "鹿园 (浦东新区)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-pudong",
+      "telephone": "+86 21 5877 5707",
+      "description": "位于大型购物中心内，路线较大众化，除了各式淮扬菜式，亦有少量川辣食品选择。多款手工菜式值得品尝，如金牌扣肉和手剥凤尾河虾仁。前者将肥瘦适中的猪肉堆叠成塔，搭配炆煮入味的笋干，教人回味。菜单中不乏时令菜式和海鲜，由厨师团队建议的做法烹调，可提前与服务员沟通。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "鹿园 (长宁)",
+      "url": "https://guide.michelin.com/en/shanghai-municipality/shanghai/restaurant/moose-changning",
+      "telephone": "+86 21 6205 5058",
+      "description": "坐落于百岁洋房中，设有主餐室、包厢和宴会场地。装潢采用欧洲风格，配以古董家具和油画，环境舒适高雅。菜单以北京烤鸭和本帮江浙菜为卖点，同时设季节性菜单。狮子头为招牌菜之一，厨师会根据时令变化，按季提供鮰鱼燕窝狮子头或汤炖蟹粉狮子头等版本。红汤拆烩大鱼头等手工淮扬菜须提前预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "region": "Shanghai Municipality",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city_count": 12,
+  "restaurant_count": 661,
+  "cities": [
+    {
+      "city": "Beijing",
+      "city_slug": "beijing",
+      "restaurant_count": 98,
+      "file": "download/michelin_china_beijing_restaurants.json"
+    },
+    {
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "restaurant_count": 76,
+      "file": "download/michelin_china_chengdu_restaurants.json"
+    },
+    {
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "restaurant_count": 31,
+      "file": "download/michelin_china_fuzhou_1026814_restaurants.json"
+    },
+    {
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "restaurant_count": 105,
+      "file": "download/michelin_china_guangzhou_restaurants.json"
+    },
+    {
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "restaurant_count": 76,
+      "file": "download/michelin_china_hangzhou_1027184_restaurants.json"
+    },
+    {
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "restaurant_count": 31,
+      "file": "download/michelin_china_nanjing_1029511_restaurants.json"
+    },
+    {
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "restaurant_count": 5,
+      "file": "download/michelin_china_ningde_restaurants.json"
+    },
+    {
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "restaurant_count": 18,
+      "file": "download/michelin_china_quanzhou_1030272_restaurants.json"
+    },
+    {
+      "city": "Shanghai",
+      "city_slug": "shanghai",
+      "restaurant_count": 137,
+      "file": "download/michelin_china_shanghai_restaurants.json"
+    },
+    {
+      "city": "Suzhou",
+      "city_slug": "suzhou_1031079",
+      "restaurant_count": 29,
+      "file": "download/michelin_china_suzhou_1031079_restaurants.json"
+    },
+    {
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "restaurant_count": 42,
+      "file": "download/michelin_china_xiamen_1031934_restaurants.json"
+    },
+    {
+      "city": "Yangzhou",
+      "city_slug": "yangzhou_1032329",
+      "restaurant_count": 13,
+      "file": "download/michelin_china_yangzhou_1032329_restaurants.json"
+    }
+  ]
+}

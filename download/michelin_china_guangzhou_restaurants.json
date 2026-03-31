@@ -1,0 +1,1585 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Guangzhou",
+  "city_slug": "guangzhou",
+  "restaurant_count": 105,
+  "restaurants": [
+    {
+      "name": "Chōwa",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chowa",
+      "telephone": "+86 199 2841 9546",
+      "description": "香港主厨本习西餐，因缘际会对日本料理产生兴趣，从而发展出日法烹调风格。午市和晚市的菜单相同，大量使用自制发酵食品。汤种布里欧修面包是招牌之一，将法餐经典面包以日式汤种制作，绵密中带着韧劲。建议搭配葡萄酒、清酒，或是餐厅自酿的梅酒。选择面向开放式厨房的座位，厨师会到席间讲解菜式。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "Emmelyn",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/emmelyn",
+      "telephone": "+86 188 1184 8277",
+      "description": "由经验丰富的厨师长主理，于法式基础中加入现代元素。菜式注重细节，除了选用法国生蚝、西班牙伊比利亚火腿等世界顶级食材，更自制餐后享用的巧克力，且自行培养制作酸面包的天然酵母。设有配酒服务，由侍酒师详尽讲解酒单。午市供应商务套餐，晚市则提供品鉴菜单，另注意餐厅有着装要求。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "七寸飝 × 大头辉",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taste-soar-%C3%97-da-tou-hui",
+      "telephone": "+86 20 3809 8816",
+      "description": "由两个本地品牌共同创立，汤品是其特色之一，汤底以猪腱肉炖煮逾四小时，肉香浓郁，餐厅也可根据客人要求订制汤品。海鲜菜式大多未列在菜单上，不妨向店员查询当日鲜货。推荐子姜蒸鱼嘴，新鲜大鱼头配上秘制甜面豉酱和子姜，不减鲜味之余，同时带来独特的酸甜层次。脆皮大肠红亮酥脆，也值得品尝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "丽轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lai-heen-559155",
+      "telephone": "+86 20 3813 6688",
+      "description": "<span><span><span>室内装潢富东方韵味，伴有古筝演奏，气氛典雅。主厨经验丰富，以新鲜用料炮制出传统与创意兼具的精致粤菜，在色、香、味、口感等多方面达到平衡。招牌清汤崩砂牛腩丰腴适口，牛腩在牛骨汤底炖煮至软嫩入味，与白萝卜的清甜互相辉映。也建议预订以葵花籽饲养的私房珍味葵花鸡，以及香茅脆皮妙龄鸽。</span></span></span>",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "二沙壹号",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/er-sha-no-1",
+      "telephone": "+86 20 3788 9388",
+      "description": "位于二沙岛的标志性建筑内，临江景色优美，可预约卡座或露台景观座位。餐厅菜式依循岭南养生文化研发，食材以海珍为主，并大多空运进口。午市大厅提供选择多样、价格合理的粤式点心。炭烧樱花猪腩外皮金黄酥香，肥肉油润，瘦肉软嫩，口感交叠让人欲罢不能。骨胶原东海黄鱼冻及蒜香脆皮鸡也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "佰鲜汇",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/catch-1195861",
+      "telephone": "+86 20 8883 3300",
+      "description": "高踞四季酒店100楼，能饱览广州塔和珠江两岸的迷人景色，室内设计以星空为灵感，气氛浪漫，建议预订景观最佳的沙发位置。餐厅在平日仅于晚市营业，提供单点菜单、品尝套餐和季节菜单。当中，炉烤红魔虾配甜椒甲壳奶油酱汁叫人回味，也有海鲜拼盘和战斧牛排等适合分享的菜肴。周末设有早午餐选择。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "信记海鲜饭店",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-ji",
+      "telephone": "+86 20 8332 0833",
+      "description": "餐馆于80年代初开业，至今仍沿用岭南风格的彩色窗花等经典装潢。提供传统粤菜，招牌菜红烧白鳗不容错过：鳗鱼肥美弹牙，与脆皮烧肉一同烹煮，口感丰富；即叫即煮的黄鳝饭制作需时，但鳝鱼肥厚而入口细嫩，配上混有特制豉油的丝苗米饭，叫人回味，值得等待。店铺入口较隐蔽，紧记留意街边的大招牌。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "兰亭永",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong",
+      "telephone": "+86 181 2798 9805",
+      "description": "位处经过改造的历史建筑内，主理人以家传的珍贵古瓷器装饰空间，彰显气派。提供多款套餐，驻店主厨跟随兰桂均师傅多年，秉承其传统手艺，以本地新鲜食材呈现川菜的不同味型，其中的银制六味食盒精巧细致，令人难忘。此外，鱼子酱虾冻膏挞鲜甜味美，与手工制作的金丝面同样不能错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "创发",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chuang-fa",
+      "telephone": "+86 20 8188 1915",
+      "description": "餐厅二十多年前从茶餐厅转型为粤菜餐厅，一直凭传统而价格相宜的家常菜式深受街坊欢迎。招牌菜真味白切鸡设价格较高的顺义走地鸡可供选择，皮爽肉厚值得一试。各款滋补炖汤及紫苏爆大肠也十分受欢迎；喜好海鲜的话店内亦有提供新鲜海产。餐厅楼高两层，二楼设厢房，但经常座无虚席，建议订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "利苑 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lei-garden-yuexiu",
+      "telephone": "+86 20 8363 3268",
+      "description": "装潢走传统风格，吊灯映衬着缀有刺绣图案的墙身，盛载海产的鱼缸更是点睛之作。食物秉持集团特色，供应传统粤菜。其中以黑醋调味的珊瑚海蜇头酸味柔和，清爽开胃。西施杏仁茶配山西枣皇糕甜香自然，搭配相得益彰。冰烧三层肉及各式汤品引得食客慕名而至，若想尽享招牌菜，建议于订座时预留。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "勉记炖品皇 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mian-ji-yuexiu",
+      "telephone": "+86 137 6080 8158",
+      "description": "于1985年开业，其后搬到现址，店内装潢古朴，座位不多，或须与其他客人拼桌。提供约20款炖汤，并按功效分为润肺化痰、清热祛湿、温补平补等类别。原只椰子炖汤是其招牌，有数款搭配选择，当中，乌鸡炖老椰子清香扑鼻、汤头鲜甜。同时供应多款蒸饭，同样用料十足。梅菜肉饼饭肉质嫩滑多汁，十分可口。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "北园",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/beiyuan-cuisine",
+      "telephone": "+86 20 8356 3365",
+      "description": "北园酒家屹立九十多年，园林景色犹如世外桃园，配上红灯笼、石狮子与斑烂的满洲窗，古意盎然亦甚有气派，其建筑已列为广州市文物保护单位。提供各式粤菜，包括选用清远鸡烹制的花雕鸡，以及砂锅郊外水库鱼头等招牌菜。早午市供应传统广式点心，款式多样，尤其推荐蜜汁叉烧酥和怀旧棉花鸡。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "半岛名轩 (天河北路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/famous-cuisine",
+      "telephone": "+86 20 8755 5928",
+      "description": "餐厅开业十余年，创办人经验老到，从细心安排的菜单可见一斑：既为客人提供传统菜式，也具备多款创新及海鲜佳肴。此外，集团的每家店特设不同的主厨拿手菜菜单，以切合不同顾客之口味。这里的豉油鸡以罗汉果代替砂糖，让甘香滋味升华，值得一试。乳鸽等烧味很受欢迎，务必预订。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "华哥私厨",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hua-ge-si-chu",
+      "telephone": "+86 20 8187 9777",
+      "description": "由经验丰富的粤菜老师傅掌勺，菜单中包括不少价格实惠的客家菜。招牌古法盐焗鸡和华哥金牌醉琼鸡均选用新鲜清远鸡，前者皮爽肉滑，后者外皮金黄，带着细腻的肉汁，香气扑鼻而来，搭配葱姜及沙姜享用，又另有风味。于冬季到访，建议品尝加入自制腊肉的萝卜丸。手作咸酸口味调和得宜，不妨外带当作伴手礼。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "南园酒家",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/nan-yuan",
+      "telephone": "+86 20 8444 8380",
+      "description": "南园是本地老字号的大型园林酒家，斑斓的满洲窗配上亭台楼阁和小桥流水，尽显岭南传统建筑特色。菜单以粤菜为主，也有供应潮州、四川等各地菜式，选择丰富。骨香斑鱼卷可品尝青斑的两种风味：清蒸鱼片卷入口鲜嫩，油炸鱼骨以椒盐调味，十分香口，是招牌菜之一。餐厅内的房间分设等级，可向前台服务员查询。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "同福·尚品轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tung-fook-superior-cuisine",
+      "telephone": "+86 133 8001 8223",
+      "description": "装潢风格现代简约，以玻璃和金属线条勾勒门面，格外显眼。主打粤菜，除了常规菜单，也会把当日推介海鲜和推荐菜式写在黑板上。其海鲜多是野生捕获，做法多样，不妨请店家作出推荐。海鲜以外，酸菜煮吊龙充满风味，切成薄片的吊龙以酸汤浸熟，口感软嫩带弹性。豉味焗猪鼻筋焦香四溢，是下酒好菜。营业至凌晨，是宵夜好去处。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "同记鸡粥粉面",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tong-ji",
+      "telephone": "+86 20 8186 7395",
+      "description": "这家逾三十年的老字号藏身于窄巷中，卖的是以鲜鸡所制的菜式。选用的全是新鲜本地鸡项，由于未下蛋的母鸡皮肤细嫩，肉质味道相对俱佳，使得白切鸡嫩滑可口，鲜味浓郁。滑鸡粥粥底绵滑，盛载传统滋味，是招牌菜之一。此外，干炒牛河镬气十足，味道恰到好处。点餐方式十分怀旧，客人需手持竹牌等待食物送抵。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粥面"
+      ]
+    },
+    {
+      "name": "向群 (龙津东路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiang-qun-longjin-east-road",
+      "telephone": "+86 20 8188 5146",
+      "description": "<span><span><span>开业逾三十年，外观实而不华，虽有众多分店，但此店保留了最初的营运模式，呈现老广州的怀旧氛围。供应传统粤式小菜，以清远鸡制作的白切鸡及葱油鸡最为有名。豉油碌鹅、台山黄鳝饭等招牌菜也值得一试。四季豆炒鳝柳镬气十足，豆的清甜与鳝柳的紧致口感相得益彰。也可向店员查询菜单外的海鲜菜式。</span></span></span>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "周门",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhou-men",
+      "telephone": "+86 135 9063 8612",
+      "description": "这面店装潢简朴，设有一间以玻璃间隔的制面房，让客人能够观赏用竹竿制面的传统工艺。手工面条采用鸭蛋制作，十分爽弹。提供鲜肉云吞面、牛腩面、虾籽捞面和猪手面等多种选择，全都价格相宜。虾籽捞面的虾籽分量十足，香气四溢，建议搭配鲜肉云吞一起享用，味道更佳。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "味食家",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wei-shi-jia",
+      "telephone": "+86 20 8373 8144",
+      "description": "市师鸡被誉为广州十大名鸡，而这家小店正是以正宗市师鸡闻名。店家采用清远鸡制作此道坊间少见的美食，鸡皮爽脆，搭配秘制的蚬蚧酱、豉油和姜蓉酱，味道鲜美而富层次。店家每天早上更会用即磨米浆制作捞粉，其米香浓郁，呈现纯粹的老滋味。繁忙时段轮侯时间长，建议提早前往或提前订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "和苑 (天河)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/he-yuan-tianhe",
+      "telephone": "+86 20 8306 3668",
+      "description": "<span><span><span><span>和苑扎根广州多年，一直以精挑细选的新鲜食材烹调出味道得宜的广东菜。其中鲍鱼为主打菜式，有日本、南非、中东干鲍、澳大利亚网鲍等，应有尽有；点心全为现做，而传统粤菜如鲍汁炆柚皮等更能突显厨师的烹调技巧。餐厅更特聘四川师傅主理四川菜式。店内富丽堂皇，且设有多个包厢，是筹办宴席的绝佳场所。</span></span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "咏作",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yong-zuo-baoye-north-street",
+      "telephone": "+86 155 2143 8566",
+      "description": "搬迁后店面更宽敞，依旧以潮汕风格的鱼粥和粿条为主打。煮粥的高汤醇厚香浓，是店家以大骨熬煮，粥底米粒饱满分明，搭配各种海鱼、干货，非常鲜美。粿条来自桐坑，细滑柔软同时带有米香。此外，建议试试其潮汕小吃，例如由老板父亲制作的粿肉，肉香扑鼻，用料讲究。设有海鲜池，不妨向老板询问当日推荐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粥品"
+      ]
+    },
+    {
+      "name": "啫八 (海珠)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ze-8",
+      "telephone": "+86 20 3438 2088",
+      "description": "餐室设计带宋代酒肆风格，在半开放式的厨房内，煲仔滋滋作响，香气飘散。提供超过二十款啫啫煲，备有多款秘制酱汁，更于广西订制底部接触面大的煲具，避免烧焦。招牌菜生啫黄鳝不容错过，以猛火烹制的新鲜鳝段，肉质紧实，滋味馥郁。另有地道的广式原盅炖汤，以及店家自制的姜撞奶冰淇淋等甜品。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "嘛嘛档",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/mamak",
+      "telephone": "+86 185 6549 7021",
+      "description": "<span><span><span>店名意指大马传统特有的路边大排档，室内的黄色主调加上马来西亚国旗，充满特色。主要供应大马美食，每道菜肴均由老板亲自准备，仅此一家。招牌椰浆饭以浓郁的椰浆蒸煮，搭配皮脆肉嫩的炸鸡腿和自制参巴酱，丰富好吃。叻沙汤海鲜米粉同样美味。别忘了点选三色奶茶和手拉奶茶，一尝地道马来西亚风味。</span></span></span><br>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "马来西亚菜"
+      ]
+    },
+    {
+      "name": "四季小馆·润",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/four-seasons-pavilion-duck-yuexiu",
+      "telephone": "+86 20 8352 1891",
+      "description": "<span><span><span>餐室经重新装潢后，布置上融入了京剧、大红门等北京元素，与菜单上的京菜相映成趣。招牌菜酥不腻片皮鸭以不打气方式制作，油香十足，皮脆肉嫩，食客更可以一睹厨师片鸭的刀工手艺。菜式种类多元，除了经典北京菜，还有融合广东风味的创新菜肴。备有不少独立包间，适合商务宴请。</span></span></span><br>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "国藩家宴",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/guo-fan-jia-yan",
+      "telephone": "+86 153 6086 2761",
+      "description": "餐厅以曾国藩为主题，店内不但饰有其书法与诗词作品，甚至以其生平事迹命名包厢。提供传统湖湘美食，由来自湖南的厨师团队掌勺。菜式分量十足，食材大多由湖南农村新鲜运至，口味正宗。来自湖南汉寿县的甲鱼为招牌菜，不论以清汤泡煮还是以黄炆手法料理均味鲜可口，建议提前预订。此外，双峰扣肉也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "坚记 (荔湾)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jian-ji",
+      "telephone": "+86 20 8188 8486",
+      "description": "开业逾半世纪的坚记，是广州其中一家硕果仅存自制伊面的面店，从打面、煮面至炸面，由三位师傅合作完成。煮面的时间掌控得恰到好处，面条富有弹性，带着淡淡的鸡蛋香，加上鲮鱼、猪骨、虾子、虾皮等熬成的汤底，美味可口。另有生蛋面选择，可搭配牛腩、猪手、猪肠、炸酱等浇头。早餐时段也供应老火粥及濑粉。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "夏宫",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/summer-palace-559242",
+      "telephone": "+86 20 8917 6428",
+      "description": "主厨凭借精准的厨艺触觉，与团队一起精研传统粤菜，必试菜式包括不少人慕名而至的烧味，如肉质松软且肉汁丰富的叉烧、烤至色泽乌亮的片皮鸭等。午市供应的点心选择丰富，除了苹果酱叉烧酥，经主厨改良的金沙红米肠也值得一試。餐室以红、金色为主调，同时有园境相伴，为用餐体验画上神来之笔。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "大洋家",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dai-yong-town",
+      "telephone": "+86 20 8526 6206",
+      "description": "<span><span><span>装潢朴素，墙上的潮汕地图和灯箱设计，既点出餐厅供应的菜式，也增添了艺术气息。提供各式潮汕生腌海产、卤水和潮式小炒，主要采用当地的食材海货，以呈现地道风味。推荐酒味香浓的生腌膏蟹，半凝固状的蟹膏十分鲜美，另奉上姜茶驱寒。砂锅粥即叫即制，可选择米饭的软硬程度；潮汕冻鱼须预订。</span></span></span><br>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "大鸽饭 (棠下涌西路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/da-ge-fan-tangxiayong-west-road",
+      "telephone": "+86 20 8520 5090",
+      "description": "<span><span><span>作为集团的旗舰店，设有小桥流水等装饰，占地甚广。招牌菜大鸽饭以老鸽和鲜筒骨熬汤煮饭，饭粒油润分明，还附带酥脆的饭焦；且可选鸽肉和鸽胗双拼，前者嫩滑，后者脆韧。店家只选用生长期廿二天的乳鸽，每天从农场新鲜屠宰运到。特别推荐盐焗鸽和红烧鸽。其他菜式如脆青瓜炒海鱿鱼也不妨一试，青瓜的清新与鱿鱼的鲜味相得益彰。</span></span></span><br>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "天水",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tian-shui-yuexiu",
+      "telephone": "+86 180 2800 7776",
+      "description": "餐厅秉持不时不食的理念，坚持选用时令食材，通过蔬食体现季节变更。全日供应的“二十四节气套餐”，大量运用本土食材制作，内容每月更新，充分呈现食材的独特味道。菜式摆盘赏心悦目，服务员上菜时会简单介绍每道美食。装修风格质朴素雅，使用原木和土砖，色调统一，让东方意境在空间中流转。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "头家夜粥",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-gie-mie-zhou",
+      "telephone": "+86 189 9836 2888",
+      "description": "老板和厨师都是潮州人，向客人提供地道美味的家乡菜，包括卤水、生腌、煲仔、小炒和打冷等，也不妨留意黑板上的当日精选菜式。推荐卤水三拼，可自选喜欢的品项，当中以软腍的四点金和爽脆的猪耳最为出色。也不要错过九节虾、虾菇等每天现做的生腌海产。餐厅座位不多，设适合聚餐的大小包房，建议提前订座。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "宋",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song",
+      "telephone": "+86 20 8741 2345",
+      "description": "数以十万块不锈钢砖和琉璃羽毛筑成流线型幕墙，加上镜面天花延伸空间，独特格调叫人惊艳。这里的传统川菜由四川师傅主理，招牌菜包括香辣蟹、开水白菜、沸腾老虎斑等，后者选用深海老虎斑配上多种四川辣椒烹制，麻辣鲜香。也提供手工制作的四川街头小吃，如蛋烘糕、钟水饺等。菜单也有其他菜系的特色菜品，果木烤鸭值得预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "宏图府",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hongtu-hall",
+      "telephone": "+86 20 8188 6968",
+      "description": "餐室寛敞，墙身缀以唐朝侍女图，更坐拥江畔美景，充满气派。兼备传统及创意点心，以及粥品、烧味等美食。菜式卖相精致，鲜虾干蒸烧卖和羊城鲜虾饺均值得一试。茶类选择多样，并有专人在场为食客泡茶。仅接受酒店房客订座，其他顾客可提前到店取筹号。由于餐厅不时会作宴会厅之用，建议先致电查询。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "家源素食",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jia-yuan",
+      "telephone": "+86 135 4341 5131",
+      "description": "隐身于旧城区，设计简洁，带中式宁谧气氛。餐厅希望通过蔬食料理，宣扬健康饮食及养生概念，菜式以豆制品、菇菌为主，不含蛋奶及葱蒜。采用传统中式烹饪手法为基础，例如把猴头菇炸香再配上酸甜汁，制作成酸甜咕噜。艾香水饺、植物酸奶等均由店家亲自制作，味道出色。若计划于斋期到访，建议先行预约。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "容意发牛杂店 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/rong-yi-fa-niu-za-dian-shishu-road",
+      "telephone": "+86 20 8187 1630",
+      "description": "小店经营超过四十年，从早年的小铁棚发展到固定店面，老板一直使用新鲜牛杂，并经过精心处理，为客人提供不变的美味。其秘制汤底加了牛骨和羊骨熬煮，鲜香浓郁。推荐嫩滑的牛骨髓，还有广受欢迎的牛双弦，但后者仅于十一时后限量供应。除了牛杂，店家也提供粉面、云吞等经典老广美食。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "屿",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yu-garden",
+      "telephone": "+86 136 1003 6888",
+      "description": "选址在远离市中心的黄埔区，并与邻近的美术馆合作，在店内摆放了不少艺术品，加上雅致的装潢，整室文艺感十足。主打闽菜，无论是食材还是厨师团队均来自福建。前菜建议选择晶莹剔透的土笋冻，口感鲜嫩脆滑，搭配芥末酱油和辣酱，色香味俱佳。招牌菜厦门姜母鸭软腍入味，带馥郁姜味和酒香，十分出色。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "岁集院子·拾月",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/suyab-courtyard%E3%83%BBpickmoon-gourmet",
+      "telephone": "+86 138 0294 5901",
+      "description": "餐厅位于独立建筑物内，共有九个大小不同的包厢，由于不设菜单，食客须在订座时与餐厅沟通菜式。厨房团队由经验丰富的辉师傅带领，选取上乘的时令食材，呈献精致细腻的潮州风味。无骨鲫鱼粥软绵中带米香，鱼肉鲜甜嫩滑。百花韭菜香酥普宁豆腐外皮金黄酥脆，豆腐入口软滑，充满韭菜香气和虾肉鲜味。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "岭南海晏楼 (滨江东路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-yan-lou-binjiang-east-road",
+      "telephone": "+86 20 3430 5888",
+      "description": "餐厅由两位曾于知名宾馆主理国宴的主厨坐镇，水平具保证。招牌菜至尊三宝的法国鹅肝质感软润，味道浓郁。梅子妙龄鸽皮脆肉嫩，味道酸甜清香，是每桌必点菜式。其他美食如花雕乳猪、豆酥脆豆腐和各款烧味也值得一试。室内设计尽显岭南风格，三楼设有多间私人包厢，加上菜式分量十足，适合携朋结伴前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "幸福驿站 (育蕾三街)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xing-fu-yi-zhan",
+      "telephone": "+86 20 3855 0451",
+      "description": "<span><span><span>餐厅装修仿如古代驿站，老木桌加上陈列的古筝、墙壁上的皮影戏木偶，以及汉服体验等，充满古色古香的韵味。提供地道川菜，偏向重油、重调味的渝派风格。烟笋炒腊肉镬气十足，带有烟熏味的笋干混合着咸香的腊肉，美味动人。木架上摆满佳酿，亦提供特色自酿酒，适合与三两知己前往小酌。</span></span></span><br>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "广御轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lingnan-house",
+      "telephone": "+86 20 8852 8888",
+      "description": "<span><span><span>餐室饰以岭南风格木窗花、吊扇和吊灯，复古而不失时尚。主厨拥逾十年粤菜经验，技巧札实，更为部份传统粤菜增添了创新元素，如顺德拆鱼羹以土鲮鱼作汤底，加入柠檬叶作调味，味道鲜甜。除了广受欢迎的现烧黑棕鹅，不妨从季节性菜单中挑选以本地优质食材烹调的美食；甜品沙湾姜撞奶也不容错过。</span></span></span><br>",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "开小灶",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/stay-here",
+      "telephone": "+86 185 7875 2021",
+      "description": "<span><span><span>餐厅近年经历人事变动，而菜式仍由潮汕厨师主理，食物出品保持一贯水准。菜单虽选择不多，皆充满潮汕风味，特别推荐潮式血蛤和潮式膏蟹，用料上乘，鲜味十足。饭后不妨来一碗清甜润喉的姜薯绿豆爽。店内座位不多，客人须提前透过通讯软件预订座位和菜式，有特定要求亦可提出。建议结伴前来用餐。</span></span></span>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "彤堂序",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tongtown",
+      "telephone": "+86 181 8880 0638",
+      "description": "装潢时尚，落地窗外是繁华的都市美景。店内有两处明档，分别制作两大招牌：烧鹅和沙河粉。以马冈鹅制作的烧鹅，皮脆多汁。沙河粉选用上等龙牙白米和天然泉水制作，口感爽弹。如果用餐人数众多，推荐预订酿满花胶、辽参、干鲍的海皇佛跳墙烧鹅。搭配葡萄酒或功夫茶，用餐体验更为圆满。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "徐博馆 (天河)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dr-xu-s-wellbeing-branch",
+      "telephone": "+86 20 3807 8889",
+      "description": "创办人具中医学科博士后资历，以不同保健食材及烹调法设计菜肴，将养生、健康饮食的理念融合于餐饮之中。同时甄选各地的优质时令食材和生猛海鲜，让客人享受美食并收保健之效。多款炖汤之中，尤其推荐野山桔炖鲍宝，透亮清汤配上鲍鱼肝，味道自然醇鲜，野山桔的柑橘酸香更添温润。可提前预留窗边座位。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "御宝轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/imperial-treasure-fine-chinese-cuisine-559150",
+      "telephone": "+86 20 3885 6382",
+      "description": "<span><span><span>坚持以传统手法烹调广东菜式，除了主菜牌外，因应时令推出的菜品也不容错过。黑胡椒炒大肉蟹惹味鲜甜，鲨鱼骨炖花胶汤用料十足。午市供应多款点心及小食，包括皮薄透亮的肠粉和香脆的韭菜鲜虾腐皮卷，均用料上乘。最后不妨来一碗香浓可口的合桃露，为美好的一餐作结。因支持者众多，宜提早订座。</span></span></span>",
+      "michelin_award": "TWO_STARS",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "御宝阁",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/imperial-treasure-fine-teochew-cuisine-1190416",
+      "telephone": "+86 20 3868 2388",
+      "description": "御宝阁以地道潮州菜闻名。各款凉菜如冻红花蟹、鲜烚冻乌鱼等以传统手法制作，秘制卤水菜式选择多样，还有九转大肠、蹄膀和五花腩等坊间少见的品项。酸甜粿肉炸至金黄酥脆，均匀裹上糖醋酱汁，十分开胃。咸菜胡椒炖猪肚这道暖胃滋补的汤品，猪肚软嫩，口感细腻，辛香的白胡椒与咸菜相融合，层次丰富。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "御膳汤品 (猎德西浦大街)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yushan-soup",
+      "telephone": "+86 188 1880 0887",
+      "description": "位于昔日的猎德村，餐厅建筑古色古香，沿河而立，幽静怡然。招牌汤品制作一丝不苟，选用本地土猪土鸡和泉水炖煮六小时，每天限量供应，建议提前预留。小菜选择丰富，且按时令转换，除了受欢迎的啫啫煲，牛胸油野生椒煎无菌蛋也值得品尝，浓郁蛋香中带一丝辣味，惹味可口。包间另提供主厨神秘菜单。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "德利私厨·德叔鲍鱼",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/deli-boutique%E3%83%BBuncle-de-abalone",
+      "telephone": "+86 20 3472 1862",
+      "description": "创始人投身鲍鱼产业数十载，货源来自南非、中东、澳大利亚、日本、连江等地，丰俭由人。鲍鱼经过数日的精心焖煮，口感软弹，浓郁入味，鲍汁醇厚鲜香，建议配米饭享用。除了鲍鱼料理，粤式小炒如秘制肉酱炒四角豆也值得品尝。餐厅以包厢为主，地点距离市区较远，配置充足的停车位，方便自驾前往。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "恩宁刘福记 (东华东路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/enning-liu-fu-ji-donghua-east-road",
+      "telephone": "+86 138 0296 5498",
+      "description": "四十年代末，刘福记在老西关的恩宁路上开店，以鸭蛋和面粉制作全蛋面。其后辈沿用祖传配方和技法，开设这家新店，重现经典滋味。土猪油捞面为店内招牌，自制的猪油包裹着面条，香气迷人。鲜虾云吞面面条爽弹，虾肉饱满弹牙，汤头带有大地鱼、虾皮和韭黄的鲜香，十分美味。周末限量供应炸云吞。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "悦景轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yue-jing-xuan",
+      "telephone": "+86 20 3769 1234",
+      "description": "<span><span><span>位处酒店高层，拥有大片落地玻璃，把城市景色尽收眼底。室内设计以家为概念，食物的馥郁香气从开放式厨房飘散出来，令人食指大动。在厨房领军的主厨有近二十年粤菜经验，巧手名菜不少，其中湛江沙姜鸡采用养殖225天的走地鸡烹制，鸡肉丰厚，甚为驰名。此外，也供应时令食材入馔的季节性菜单。</span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "惠食佳 (海珠)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wisca-haizhu",
+      "telephone": "+86 20 3438 1188",
+      "description": "由小店起家，惠食佳一直秉持古法制作、用料新鲜的原则，将传统风味代代相传。其啫啫系列特别受称颂，当中以生啫大黄鳝最受欢迎。另外，招牌菜椒盐富贵虾外脆内嫩，味道鲜甜；炖煮逾四小时的炖汤也十分推荐。由于价格亲民，餐厅一直宾客盈门，仅包间接受预订，用餐时间往往需排队轮候，建议避开尖峰时段到访。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "愉粤轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yu-yue-heen",
+      "telephone": "+86 20 8883 3371",
+      "description": "位处酒店高层，景观开掦，气派高雅。主厨来自广东，他曾于上海、南京的酒店食府任职，练就出精湛的粤菜手艺。 招牌脆皮鸡选用清远麻鸡制作，外皮炸得香脆可口，肉质软嫩带肉香，风味甚佳。午市供应多款点心，包括精美的凤尾虾鸡粒芋盒。部分甜品由中、西餐的行政总厨合作设计，中西合璧，值得一试。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "撒尔塔东乡手抓",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sa-er-ta-dongxiang-shou-zhua",
+      "telephone": "+86 185 6538 6865",
+      "description": "这清真菜馆的老板是西北少数民族东乡族的撒尔塔人，餐厅主要供应羊肉菜式及其家乡美食。推荐精品手抓羊肉，连皮羊肉与大骨切件，肉嫩多汁，调味出色，搭配特色蒜头同吃别具风味。西北特色河沿面片、东乡爆炒土鸡及甘香解腻的八宝茶亦值得一试。如想在更具隐私度的环境中用餐，不妨预订包厢。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "西北菜"
+      ]
+    },
+    {
+      "name": "文记壹心鸡",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wen-ji-yixinji",
+      "telephone": "+86 20 8172 8887",
+      "description": "<span><span><span>隐藏于横巷内，楼高两层，用餐环境舒适。招牌菜一心鸡改良自“清平鸡”的制作方法，选用约三斤重的清远走地麻鸡，在特调白卤水加入了瑶柱、药材，并保留冻食的方式，皮爽肉滑，味道香浓入骨。另外，怀旧手工菜也值得一试，传统桂花扎以绵韧的肠衣包裹冰肉和金沙蛋黄，咸香和酒香互相辉映，叫人回味。</span></span></span>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "斯蒂勒",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/stiller",
+      "telephone": "+86 185 6523 8274",
+      "description": "<span><span><span><span><span><span>属泰安门主厨旗下的时尚欧陆餐厅，装潢现代且色彩缤纷，更可透过落地玻璃欣赏城市景观。入口设有酒吧，不妨以客制化鸡尾酒开展丰盛的一餐。菜单提供随季节变更的餐点，也有不少以主厨家乡德国为灵感的风味菜肴，在城中难得一见。自家制面包种类繁多，更搭配不同风味的黄油。不妨请服务员作推介。</span></span></span></span></span></span>",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "欧陆菜"
+      ]
+    },
+    {
+      "name": "新文记饭庄 (盘福路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-wen-ji-yuexiu",
+      "telephone": "+86 20 8370 7590",
+      "description": "以价格实惠的地道广东菜而闻名，一直深受食客拥戴，近年更扩充到这三层相连的新址，以接待更多客人。店里自设鱼缸供应新鲜海产，招牌菜式包括多款啫啫煲及海鲜砂锅粥，后者用料丰足。特别推介鲜甜味美的沙虾膏蟹粥。厨师手艺出色，每道菜都即叫即制，镬气十足。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "新泰乐 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xin-tai-le-yuexiu",
+      "telephone": "+86 20 8136 6559",
+      "description": "餐厅占地两层，前身是名为泰乐菜馆的大排档，自1989年开业以来，凭借黄鳝菜式和别具广州风味的小炒，一直深受街坊和饕客支持。除了黄鳝饭，三椒爽鳝片同样是店内招牌，新鲜花鳝肉质爽嫩，配上豉蒜和辣椒，非常惹味。店内装潢简单朴实，用餐气氛热闹，如果想有较高隐私度，不妨预订二楼的包厢。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "昇运来云吞面 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/sing-wan-loi-noodle",
+      "telephone": "+86 150 9998 5715",
+      "description": "有别于传统云吞面店，这里将青花元素融入室内设计，整体装潢明亮时尚。菜单也突破传统，云吞馅料用上黑松露、大闸蟹、海胆等食材，个个圆润饱满，尤其推荐油润多汁的伊比利亚黑猪肉口味。面条同样由店家自制，面质爽弹，顾客更可自选软硬度；汤底用上花椒熬煮，味道鲜麻。此外，各种潮式熟腌也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "星河湾·星景",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-legend",
+      "telephone": "+86 20 2231 9731",
+      "description": "坐落在新建成的商厦内，位置优越，而且餐厅占地甚广，设有多个包厢，适合各式商务宴请。由辉师傅带领的团队，提供广东和潮州菜式，前菜、生腌、卤水、烧味、海鲜，以至小炒和点心式式俱全。除了本地食材，也搜罗了泰国濑尿虾、斯里兰卡大肉蟹、澳洲大网鲍鱼等全球优质食材。特别推荐外脆肉嫩的玻璃脆皮乳鸽。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "朱仔记食府 (江南大道)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zhu-zai-ji-shi-fu-jiangnan-avenue",
+      "telephone": "+86 20 8423 8356",
+      "description": "由老字号大牌档慢慢发展成现时的酒家，装潢仍是走大众化路线，楼高三层的餐室甚是宽敞明亮。二十多年来以烹制地道粤菜闻名，讲究食材新鲜度及品质。古法烧鹅皇赫赫有名，选用约八斤重的清远黑棕鹅以环保炭烧制而成。土猪肉绿豆酿莲藕的搭配巧妙又美味，也推荐朱记白切鸡、马来黑叉烧和金牌咸猪手。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "松苑",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/song-yuan",
+      "telephone": "+86 189 2239 9021",
+      "description": "餐厅开业不久，已吸引众多食客到访，门外常见等候入座的人龙。主厨擅长烹制传统粤菜，广式烧味、小炒和砂锅美食都可在此品尝，店内特设水产区，提供多种活海鲜。菜式选料上乘，味道出色，价格亲民。要说最受欢迎的品项，非老火汤莫属，每一锅都使用四斤材料，在炭炉慢炖四小时，为免售罄，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "桃园馆 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/peach-blossom",
+      "telephone": "+86 20 8333 8989",
+      "description": "熟悉三国演义的客人或可领略餐厅名称的典故由来；倘若未能意会也可从入口的结义亭及墙上多幅三国人物画像中猜到布置主题。餐廳专营粤菜及家常菜，部份时节更会推出时令菜式；所有食品不假外求，为团队的自家出品，而烧味及点心均是餐厅招牌菜。倘欲享有较私密的用餐环境，可以选择以三国人物命名的厢房。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "梁家菜馆",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jia-cai-guan",
+      "telephone": "+86 20 8333 8268",
+      "description": "开业逾40年，经历搬迁后，重新坐落在海珠区的老城里。由经验丰富的老师傅掌勺，提供价格实惠的经典粤菜，深受城中老饕爱戴。这里的传统卤水炸大肠外焦里嫩，搭配自家熬制的番茄酱汁即能解腻，十分推荐；招牌原味白切鸡挑选新鲜清远鸡制作，肉质爽弹，每日限量供应。由于桌数不多，建议提前留座。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "榕意 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ease-yuexiu",
+      "telephone": "+86 20 3763 0289",
+      "description": "位于由报社印刷厂改建而成的艺术园，餐厅会配合园区举办的活动不时提供优惠。楼高两层、工业风格设计予人轻松舒适的感觉；墙边的书籍是由客人所赠，为餐厅增添不少文化气息。菜式简单而富四川风味，榕意藤椒鱼鱼肉嫩滑且层次丰富，不容错过。殷勤的服务态度加上相宜价钱，相信是食客纷至沓来的原因。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "永利饭店 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wing-lee-restaurant",
+      "telephone": "+86 180 2625 0388",
+      "description": "老板出身厨师世家，志在传承古法粤菜。招牌菜江南百花鸡把虾滑酿入鸡皮下，口感爽滑脆弹，还伴有陈皮清香。早上和中午均有点心供应，选择多样，不妨试试外酥内软、蛋香浓郁的雪山糖沙翁。餐厅拥有临江的景观位置，客人可以边用餐边欣赏珠江美景。高峰时刻要拼桌，若多人用膳不妨提前预订包间。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "汇兴源",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hui-xing-yuan",
+      "telephone": "+86 20 8355 5740",
+      "description": "始于1981年，掌厨的老师傅技艺娴熟，持续为客人烹调价格实惠的传统粤菜佳肴。招牌菜白切鸡选用于清远山区自然放养的鸡只，新鲜美味，口感嫩滑，肉质紧致。另外，酱油皇鹅肠等广东特色美食也值得一试。餐馆楼高三层，室内装潢简洁，繁忙时段总是满座，建议提早到达。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "江",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jiang-by-chef-fei",
+      "telephone": "+86 20 3808 8885",
+      "description": "主厨辉师傅向来注重粤菜和创意料理之间的平衡，除了历久常新的经典小菜，也会因应不同季节推出时令菜式，当中涵盖不同的食材及烹调方法。推荐亚麻籽脆皮烧文昌鸡，令人一试难忘。此外，用料上乘、制作精巧的午市点心亦不容错过。餐室经过翻新后，感觉更加时尚，同时增设茶桌，带来更完满的餐饮体验。",
+      "michelin_award": "TWO_STARS",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "汤氏美食",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tang-shi-meishi",
+      "telephone": "+86 135 6018 9334",
+      "description": "位于夜宵店云集的街区上，小店营业至凌晨。由祖籍台山水步镇的店东主理，招牌菜特色黄鳝饭深受欢迎：啖啖黄鳝肉、粒粒分明的干身米饭，加上调味均匀的酱料，简单却滋味满溢。除了黄鳝饭外，各式煲仔小菜和家常小炒也不容错过。虽然店子面积不大，布置简朴，但无损食客对美食的向往，长年座无虚席。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "泰安门",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taian-table-1195975",
+      "telephone": "+86 185 6523 8265",
+      "description": "搜罗世界各地的顶级食材，配合欧洲料理技巧，为客人带来精致而具创意的佳肴。提供八道菜的品尝菜单，并根据当季食材，每八周转换菜式。另有一系列招牌及时令美食，令选择更多元。客人可透过开放式厨房观看烹调过程，服务员也会作详尽的菜式介绍，用餐体验贴心。配有出色的酒单，不妨享用餐酒搭配提升风味。",
+      "michelin_award": "TWO_STARS",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "泰爱里 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/thai-alley",
+      "telephone": "+86 133 1606 6822",
+      "description": "<span><span><span>室内装潢极富泰式风情，均为泰国人的老板和主厨务求把正宗口味带来广州，所采用的咖喱香料均由当地进口。黄咖喱安格斯牛肉肉质软腍，既有咖喱的微辣香气，亦不失其肉香。加了椰奶的冬荫功虾汤酸辣爽口，用料十足。金不换肉碎生菜包亦很出色，泰椒鲜辣与金不换叶的独特清香交织，值得一试。</span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "泰国菜"
+      ]
+    },
+    {
+      "name": "海门鱼仔店 (燕岭路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-men-yu-zi-dian-yanling-road",
+      "telephone": "+86 20 3721 3993",
+      "description": "标榜高级大牌档概念，餐室经过修饰后比以往更为舒适，让食客在轻松的环境中享用美食，更可透过玻璃窗，一睹厨房内约五十位潮汕厨师工作时的身姿。客人既可在门前亲自挑选食品，或从服务员推介的海鲜中自选烹调方式；亦有预先煮好的美食汤品等供选择。若无头绪的话，不妨参考菜单上的招牌菜式。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "海鲜街菜馆",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hai-xian-jie-cai-guan",
+      "telephone": "+86 20 8184 2099",
+      "description": "开业近三十年，即使毗邻多家海鲜菜馆，依然无损其人气，全因菜色味佳分量足，而且价格实惠。店家的炖汤极受欢迎，宜提早到步避免向隅。招牌鱼头汤尤其出众，鱼头先经煎炸，再搭配多款中药材熬煮成汤，鱼头吸满了汤汁，非常可口。另外，多汁味香的红烧乳鸽、白切鸡、烧鹅和土猪肉蒸肉饼皆值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "潮跃",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-yue",
+      "telephone": "+86 189 2225 2999",
+      "description": "名字中的“潮”既代表潮汕，也象征潮水，天花设计模仿潺动的流水，甚具特色。吧台正对开放式厨房，可让客人欣赏厨师制作料理的过程。这里供应三款套餐，菜式结合传统潮菜与新式烹调手法，及选取环球优质食材，味道惊喜不断。其中新式豆酱焗乳鸽将中山乳鸽去骨后经两次风干，肉汁充盈且创意十足。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "炳胜公馆 (冼村路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-mansion",
+      "telephone": "+86 20 3803 5000",
+      "description": "<span><span><span><span>虽然室内设计采用欧陆风格，炳胜公馆主打新鲜原味的精品粤菜，包括主厨引以为傲的黑椒炒肉蟹、每天限量十五只的脆皮荔枝鸡和灌汤烧鹅。炖汤之中尤其推荐人参炖湛江赤嘴胶，其味回甘，余韵悠长，建议提前预留。早午市可尝到各种创意点心，还有几近绝迹的手工茶点。餐后甜品则不妨试试香气馥郁的芝麻糊双皮奶。</span></span></span></span>",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "炳胜品味 (东晓路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-pin-wei-dongxiao-road",
+      "telephone": "+86 20 3428 6910",
+      "description": "<span><span><span>楼高三层，设有宴会厅及五十间包厢，但最精彩亮丽的仍是餐厅内的一品粤菜。时令菜式推陈出新，必点招牌菜有脆皮叉烧、冷水猪肚及和味猪手，每款均是选料精细，且经长时间细心烹调而成；同样享负盛名的是女店东亲自引入的炳胜鱼生，依循顺德食法，佐以配料品尝。特大菠萝包也相当不俗，但份量颇大，人数众多时值得一试。</span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "炳胜私厨 (天河东路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/bingsheng-private-kitchen",
+      "telephone": "+86 20 8757 5699",
+      "description": "餐厅设计结合岭南风情元素，墙上挂有以粤剧故事为主题的版画，营造往昔西关大户的格调。菜式方面，注重挑选时令及绿色食材，炖汤选用山泉水熬制。推介斗门膏蟹炆黑毛节瓜，膏蟹肉质爽口，节瓜味道鲜甜，十分出色。爆汁脆皮香茅乳鸽、老西关燕窝姜撞奶也值得一试。建议在订座时预留热门菜品和时令美食。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "玉堂春暖",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/jade-river",
+      "telephone": "+86 20 8188 6968",
+      "description": "餐厅以岭南庭院设计分隔包厢及散座，全木造家具和中式瓦顶上挂着的鸟笼尽显古雅气派，室内的彩色满州窗更是历史悠久且已停产的手工玻璃；晚上用餐更能欣赏现场弹奏的古筝小曲，倍添诗情画意。必试菜式有每天新鲜由百万葵园送到的白切葵花鸡，皮爽肉滑且口感鲜嫩；香茅焗乳鸽也不容错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "田间湘食",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/hunan-cuisine",
+      "telephone": "+86 153 6061 0582",
+      "description": "位于富有艺术感的工业园区内，餐厅内装潢风格充份呼应外在环境。来自湖南的主厨手艺了得，让食客能一尝其家乡的地道特色菜。推荐招牌菜洞庭鱼头，採用鱼肉细滑的新鲜洞庭大鱼头制作，特别之处是在传统剁椒上添加了紫洋葱和紫苏，鲜美非常，更可加入清水面同吃。满有湖南特色的窝窝头和糖饺亦值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "知竹植物厨房",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/plant-based-kitchen",
+      "telephone": "+86 181 4485 3101",
+      "description": "这家位置隐秘的餐厅，以实惠且富有创意的素食料理作招徕。主厨擅于通过不同方式呈现食材的风味，菜式设计充满巧思，例如海八仙用上三种手法烹调海藻，当中的海苔卷以茭白、莲藕为馅，口感丰富、香气四溢。仅于晚市营业，供应逾十道菜的套餐，期间配上自家发酵的水果茶和花茶等茶饮，为美食锦上添花。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "禅意茶素",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zen-tea",
+      "telephone": "+86 20 8440 0079",
+      "description": "餐厅环境幽静，仅设有独立房间，房内更备有茶具，提供功夫茶、六大名茶、花草茶等搭餐。店东崇尚健康，供应的是全素菜式，用山泉水制的豆制品尤其出色。另外，西山榄仁蛋白炒九年百合口感香滑，蛋白炒煮时间恰到好处，加上鲜甜爽脆的百合，不容错过。腰果南瓜汁烩素参以海藻和红薯粉混合制成海参的模样，有趣而美味。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "空中花园",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-penthouse",
+      "telephone": "+86 20 8396 1234",
+      "description": "<span><span><span>位于酒店</span><span>23</span><span>及</span><span>25</span><span>层，餐厅寛敞舒适，靠窗位置可饱覧城市美景。大厅只能招待六桌客人，建议订座。主厨具丰富酒店及集团粤菜经验，菜单选择虽然不多，但烧味、海鲜和各式小炒一应俱全，更备有少量淮扬及四川菜式。部份菜式如蜜汁一指梅叉烧每天限量供应，可于订座时一并预订；餐后以核桃汁炖蛋作结更为圆满。</span></span></span><br>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "笑意轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/delightful-house",
+      "telephone": "+86 20 8462 7888",
+      "description": "餐厅位于民宿内，独立包间带有茶台和绿植景观，也可选择在院子里用餐，享受竹林带来的悠闲与惬意。点心从早上9点开始供应，选择丰富。午餐和晚餐提供经典粤菜，大部分的河鲜每日从河源万绿湖送达，各类淡水鱼肉质细嫩，鲜甜无比。另外怀旧金钱蟹盒也值得一试，外壳焦香酥脆，包裹的虾肉和蟹肉很是鲜甜多汁。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "紫金食坊",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/zijin-shi-fang",
+      "telephone": "+86 20 8449 1048",
+      "description": "此店开业十余年，凭着价格实惠的美食，一直深受本地街坊欢迎，晚市更经常座无虚席。提供各式炖汤、小炒、煲仔小菜，菜式选择多样，尤其推荐招牌菜豉油皇焗黑棕鹅，肉质嫩滑且味道香浓，令人回味无穷。透过店面的玻璃窗，客人可以看到厨师处理烧味的过程。部分菜式很快售罄，建议预早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "老西关濑粉 (文明路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/lao-xiguan-laifen-wenming-road",
+      "telephone": "+86 20 8381 1437",
+      "description": "小店以老西关风味作招徕，特色美食有全手工制作的濑粉，以及坊间少见的水菱角。经验丰富的阿姨于清晨五时多便预备米浆，加入冬菇、虾米和猪油渣等熬煮成乳白色的米浆汤底，味道鲜美，濑粉带有米香和嚼劲。水菱角是以米浆做成菱角形状的西关小吃，口感韧滑，搭配咸菜、猪油渣、蛋丝和花生，滋味无穷。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "肥豚肉骨茶 (越秀)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ft-bak-kut-teh",
+      "telephone": "+86 20 3861 5036",
+      "description": "主营新加坡和马来西亚风格的肉骨茶，也提供东南亚各地的经典菜式。招牌白胡椒肉骨茶熬制至少三小时，猪肋骨口感软腍，汤头带浓重白胡椒及蒜头香气。菜单不时更新，当中的越南虾酱炒夜来香值得一试，花苞的清香与虾酱的咸香互相交织，充满特色。餐厅不接受电话订座，若不想轮候，建议提早以手机取号。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "东南亚菜"
+      ]
+    },
+    {
+      "name": "腰记",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yao-ji",
+      "telephone": "+86 20 8475 5405",
+      "description": "腰记是开业逾四十年的老字号，供应地道怀旧美食，用餐环境舒适整洁，大厅以外也提供包厢，但需预订。食物方面，莲藕粉是坊间少见的手工菜，莲藕剁成蓉后加入虾米，以钵仔蒸煮，口感软绵，同时带莲藕的清甜滋味，别具特色。金黄酥脆的蚝油干迫鸡是另一款必点菜式，配料只有简单的葱白和姜片，但非常惹味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "花城苑 (金穗路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/fa-sing-garden-jinsui-road",
+      "telephone": "+86 20 8688 8182",
+      "description": "装潢风格雅致，设有不同大小的包厢，是聚餐的上佳场所。主营广府家常小菜，菜单上有选择繁多的海河鲜、各式小炒和煲仔菜，其中清炖鸡、香煎藕粉和豉油皇大肠头均是店家得意之作。另外，喼汁排骨煮至软绵脱骨，充分吸收酱汁的风味，酸甜咸鲜交织，同样不容错过。经常座无虚席，建议提前订位。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "荔雅图",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/li-chateau",
+      "telephone": "+86 156 2625 8471",
+      "description": "餐厅设计融合中西特色：欧陆式的装修缀以代表岭南的荔枝图案，包厢挂着以老西关作主题的欧式油画。环境宁静加上饶富情调的灯光，颇适合情侣於此度过一个浪漫晚上。店内主要供应欧陆菜式，尤以黑松露烩饭配香煎鸭肝及澳洲惠灵顿和牛里脊配红酒汁受欢迎。品尝菜单每月更新，持续给食客带来新鲜感。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "欧陆菜"
+      ]
+    },
+    {
+      "name": "蔬稻",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/soodle-jinsui-road",
+      "telephone": "+86 20 8516 2132",
+      "description": "原木色调装修，配以大片玻璃窗户带来自然采光，环境舒适。提供以蔬菜和菌菇为主、无仿荤的素食菜品，口味兼容并包，更可定制纯素。推荐一试藤椒竹笙脆，其汤汁将酸萝卜和泡椒的酸辣与鲜藤椒的麻香共冶一炉，其味无穷。招积冰川茄以云南糯茄搭配秘制烧汁，外层炸衣薄脆，内里细腻清甜，也不容错过。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "西关竹园 (十八甫)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-shiba-fu",
+      "telephone": "+86 20 8139 6653",
+      "description": "<span><span><span><span><span><span>屹立旧西关城区逾三十载，所有面条来自荔枝湾店的制面工场，当中使用大量鸭蛋，真材实料。汤底使用大地鱼、猪脊骨、虾皮等熬制，味道浓郁丰富，伴有虾子、蟹膏云吞等配料。另外推薦牛三星汤，内脏经仔细处理后切成薄片，口感弹嫩爽滑。也有秘制咸煎饼、猪肠、牛腩等小食供应。</span></span></span></span></span></span>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "西关竹园 (荔枝湾)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/xiguan-zhuyuan-lizhiwan",
+      "telephone": "+86 176 6666 6128",
+      "description": "餐厅位于荔枝湾景区内，一派岭南水乡风光，品尝面食的同时可欣赏园中美景。作为制面总工场，门外桌上摆满一盘盘晾晒中的竹升面。其面条以大量鸭蛋制作，细幼爽弹，劲道十足。汤底用上虾皮和炭炉烘烤过的大地鱼熬煮，满口鲜甜。招牌蟹子云吞馅料饱满，一口咬下，蟹子的咸鲜滋味瞬间在口中绽放，令人回味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "谷缘",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/gu-yuan",
+      "telephone": "+86 153 0223 2093",
+      "description": "餐室使用原木家具，搭配中庭盆栽造景，以及潺潺流水的声效，呈现一片禅意和闲适。厨房团队由年轻主厨带领，仅提供一套品尝菜单，主打以四季为灵感的蔬食料理。其中一白三吃将茭白的不同部位用酱烧、烤焗、卷制的方式，创造风味和口感的变化，彰显主厨的烹调功力。设卡座、包厢和茶室，须提前预约就餐。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "超记煲仔饭 (荔湾)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/chao-ji-claypot-rice-liwan",
+      "telephone": "+86 159 1315 3842",
+      "description": "餐厅楼高两层，提供即叫即制的怀旧煲仔饭，以及煲仔汤和原盅炖汤。煲仔饭选择众多，配料包括猪肝、滑鸡、腊味、肉饼等，可以自由拼搭，也可以随个人喜好加入窝蛋和煎蛋。其米饭富有嚼劲，饭焦口感香脆，但制作需时，一般需要等待15至20分钟，建议避开繁忙时段。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "达扬原味炖品 (文明路)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/dayang-wenming-road",
+      "telephone": "+86 20 8332 7931",
+      "description": "此店起源于1983年，以用料丰富、味道清甜的炖汤驰名，在文明路上几乎无人不晓，经常人龙不绝。店内三列蒸笼高高叠放，每隔两至三小时，就有一盅盅炖品自厨房端出。其中，椰子竹丝鸡汤鲜甜无比，鸡肉与椰子的香气交织，保留原汁原味。炖品之外，佐以牛奶及蜂蜜的龟苓膏也是热捧之品。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "酒说·今宴",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/the-eminent",
+      "telephone": "+86 20 3999 8583",
+      "description": "餐厅由全新的厨师团队主理，主厨为地道广东人，擅于在经典粤菜中融入各地的特色食材，并按季节调整菜单。黄皮汁咕噜肉外脆内软，酸甜并重且带有果香，十分开胃。五指毛桃蒸石岐乳鸽软嫩多汁，甚是出色。除了炖汤，大部分海鲜也须提前预订。设有格调高雅的包厢，适合宴请聚餐。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "闻见",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/wj-hainan-cuisine",
+      "telephone": "+86 20 6667 2008",
+      "description": "墙上的当代艺术品，加上一侧仿照海南海滩常见的三角顶小屋设计，兼备艺术与海南风情。菜式同样是正宗海南风味，招牌菜白切文昌鸡选用的鸡只均来自自家农场，饲养180天，且以熟饲料喂养以保肠道健康，因此肉质尤佳；有更高要求的食客可提前两星期预订闻见定制文昌鸡，饲养期更长，味道更香浓。餐后更可到旁边的咖啡车品尝海南咖啡。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "海南菜"
+      ]
+    },
+    {
+      "name": "陶醉馆",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/taozui-guan",
+      "telephone": "+86 189 2993 0268",
+      "description": "<span><span><span>主打创意中国菜的陶醉馆以全国多个菜系的元素融合现代人口味，演变出一系列风味独特的菜式。厨师特意减少油盐，采用天然调味料，并加入常见天然材料作食材。招牌菜陶醉冲浪酸菜鱼由服务员在席前把滚汤倒进生鱼片上，营造冲浪效果，色香味俱全。海胆豆腐煲以大连海胆与鲜嫩豆腐同煮，同样值得一试。</span></span></span><br>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "陶陶居 · 雅园",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/tao-tao-ju-ya-yuan",
+      "telephone": "+86 20 8852 1688",
+      "description": "作为集团中的高端品牌，坐落核心商业区。装潢以玫瑰金和橄榄绿作主调，加入岭南建筑元素，充满贵气。更设多个包厢供商务宴请或聚餐之用。由经验丰富的香港主厨带领，加上土生土长的点心师傅，炮制出多款传统粤菜、烧味和点心。推介每天限量供应十多只、皮爽肉嫩的白切葵花鸡，以及真材实料、味道鲜美的炖汤。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "雀园 (开创大道)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/cheers-huangpu",
+      "telephone": "+86 20 8229 9869",
+      "description": "(餐厅暂时关闭) 餐厅占地两层：一楼是气氛轻松的大厅；二楼则是适合宴请的豪华包间。两个楼层的菜单略有不同，包间供应更多以湖南稀有食材制作的菜肴，当中包括冰镇湘莲脆藕，以及极品樟树港辣椒。除了地道湘菜，亦提供由粤菜厨师主理的经典广东菜，和樟树港辣椒烧海参等创意菜。建议提前预订心仪菜式。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "雅苑",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/ya-yuan",
+      "telephone": "+86 20 8335 5808",
+      "description": "开业逾三十年，凭着地道广东菜受青睐，每天中午饭点前已有客人于门外等候。无论是煲仔饭、家常菜还是老火汤品，全都用料新鲜，摆盘亦富心思，可说是色香味美俱全。招牌菜葱油鸡选用清远鸡，肉质紧致嫩滑；餐后附送的中式糖水亦用料十足。室内环境整洁舒适，设有多个包厢。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "靓姐南宁蒲庙生榨米粉 (英华街)",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/liang-jie-nanning-pumiao-shengzha-mifen",
+      "telephone": "+86 186 8842 3426",
+      "description": "<span><span><span><span><span><span>女东主祖籍南宁蒲庙，亦即生榨米粉的发源地。米粉每天新鲜现做，由制作米浆、放入布袋发酵至压榨全由东主一手包办；为保新鲜，每次只会少量制作，故需耐心等候。米粉佐以酸豆角、肉碎、油豆腐和各式卤水食物，可加汤或干拌进食，为迎合本地人口味，其味道比传统的酸度大减。亦可一试紫菜牛肉丸米粉和牛腩生榨米粉。</span></span></span></span></span></span>",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "韵轩",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/yun-pavilion",
+      "telephone": "+86 20 3705 6586",
+      "description": "<span><span><span><span><span><span>餐室布置极富中国韵味，大至摆设，小至特别订制的龙泉青瓷，处处展露出设计师的心思。厨师团队坚持使用上乘时令食材，炮制传统粤菜，同时供应一些地方菜式，以照顾不同客人的需要。招牌菜有脆菌咸香鸡、生炒糯米饭。各款精致点心也值得一试，譬如荔蓉香酥带子以煎过的带子加入荔蓉盒，提升味道和新鲜感。</span></span></span></span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "风味",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/flavors-of-china",
+      "telephone": "+86 20 8188 6968",
+      "description": "<span><span><span>位于珠江河畔，所有座位均坐享临江景色。餐室环境极其优雅，设计采用大量琉璃装饰及艺术品，晶莹流淌，与美景互相辉映。菜单供应来自大江南北的特色佳肴，当中以精致细腻的淮扬菜，和麻辣鲜香的川菜为主。推荐糟香葵花鸡、响油鳝糊、砂锅辣子鸡、酸菜鱼等。三层高的酒柜确保好杯中物的客人也可尽兴。</span></span></span>",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜",
+        "川菜"
+      ]
+    },
+    {
+      "name": "香港庙街煲仔饭",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/temple-street",
+      "telephone": "+86 20 8370 5983",
+      "description": "老板来自香港，以当地的街道名为餐厅取名，并在墙上展示香港老照片，以纪念自己的出生地。主营煲仔饭及汤品，前者为现点现做，口味选择近三十种。其中金牌腊味煲仔饭是这里的招牌，腊味油香浓郁，锅巴酥脆可口。除此之外，紫苏牛肉、沙爹洋葱牛肉等创意搭配也大受欢迎。小店人气极高，建议提前致电预订餐点。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "馥",
+      "url": "https://guide.michelin.com/en/guangdong-province/guangzhou/restaurant/aroma-1196084",
+      "telephone": "+86 20 3705 6583",
+      "description": "选材严谨，主厨经验丰富，菜单虽精简但满载可口味美的欧陆菜式。当中特别推介香煎鸭肝，饱满的鸭肝搭配无花果酱和波特酒酱汁，叫人回味无穷。中午供应经济实惠的午市套餐。餐厅拥有迷人城市景致，气氛轻松舒适，不妨携同家人好友前往，选择窗边座位以美景伴佳肴，享受完美用餐体验。",
+      "michelin_award": "Selected",
+      "city": "Guangzhou",
+      "city_slug": "guangzhou",
+      "region": "Guangdong Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "欧陆菜"
+      ]
+    }
+  ]
+}

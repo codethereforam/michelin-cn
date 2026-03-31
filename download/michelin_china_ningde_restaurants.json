@@ -1,0 +1,84 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Ningde",
+  "city_slug": "ningde",
+  "restaurant_count": 5,
+  "restaurants": [
+    {
+      "name": "宁川祖耀鱼丸",
+      "url": "https://guide.michelin.com/en/fujian-province/ningde/restaurant/ning-chuan-zu-yao-yu-wan",
+      "telephone": "+86 182 5938 0222",
+      "description": "小店如今传承至第三代，一直只专注于鱼丸、粉扣、大肠和煎包四款地道小吃。鱼丸全手工捶打、挤捻，保留古早手艺。鱼丸圆润洁白，包裹着带酱香的鲜猪肉馅，是这里的招牌美食。汤头以海鲜干货熬制，咸鲜浓郁，无论搭配滑溜的粉扣还是弹牙的大肠，皆十分美味。食物售完即止，建议提早到访。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "寿宁米糕",
+      "url": "https://guide.michelin.com/en/fujian-province/ningde/restaurant/shou-ning-mi-gao",
+      "telephone": "+86 136 8508 5073",
+      "description": "小店以家乡寿宁米糕作招徕，现场将米浆蒸制后以毛巾卷起成筒状，散发诱人米香。有白糕和菜糕两款选择，前者并无馅料，后者加入肉碎和多种蔬菜粒，提升脆度和鲜味。添加一勺自家秘制的卤汁，酱香醇厚，余韵悠长。福鼎肉片口感弹牙，配上酸辣汤底，简单美味。此店在区内极具人气，加上座位有限，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "小东门牛肉水粉老店",
+      "url": "https://guide.michelin.com/en/fujian-province/ningde/restaurant/xiao-dong-men-niu-rou-shui-fen-lao-dian",
+      "telephone": "+86 133 2828 5791",
+      "description": "小店在老城区扎根已久，陪伴着一代人成长。招牌牛肉水粉滑溜软糯，汤头加入当归、八角、香叶等熬煮，不断翻滚出药膳香气，与肉香在空气中交织开来，引人垂涎。除了水粉，也有牛杂汤、牛肉汤、牛肉丸等，前者包括充满嚼劲的生肚和软腍入味的牛舌。店面朴素却无阻客人对美食的热情，经常需要排队就餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "福鼎正宗扁肉 (建新路)",
+      "url": "https://guide.michelin.com/en/fujian-province/ningde/restaurant/fu-ding-zheng-zong-bian-rou-jianxin-road",
+      "telephone": "+86 136 8508 5719",
+      "description": "开业逾廿年，菜单涵盖扁肉、粉面、小笼包、卤水小吃等。自家包制的扁肉，皮薄馅鲜，提供香炸和汤煮两种选择。前者金黄脆口，后者搭配酸辣汤，并添加大量紫菜和猪油渣，风味各有千秋。小笼包呈花苞形态，现点现蒸，馅料鲜香满溢，别具本土特色。卤罗汉肉口感爽弹，卤水香浓醇厚，令人回味无穷。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "胡裕忠武曲扁肉",
+      "url": "https://guide.michelin.com/en/fujian-province/ningde/restaurant/hu-yu-zhong-wu-qu-bian-rou",
+      "telephone": "+86 130 7391 1892",
+      "description": "老板在武曲开店20多年，由于子女都在宁德，决定迁店于此。食物以传统手艺製作，家乡扁肉颗颗饱满，皮薄如蝉翼，肉馅彈牙美味，可选择干拌或配汤。也提供多款汤品和面条，每一道都饱含着家乡风味。目鱼排骨汤用上原只目鱼与排骨熬煮，清润顺喉。拌芋头粉以酸菜和酱油调味，酸香开胃。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Ningde",
+      "city_slug": "ningde",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    }
+  ]
+}

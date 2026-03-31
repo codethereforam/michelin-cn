@@ -1,0 +1,1149 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Chengdu",
+  "city_slug": "chengdu",
+  "restaurant_count": 76,
+  "restaurants": [
+    {
+      "name": "8号",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/8-1196322",
+      "telephone": "+86 28 6666 1234",
+      "description": "供应精致的单人四川火锅，备有八种锅底选择，招牌为老成都麻辣牛油锅，底料每日以大锅现炒，并可自选辣度。火锅配料琳琅满目，尤其推介手撕毛肚和黄辣丁，前者选用稀少的血毛肚，轻烫后鲜嫩爽脆；后者肉质绵密，入口即化。火锅以外，金黄酥肉和果味手工冰粉也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "The River House",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-river-house",
+      "telephone": "+86 28 8558 7927",
+      "description": "位于著名的岷山饭店，景色怡人，晚上设有现场演奏。菜单除了经典欧陆菜式，主厨也擅长以西方烹饪技巧结合本土食材，演绎出创意风味。例如柑橘叶焖大黄鱼，酱汁用鱼汤和普宁豆瓣调制，创新又可口。白葡萄酒炆烤波士顿龙虾配上六款海盐佐吃，满有惊喜。除了单点菜单，亦设有价格实惠的套餐选择。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "欧陆菜"
+      ]
+    },
+    {
+      "name": "Tivano",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/tivano",
+      "telephone": "+86 28 6297 4190",
+      "description": "餐室布置华丽但毫不拘束。入口处的酒吧陈列着各种烈酒，金光闪闪。由地下伸延至天花的巨型酒柜，背面隐藏着通往二楼包厢的楼梯。客人可透过半开放式厨房观赏餐点制作的过程。菜单供应多款披萨，当中不乏糅合了四川元素的款式，更可应要求做成小分量。此外，自家制的意粉及甜点牛轧糖冰淇淋亦不容错过。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "意大利菜"
+      ]
+    },
+    {
+      "name": "万三面馆 (青龙正街)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/wan-san-mian-guan-jinjiang",
+      "telephone": "+86 181 2323 4325",
+      "description": "提供多种面食和烧腊，以燃面和腊肉为店内招牌。前者配料丰富，包括花生碎、葱花，以及炒香的芽菜、白芝麻等，口感丰富，是地道的宜宾口味。面条除了有不同份量选择，也可改为寛面。不妨搭配姜鸭或香气四溢的生椒牛肉臊，更添风味。除了广味香肠，其他烧腊到晚上六时才开始供应，建议于夜间前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "且芳香",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/qie-fang-xiang",
+      "telephone": "+86 28 8556 6886",
+      "description": "餐厅门前附设雅致的小院子，室内设计则古色古香，以别致的窗花、瓷器和绿植流水，营造惬意的氛围。提供家常川菜，从经典小菜到地道小吃，应有尽有。招牌菜犀浦鲢鱼肉质细嫩，带有独蒜的香甜味道。以猪肉包裹咸蛋黄的海味四喜圆子，鲜香浓郁。下午茶时段提供精致中式茶点。设有包间，手工宴席菜须提前预订。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "丽轩",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/li-xuan",
+      "telephone": "+86 28 8359 9207",
+      "description": "位于酒店26楼，客人可以透过落地玻璃窗俯瞰城市景色。根基扎实的厨房团队炮制出多款精致粤菜：招牌花胶东海黄鱼羹用料十足，汤头味道鲜美；金巢脆菌爆澳大利亚和牛粒则软嫩多汁，搭配鸡枞菌，十分爽口。各款炖汤及烧味也具水准。若前来宴客聚餐，可选坐设最低消费的包厢。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "云起食 (成华)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/cloud-arise-chenghua",
+      "telephone": "+86 28 8577 3838",
+      "description": "餐厅宽敞舒适，以包间为主，内设茶室和阳光房。供应传统川菜，厨房团队沿袭古法烹调技艺，且对食材颇有要求，会以大坛子自制泡菜和酱料。招牌菜古法坛子肉以柴灰火慢煨数小时，每日限量供应。夫妻肺片口感紧致，由服务员在桌边淋上红油汁，麻辣浓香。另有不少海鲜和位上菜选择，方便商务宴请。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "五岳宫",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/wu-yue-gong",
+      "telephone": "+86 28 6304 8969",
+      "description": "所处酒店由四合院改建而成，环境古色古香。提供适合二至十人的私房套餐，更可根据客人口味制定菜单。菜品以创新川菜为主，融合粤菜、官府菜、淮扬菜甚至创意西餐。厨师团队有丰富川菜烹调经验，菜式味道与卖相兼备，其中酸甜多汁的宫保大明虾球，以及色香味美的果木燃烧雪花牛肋皇皆值得一试。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "会馆",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-hall",
+      "telephone": "+86 28 8611 6567",
+      "description": "国际品牌路易威登在中国的首家餐厅，由民国时期的广东会馆改造而成，设计融入品牌个性，并且保留四合院布局、镂空木质结构和青砖古韵，形成静谧的用餐氛围，与太古里的繁华形成对比。提供季节性品尝套餐及单点菜式，意籍主厨Leonardo Zambrino运用欧陆烹饪技巧，结合四川本地食材，为精致法餐注入川味精髓。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "前里",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/qian-li-1208405",
+      "telephone": "+86 28 6083 1288",
+      "description": "用餐环境风格现代，简约舒适。供应东海海鲜、台州家常菜和风味小吃，选用质量出众的应季食材。其中姜汁猪肚鸡料足鲜美，带姜汁香气，既驱寒又养胃，特别适合在冬季品尝。海鲜做法多样，可以选择清蒸、啫啫、家烧、辣烧等方式来烹调。小吃食饼筒的饼皮软糯焦酥，内里馅料饱满，口感丰富。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "华道生活 · 钰善阁",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/huadao-art-of-life-yu-shan-ge",
+      "telephone": "+86 28 8512 2888",
+      "description": "毗邻环境清幽的肖家河，室内设计带禅意，备有私密度高的包厢和临河座位，用餐气氛闲适宁静。食材不含奶制品，而是以各种蔬食、菇菌为主。根据时令供应三款套餐，菜品包括具本地特色的麻辣菜肴。菜式卖相精致，名字也别出心裁，如外型像极牛排的胡汁猴排，为猴头菇搭配黑胡椒汁。上菜时店员会作简单介绍，非常贴心。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "南公馆",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/nan-s-gourmet",
+      "telephone": "+86 28 6110 2206",
+      "description": "老板是厨龄逾四十年的香港人，厨房团队亦以广东师傅为主。除了全日供应的点心，这里提供地道的港派粤菜，如烧味、炖汤和煲仔菜等。在众多菜式之中，甜梅菜蒸猪肉饼选用肥瘦适中的猪肉，混合爽脆的梅菜粒，口感爽弹，味道均衡。部分菜式限量供应，建议提早查询并预留。若宴请聚餐不妨预订包厢。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "南堂馆 (天顺路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/nan-tang-tianshun-road",
+      "telephone": "+86 28 6535 8899",
+      "description": "“南馆”是古时成都达官贵人用餐的地方，此店取名“南堂馆”，表明传承饮食文化的理念。菜式以传统四川口味为主，招牌菜贡椒乳鸽外皮酥脆，鸽肉汁水丰盈并带有独特的麻香。另推荐推纱望月，厨师将鱼豆花制成月牙形，口感细腻柔滑，清汤加入韭黄粒和藠头，多添一份酸爽滋味。部分菜式设单人分量，点菜更具弹性。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "厝下",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/cuo-xia",
+      "telephone": "+86 173 3607 0704",
+      "description": "室内陈设带着潮汕民俗文化的特色，店名在当地意指“房屋”，希望能为客人带来如在家般温馨惬意的空间。菜单涵盖经典味道，海鲜大多从潮汕地区运来，鸡汁蒸沙尖鱼是当中的亮点之一。卤狮头鹅也是店内招牌，表皮油亮，胶质丰富，咸香馥郁在口中萦绕，特别推荐点选鹅头。务必提前预约并安排心仪菜式。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "同福社",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/tong-fu-she",
+      "telephone": "+86 135 6888 5545",
+      "description": "隐藏于民宅小区内，包罗宫保鸡丁、鱼香肉丝等传统家常川菜，并以鳝鱼菜式闻名。当中，红烧鳝鱼为招牌口味，加入自制卤猪大肠，嗜辣者可选深受欢迎的同福鳝鱼，另有季节限定的野蒜鳝鱼。同时提供竹荪肝膏汤、锅贴鸭方等工序繁多的古法川菜，均须提前预定。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "吴氏荟 (锦江)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-woo-s",
+      "telephone": "+86 28 6527 2678",
+      "description": "餐厅以主理人的姓氏命名，位于一所经翻新的三层洋房，室內设计带有怀旧风情。菜单尽是经过改良的传统川菜，凉菜和热菜均选择丰富，而且价格相宜。推荐炝锅舟山海捕黄鱼，鱼的表面铺满炒香的辣椒，味道香浓，肉质嫩滑，非常适合下酒。饭后甜点方面，建议尝尝外脆内软的流心糍粑。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "吴记怪味面 (锦江)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/wu-ji-guai-wei-mian-jinjiang",
+      "telephone": "+86 28 8675 7438",
+      "description": "此面馆始创于1989年，如今虽由第二代继承，创始人吴老先生仍坚持亲自炒哨子，确保味道如昔。怪味面为招牌主打，浓郁蒜香加上微麻、微辣、微甜的调味，十分特别。牛肉多味面则豆瓣风味香浓，配合牛肉末与爽脆的笋粒，形成丰富口感。各款面食均备有大中小份选择，而且价格实惠，深受食客欢迎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "喜玉饺子酒 (蓝草路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/dumpling-drinks",
+      "telephone": "+86 139 0817 9869",
+      "description": "坐落于宁静的小区之中，以木系家具配衬墨绿色砖墙，装潢简洁但富现代感。店主希望客人能以饺子佐酒，度过轻松的用餐时光。所有饺子均为每天新鲜包制，饺子皮也是依店家配方制成。菜单供应多款饺子，特别推荐猪肉香菇饺和牛肉芹菜饺。饺子每两五只，不妨多试几种口味，同时品尝其他凉菜及卤菜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "饺子"
+      ]
+    },
+    {
+      "name": "宋川",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/song-chuan",
+      "telephone": "+86 193 8195 4678",
+      "description": "餐厅为三层独栋建筑，设有户外花园、窗边景观座位等多种用餐区域。室内装潢采用中式木结构，搭配大面积玻璃幕墙、蜀绣和竹编艺术，颇具设计感。菜单涵盖开水白菜、水煮沸腾乌鱼片、锅巴肉片等经典川菜，也有蛋烘糕、糖油果子等传统小吃。招牌菜蒜泥白肉饱含脂香，配合红油与蒜香料汁，浓郁而美味。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "宴遇·福建荟馆 (武侯)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yanyu",
+      "telephone": "+86 182 1596 3368",
+      "description": "这福建菜馆由当地人掌杓，且大量采用当地的农作物和海产，烹调上却融合川菜的手法，例如以水煮方式制作漳州东山岛出产的小管。推荐真材实料的佛跳墙，其汤底相当浓郁带胶质，十分滋补。饭后不妨来一客口感幼滑、充满茶香的大红袍鲜奶布丁。设有半包间和全包间，切合不同宴客需要。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "川莆酒楼 (梨花街)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chuanpu",
+      "telephone": "+86 28 8475 7248",
+      "description": "老板和厨师都来自福建省莆田市，餐厅特色是不设固定菜单，进店后会由职员带到鱼缸挑选海产，当中选择多样，包括鳗鱼、钉螺、蛏子等。其中豉汁蒸鳗鱼将新鲜的鳗鱼放在荷叶上蒸煮，油脂丰富且充满鲜味，豉椒、香葱和芫茜等令其风味突出。餐厅亦提供套肠和卤面等福建美食。设有多个包房，适合各类宴请。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "巴国布衣",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/sichuan-folk-shenxianshu-south-road",
+      "telephone": "+86 28 8551 1888",
+      "description": "门前矗立着两座牌坊，内部装修同样古色古香，并设有中央舞台，每晚上演川剧变脸。提供经改良的川菜和重庆特色小吃，菜单列出部分菜式的味型和辣度，方便客人挑选。若喜爱河鲜，葱椒三角峰是不错的选择，整条鱼在汤汁里煮得细嫩绵烂，佐以花椒、鲜椒，與浓郁葱香十分相衬。菜式份量颇大，适合携伴同往。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "布洛斯汀",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/brustin",
+      "telephone": "+86 28 8666 6089",
+      "description": "位于天府美术馆的对面，室内陈列着绘画和雕塑，在灯光的映衬下，使空间充满艺术气息，餐厅还邀得本地艺术家制作手绘菜单，其高雅格调尤其适合约会。主厨以西餐的烹饪技巧诠释四川本地食材。仅提供晚市套餐，并于周末开放午市套餐，菜单内容随季节更换。餐酒价格合理，不妨请侍酒师作搭配建议。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "年丰饭店",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/nian-feng-restaurant",
+      "telephone": "+86 28 8669 2665",
+      "description": "店名源自所处的年丰巷，也有着岁寿年丰、太平兴旺的美好寓意。菜单丰富，主要供应精致的家常川菜。招牌菜干烧青椒鲜蹄筋软烂入味，酱汁加入切丁的香菇、五花肉等，增添口感和风味，十分下饭。红油大刀腰片薄而爽口、香味浓郁，同样值得推荐。室内装修古朴雅致，包间数量有限，建议提前预定。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "幺怪面",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yao-guai-mian",
+      "telephone": "+86 139 8222 2921",
+      "description": "供应地道的成都面食，包括汤面及干拌面，而且均备有三种分量。汤面可以选择红味或白味汤底，后者推荐八宝海味，汤头用老母鸡和海味熬煮，面条吸满汤汁，加上大虾干、小蚝豉、鱿鱼干等配料，味道鲜美。素椒杂酱干拌面则以红油、花椒和海椒制作调料，香气浓郁。小店经常满座，客人可于店外的座位用膳。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "庭院399 (锦江)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/ting-yuan-399",
+      "telephone": "+86 28 8455 2579",
+      "description": "小店位于曲径通幽处，室内以彩色纸伞、干花等装饰，营造出随意自在的用餐气氛。供应多款河鲜菜式，当中以脆鳝最受欢迎。餐厅以汤汁泡煮来自内江山区的土黄鳝，上桌时淋上滚油，肉质爽脆鲜嫩。传统肝腰合炒是店家的另一道拿手好菜，猪肝和猪腰口感脆嫩，搭配泡野山椒，非常惹味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "廊桥",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/the-bridge",
+      "telephone": "+86 28 8444 6888",
+      "description": "选址成都著名景点，部分房间设有阳台，客人可以一边欣赏江景，一边享用美食。由大厨江振诚担任厨艺总监，提供精致的现代川菜，热门菜式包括石锅笋壳鱼、杏仁豆腐等。自家腌制的泡菜多达十数款，能尝到川菜的不同味型。厨师用小炉子现场制作的蛋烘糕，除经典口味外，还有提拉米苏、榴莲等新派选择。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "恭州 · 巴蜀味苑",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/gong-zhou-ba-shu-wei-yuan",
+      "telephone": "+86 28 8443 9898",
+      "description": "位于老社区的简朴小店，由家族经营二十多年，提供川渝地区的传统家常菜。老板和厨房团队大多来自重庆，店名“恭州”就是重庆的古称。招牌菜吉利家乡鱼选用草鱼，以过水鱼的做法呈现，鱼肉嫩滑又富有酱香，酸辣开胃。粉蒸排骨有别一般做法，店家以猪肚包裹米粉、豌豆粒和排骨蒸制，上桌时剪开猪肚，软糯鲜嫩，香气扑鼻。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "新拾玖",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/new-peking-cuisine",
+      "telephone": "+86 28 8322 1919",
+      "description": "餐饮品牌发源于北京，把传统宫廷菜和北京街头小吃，以现代方式重新演绎。招牌菜果木低脂烤鸭先用烤箱烤出多余油脂，再用果木烤制，鸭肉软嫩可口。老北京糖油饼也相当出色，不但炸得金黄蓬松，更以意大利黑醋作搭配，解腻且富特色。餐室设计时尚，并以糅合戏曲的电子音乐作背景，别树一帜。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "京菜"
+      ]
+    },
+    {
+      "name": "新荣记",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xin-rong-ji-1207940",
+      "telephone": "+86 28 6810 2828",
+      "description": "餐厅设计低调奢华，室外座位可看到邻近的双子塔，舒适写意。菜单上除了品牌的经典菜式，亦渗入本地元素，例如沙蒜烧豆面加上自制泡菜，爽脆美味。肥肠古镇香干看似粗豪简单，却蕴含许多巧思和细节：将软糯可口的肥肠结合浙江前童古镇香干，吸满辣卤汤汁的咸鲜浓郁。提供配菜服务，店员会按客人要求提前制订菜单。",
+      "michelin_award": "TWO_STARS",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "旦",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/aurore",
+      "telephone": "+86 138 8227 0213",
+      "description": "餐厅位于住宅小区的内巷，需要穿过地铺的姊妹餐厅，才能到达店内。由本地厨师主理，食物以川菜味型为灵感，结合西式烹饪技巧，在传统基础上添加创新元素，同时为味蕾带来丰富体验。供应单一套餐，选用本地时令食材入馔，确保其新鲜可口。用餐环境舒适，食客可以观赏开放式厨房内的料理过程。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "曾牛肉 (青羊)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/zeng-niu-rou-qingyang",
+      "telephone": "+86 28 8171 6928",
+      "description": "餐馆以家庭式经营，凭借好味道和亲民价格在街坊间累积口碑。主打牛肉菜式，提供蒸、烧、炖、炒等烹调方法，结合家常川味，贴近本地喜好。小笼粉蒸牛肉是必点招牌，牛肉裹满自制米粉，加入红油让肉香更浓郁。番茄牛尾汤用大块牛尾与番茄浓汤一起慢火熬制，牛肉软嫩，搭配酸甜汤汁，十分可口。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "杨伯英传统杂酱面",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yangboying-za-jiang-mian",
+      "telephone": "+86 136 7814 3880",
+      "description": "老板曾是老牌大酒楼的大厨，运用川菜的烹调技巧来制作面汤和浇头。传统素椒面为招牌美食，炒肉末拌以麻酱、红油、海椒、花椒等，浓香扑鼻，叫人欲罢不能。不吃辣的建议选择海味抄手，汤底包含虾皮、瑶柱等干货。面条分为粗、细两种，每款面食设三个份量。店面较小，只有室外座位。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "柴门公馆 (桐梓林东路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chaimen-gong-guan",
+      "telephone": "+86 28 8515 9911",
+      "description": "餐室布置时尚，大厅设有四人卡座，用餐环境舒适自在。食物以川菜为基础，提供多款时令海鲜及河鲜，亦有不少广东风味的砂锅小菜，选择丰富。前菜陈皮牛肉香而不柴，牛肉吸附着红油和椒丝的香辣，回口微甜。泡豇豆烧黄金笋壳鱼的酱汁使用了自制的泡豇豆和泡萝卜，味道酸辣开胃，适合两人分享。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "柴门荟",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chaimen-hui",
+      "telephone": "+86 28 8080 3377",
+      "description": "为集团的高端品牌，主打创意川菜，精选环球优质食材，讲究不时不食，也强调味道层次与食材本味。例如清汤鸡豆花入口绵密轻盈，汤色澄澈，带有自然鲜味。另推荐陈皮宫保谷饲牛小排，肉质软嫩，酱汁甜酸开胃。餐厅以包厢为主，装潢简约而不失奢华，提供不少一人量和小份菜式，满足宴请需要。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "永乐饭店 (武侯)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yongle-restaurant-wuhou",
+      "telephone": "+86 28 8512 3321",
+      "description": "餐厅始创于1985年，古色古香的中式青瓦顶、镂空的木门框和红灯笼，尽见特色。食物方面，一直保留传统川菜口味，且多为家常菜式。推荐藿香茄子烧鳝鱼，鳝鱼弹嫩、茄子软烂入味，点睛之笔是那一丝藿香，风味独特。不擅吃辣的话，可以试试招牌糯米排骨和丸子汤。饭点必排长龙，建议提早到店。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "湘上湘",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xiang-shang-xiang",
+      "telephone": "+86 28 6083 1298",
+      "description": "厨师团队来自湖南，并将上乘的辣椒从家乡空运至成都，务求带来正宗的湘菜体验。五椒蒸鸿运当头为必点菜式，选用洞庭湖区铁山水库的胖鱼头，搭配五款不同的湖南辣椒烹调，鱼肉鲜嫩，汤汁酸辣鲜香。18秒小炒湘西黄牛肉特选软嫩的肩颈肉，以蒜瓣、芹菜和小米辣同炒，香气扑鼻且带辣劲。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "湘菜"
+      ]
+    },
+    {
+      "name": "漫得",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/mind",
+      "telephone": "+86 138 8178 0664",
+      "description": "店名是四川话“慢点儿”的谐音，餐室墙上挂满老地图和旧粮票，且播放着旧磁带和录像带，营造慢活气氛。日间供应面点及小菜，晚上以家常小菜为主。抄手、水饺、烧卖每天手工包制，十分推荐。老板会根据味型和酱汁搭配不同面条，譬如招牌素椒杂酱面选用粗面，加上自制酱油、红油和葱蒜，风味妙绝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "漾亚·雍雅合鲜 (桐梓林东路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/young-art-yong-ya-he-xian-tongzilin-east-road",
+      "telephone": "+86 28 8519 9019",
+      "description": "品牌的旗舰店，占地两层并设有多个包厢，每桌均有服务员打点。以江鲜作招徕，更自设养殖场以确保质量。供应多款川辣口味的小菜及火锅，招牌红番鸳鸯锅的锅底一边以老母鸡、猪骨、酸姜、泡椒、酸菜等熬煮逾两小时而成；另一边则以新疆番茄熬煮，清甜鲜美。前菜方面，推荐餐厅自家腌制的天目山手剥笋。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "熟地当归 (武侯)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/shudidanggui",
+      "telephone": "+86 180 8188 0107",
+      "description": "餐室以户外庭院座位为主，富大自然气息，用餐环境静谧祥和。餐厅融合川菜与药膳，菜单列出各菜式包含的药材和益处。其中，南姜广藿香佐黄鱼、当归牛肉面等大受欢迎，后者更是不少人的午餐首选。餐厅为每位客人送上一杯以甜叶菊搭配时令草药的草本茶，十分贴心。部分菜式需提前预订。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "玉芝兰",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/yu-zhi-lan-1196150",
+      "telephone": "+86 189 8084 1966",
+      "description": "店东兼主厨被誉为川菜大师，餐厅作风却无比低调，门头没有大型牌匾，只在入口挂上一小块门牌。室内装潢古朴精致，四处摆放着店主的陶瓷作品。供应多个价位的套餐，菜式根据客人的要求和忌口来准备，用料新鲜上乘，并配合突显食材本味的烹调技法。招牌菜坐杠大刀金丝面细如发丝，尽显不凡刀功。须提前订座。",
+      "michelin_award": "TWO_STARS",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "琬琰",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/wanyan",
+      "telephone": "+86 177 1135 3184",
+      "description": "餐厅在川菜基础上加入创新元素，富有地道风味之余，也带来多样化的味蕾体验。宫保燕窝外层香脆，内里是柔软的燕窝，口感独特，加上酸甜酱汁和微麻的余韵，组合出色。大红袍椒香鲍鱼使用自制花椒油，配合油泡鲜鲍鱼和百灵菇，香气十足。楼高三层，设有包间及户外茶座，环境舒适。不少菜式须提前预订。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "甘记肥肠粉 (金牛)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/gan-ji-fei-chang-fen",
+      "telephone": "+86 151 0827 1877",
+      "description": "小店开业三十多年，显眼的蓝底白字招牌底下，常排起长长人龙。毫无疑问，肥肠粉是其招牌，肥肠清理干净，十分爽口，汤底可选择红油麻辣口味或者原汁白汤，还可额外添加冒节子，让口感更丰富。红薯粉由店家每日手工制作，口感软糯带韧劲。同时供应小吃锅盔，馅料混合猪肉和花椒，外酥內香，不妨一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "百年粉蒸牛肉",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/bai-nian-fen-zheng-niu-rou",
+      "telephone": "+86 136 9346 6931",
+      "description": "店家开业二十多年，粉蒸牛肉無疑是这里的招牌，以自炒的蒸肉粉烹調，牛肉软嫩不散，伴有带胶质的肉筋，口感丰富，且散发香料的迷人芳香，非常下饭。菜单上还有别处少见的童年热窝鸡，带骨鸡块均匀裹上姜粒和葱末，鸡肉鲜嫩不柴，姜香浓郁，令人回味。现点现做的爆炒土鳝鱼同样值得尝试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "禅悦素食",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chanyue-vegetarian",
+      "telephone": "+86 28 8333 1820",
+      "description": "店主为了推广素食，开设了这家餐厅，并以竹帘、木制家具、点缀于墙上的小盆栽等，营造悠闲舒适的环境。菜式以地道四川口味为主，含有姜、蒜、辣椒等调味，同时选用各种菇菌模仿荤食，口感味道多样化。套餐内容根据节气，每15天更换一次。菜式分量充足，而且可以添加，适合和亲朋好友欢聚共享。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "福满楼",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/hokkien-cuisine",
+      "telephone": "+86 28 6011 6969",
+      "description": "餐厅环境雅致，以落地玻璃引入自然光，空间感充足。厨师团队皆为福建人，菜单选择多样，无论是海味、海鲜，还是风味小食都一应俱全。推荐泉州脆皮五香卷，以三款不同部位的猪肉搭配茡荠和香葱，层次丰富。福建包心荔枝肉使用了猪肉和茡荠，使丸子增添了爽脆口感，富有特色。泉州海鲜卤面汤头鲜香，同样不容错过。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "竹记制面铺 (锦江)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/zhu-ji-zhi-mian-pu",
+      "telephone": "+86 185 8185 1965",
+      "description": "装潢呈复古风格，用餐环境洁净。面积不大的店内放有制面机，所有面条均由老板亲自制作，口感顺滑且带有韧性。面食皆现点现煮，且设有两种分量，价格实惠。推荐咸辣兼具的炸酱面，炸酱以肉末、豆瓣酱、甜面酱等炒制，肉香酱浓。小店还提供生面条，让客人买回家自煮品尝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "组织向南",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/organization-south",
+      "telephone": "+86 132 8112 8182",
+      "description": "餐室洋溢复古气息，布置亦饶富兴味，与模仿武林秘笈的菜单设计相映成趣。菜式中不乏镬气和分量皆十足的四川美食，招牌菜包括青椒绝情鸡、烧土黄鳝等，味道出众，不容错过。同时提供丰富的凉菜选择，还有小白板上手写的当天特色推荐，例如以苦笋、奶浆菌等时令食材入馔的限定菜式。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "老成都逸城鲜三样面",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/lao-chengdu-san-yang-mian",
+      "telephone": "+86 28 8732 0715",
+      "description": "小店虽装潢简单、又需与人拼桌，但深受食客欢迎。提供传统老成都面食，分为“老三样”、“新三样”和“再三样”三个类别。其中以老三样中的素椒杂酱面最受欢迎，面条拌以杂酱、豇豆粒和手工红油，香浓惹味。建议点选较少的面食分量，并加配剁椒抄手等小吃。红沙冰豆花口感顺滑又解辣，推荐于餐后品尝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "胡二哥药膳蹄花",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/hu-er-ge-yao-shan-ti-hua",
+      "telephone": "+86 132 1900 5028",
+      "description": "室内布置简单，由晚上营业至凌晨，吸引很多本地客人前来宵夜，气氛热闹。药膳蹄花标榜无多余添加，蹄花经八小时炖煮，口感软嫩，每喝一口汤都是满满的骨胶原，汤头添加了适量药材，香气四溢，非常可口，难怪成为这里的必点菜式。店内还提供其他小炒，火爆肥肠、小青椒拱嘴炒饭等都镬气十足。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "芙蓉凰",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/fu-rong-huang",
+      "telephone": "+86 28 8734 6868",
+      "description": "菜单上一道道传统川菜全由经验丰富的厨师团队主理，当中不乏工序繁复、坊间少见的菜式。椒香肝尖的火候掌控得当，猪肝口感软嫩，与大量二荆条辣椒圈、葱花同炒，咸鲜香浓，十分下饭。经典凉菜夫妻肺片麻辣而不燥烈，令人回味。餐厅设有多个包厢，大厅以屏风分隔每一桌，增加私密度。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "芳香景",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/fang-xiang-jing",
+      "telephone": "+86 28 6460 1181",
+      "description": "店名源自宋代文人欧阳修的作品，位处古色古香的院落之中，环境高雅。提供多款套餐，皆为传统老川菜，当中不乏费时费工的手工菜品，须提前预订。招牌菜鱼唇麻婆豆腐麻辣香浓，不容错过。开水白菜用上古法澄清手艺，将奶白高汤反复过滤至清澈透明，味道鲜美无比。上菜时店员会将菜式渊源细细道来，服务细致贴心。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "茉筱馆",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/mosnack",
+      "telephone": "+86 177 1362 1352",
+      "description": "白色为主的装潢简洁干净，并设有户外用餐空间，十分舒适。菜单主要分为水饺、抄手和面条，均为手工制作。最为推荐酸汤水饺，其馅料汁水充盈，在酸汤中添加了质量上乘的紫菜、虾米和芝麻，香气四溢。骨汤抄手的汤底经六小时慢火熬制，味道纯净，同样值得一试。大部分菜品可选择大小分量。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "荣园餐馆",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/rong-yuan-can-guan",
+      "telephone": "+86 28 8553 6764",
+      "description": "位于成都老城，提供地道的家常川菜，厨师和服务员皆是本地人。招牌菜辣桂鱼的鱼料每日从广东空运而来，肉质鲜嫩，加上秘制剁椒、藿香等调味，十分下饭。不妨问问老板当日推荐，运气好的话，会碰到限量售卖、爽脆鲜甜的爆炒肚头，不要错过。餐厅不设包间，大厅内的大圆桌不少，适合爱热闹的顾客。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "蓉荣北大铺盖面",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/rongrong-beida-pugaimian",
+      "telephone": "+86 198 2872 6617",
+      "description": "店面简洁朴实，只有几张长桌及板凳，师傅在店內一角把拉好的面条抛进锅中烹调，新鲜煮好的面柔软而带嚼劲。浇头选择不多，分为辣味和白味两类，也可额外作单点。其中辣味牛肉浇头的调味甚佳，辣中带甜，回味悠长。白味可选炖土鸡，汤头加入冬菇熬煮，鲜香浓郁。客人络绎不绝，繁忙时段需要排队及拼桌。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "蔻",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/co",
+      "telephone": "+86 191 0287 9730",
+      "description": "主厨将游历经验结合现代烹饪技巧，创造出不同风味的佳肴。仅提供一款品尝菜单，顺应时令选择食材，当中不少蔬果和香料来自四川的合作农场。不要错过自家制作的酸种面包，使用续养二十年的酵种，给面包带来诱人风味，外层质感清脆，内里口感柔软，单吃已能体验美妙的香气。座位有限，须提前预订。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "薛涛 · 院子里",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xue-tao-in-the-yard",
+      "telephone": "+86 28 8477 8488",
+      "description": "餐饮品牌以唐代著名女诗人薛涛命名，这家分店坐落于幸福梅林景区的院子里，环境古朴雅致。餐厅由两栋老式建筑组建而成，提供丰富多样的四川河鲜和家常菜。其中黄颡鱼的多种做法中，以香辣口味最受欢迎，细密嫩滑的鱼肉，不会被青花椒和清油掩盖鲜味，调味中的藿香更具画龙点睛之效。周末前往须提前订位。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "蜀府宴",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/shu-mansion",
+      "telephone": "+86 28 8337 8781",
+      "description": "装修采用现代风格，玻璃柜分别展示名贵干货和丰富藏酒，另设流水幕墙，使空间弥漫优雅氛围。提供精致川菜，并将四川味型融入各种海鲜，菜式变化多样。例如回锅土鳝运用回锅肉的做法烹调鳝鱼，加入樟树港辣椒、豆豉等同炒，风味十足，也充满创意。包间与大厅的菜单略有不同，适合商务宴请，但须提前预定。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "观锦 (成汉南路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/guan-jin-wuhou",
+      "telephone": "+86 28 8431 3737",
+      "description": "从沿街的电梯直达餐厅，空间明亮舒适，格局以包厢为主，建议提前预约。招牌菜大师豆瓣鱼以泡菜、豆瓣酱和藿香一同烧制，鲜香惹味，备有江团、笋壳、翘壳等鱼种选择。怪味丁丁兔肉质软嫩，酱汁中的咸、酸、甜、麻、香五味交织平衡，配上花生米和葱段，口感层次与风味兼具。擂椒炒扣肉加入风味独特的杭椒，也值得一尝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "许家菜",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/xu-s-cuisine",
+      "telephone": "+86 28 8529 1388",
+      "description": "此为该餐饮品牌的本店，占地三层，装潢古色古香。以新派川菜为主轴，不但采用时令食材，也自设水缸养殖河鲜和海鲜。提供以川菜二十四味型为主题的套餐，可一次尝遍各式川味。推荐口味椒麻、口感酥脆的青椒干煸河泥鳅，以及店家自制的腊味。设多个包厢，并提供适合多人分享的菜式，建议提早查询及预留限量菜式。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "谧寻茶室",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/mi-xun-teahouse",
+      "telephone": "+86 28 6297 4193",
+      "description": "位于清朝四合院建筑内，设庭院座位，环境雅致且充满韵味。菜式灵感源自大慈寺的素斋，当中一款特别套餐，大量采用大熊猫栖息地周边社区的生态食材，例如绵阳的黄牛肝菌、雅安的萝卜等，厨师将之融入创意，制作出清新可口的精致素食。另有供应中式下午茶，不妨以清香四溢的茗茶搭配手工糕点。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "谭家 (武侯)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/tan-jia",
+      "telephone": "+86 28 8515 8898",
+      "description": "由夫妻二人经营，店铺虽小但干净整洁。提供钵钵鸡、蹄花汤、麻辣兔头等成都特色小吃。其中钵钵鸡选料丰富，口感各不相同：鸡肉烹得弹嫩，毛肚口感爽脆，并有红油麻辣和藤椒两种口味可选。也不妨尝尝鸡汤饭，是童年时的家常味道。餐厅只在晚上营业，且逢周一休息，欲造访需注意。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "转转会 (莲花南路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/zhuan-zhuan-hui-lianhua-south-road",
+      "telephone": "+86 28 8451 1000",
+      "description": "作为品牌的总店，以简朴的中式庭院设计，搭配木桌竹椅，予人亲切温韾的感觉。供应家常川菜，尤以乐山峨眉一带的口味为特色，菜式辣度温和，朴实而可口。推介口感软糯的心传肥肠，卤制入味后与蒜和莴笋同烧，爽脆惹味，难怪是招牌菜。乐山豆腐脑，卤肥肠等菜肴甚具当地风味，同样值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "辛厨房 · 辛悅",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/private-collection-see-joy",
+      "telephone": "+86 199 8349 9909",
+      "description": "环境典雅舒适，以包厢为主，并设有露天酒廊。主要供应清末民初的自贡会馆菜，出品精致，建议选择具盐帮菜特色的菜肴。必须提前订座，餐厅会先了解客人喜好和忌口，再根据预算安排套餐。文火慢煮香辣牛舌筋道中带软糯，十分惹味。盐商一品烧椒耗牛掌为失传名菜，牦牛掌以烧椒酱炖煮至入味脱骨，值得尝尝。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "运",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/infinite-luck",
+      "telephone": "+86 28 6870 6052",
+      "description": "由经验丰富的本地厨师主理，选材来自四川各地，以扎实的烹调技巧重新演译经典川菜味型。不妨预订樟茶葫芦鸭，外皮酥脆，烟香浓郁，菜式以樟茶鸭为灵感，制作成葫芦形状，既好看又有吉祥寓意。麻婆豆腐米凉粉带有麻辣鲜香等细腻风味，自家制作的米凉粉晶莹软糯，配上嫩滑豆腐，为兼备传统与创意之作。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "配德",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/pairedd",
+      "telephone": "+86 193 8192 6213",
+      "description": "餐厅主厨曾在法国工作，而集团的创办人有侍酒师背景，所以很重视酒和食物的搭配。仅提供十道菜套餐，包含海鲜和肉类，同时配搭七杯不同酒款。菜单定期更新，根据季节调整食材，如夏天会以福建海产入馔，冬天则可尝到较多的本地食材。设有围绕着开放式厨房的吧台座位，部分菜式会由厨师亲自上菜和讲解。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "银庐",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/silver-cottage",
+      "telephone": "+86 28 6328 6688",
+      "description": "以宋朝的人文生活为设计蓝本，处处展现出优雅气质。众包厢各具特色，除了备有下棋、赏花、焚香的空间，亦可透过落地玻璃，欣赏环抱餐厅的湖光和园景。穿上汉服的服务员为客人殷勤打点，更有现场古筝演奏。食物方面，只供应套餐，菜式均以新鲜食材，配合川菜手法烹调，当中包含芙蓉鸡淖等手工菜式。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "银芭1986",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/art-yinba",
+      "telephone": "+86 28 6446 0099",
+      "description": "墙上可见月饼模具、古代餐盒等展现饮食文化历史的摆设，装潢见心思。餐室划为不同区域，环境舒适同时具私密度。毕业于餐饮学院的老板致力推广四川饮食文化，以优质食材结合新派烹调技巧重新演译传统川菜，保留经典味道同时为之披上精致新装。除了手工菜品，推介一试招牌菜黄金鱼头配手工面筋。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "银锅",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/silver-pot",
+      "telephone": "+86 28 6577 7598",
+      "description": "餐室空间感十足，并以店东游历时所购的收藏品作点缀，假日更有现场弦乐演奏。老板致力将世界各地的优质食材融合到川菜之中。土罐贡椒叶熏烤乳鸽、灯影鱼片等别具水准。海产菜品选择多样，凉菜由拥有三十多年经验的师傅主理，同属必试之选。部分菜品设半份选择，客人可尝试更多菜品。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "锦城印象 (武侯祠大街)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/china-samite-hot-pot-wuhouci-street",
+      "telephone": "+86 180 8110 9421",
+      "description": "为此品牌的总店，装潢融入青砖木梁、仿古窗棂等元素，展现四川民居的特色风貌。锅底、香油碟等全为自家调制，前者推荐经典酱香牛油红锅，感受麻辣鲜香带给味蕾的酣畅淋漓。招牌极品生抠仔鹅肠采自两个月大的仔鹅，口感爽脆，轻灼15秒即可享用。建议也点上一份老冰粉，手搓冰粉伴着香甜糖水，清爽解辣。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    },
+    {
+      "name": "门板儿面",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/member",
+      "telephone": "",
+      "description": "位于宁静的街区里，只于午市营业。室内布置以八十年代为主题，家具和饰品充满怀旧色彩，木桌是由老门板做成，故店名取为“门板儿”。菜式选择不多，但无论是豇豆面、脆臊面、牛肉面，还是带老成都口味的油油饭，都美味可口。其中，豇豆面用的是本地棍棍面，煮得硬挺筋道，非常挂汁，拌入干肉臊和豇豆带来丰富口感。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "陈麻婆豆腐 (青华路)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/chen-mapo-tofu-qinghua-road",
+      "telephone": "+86 28 8731 7216",
+      "description": "相传于清朝同治元年，陈麻婆创作出麻婆豆腐这道经典料理，经过百载后这老字号已是成都人尽皆知的美食据点。此招牌菜以保温性强的石锅烧煮，搭配米饭份外滋味。其他菜式如钟水饺、荷叶粉蒸肉均价廉物美，值得一试。楼高两层，装潢古色古香，经常座无虚席，建议订座并支付按金，节省排队时间。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "隐庐·古法川菜",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/hidden-place",
+      "telephone": "+86 28 6577 7137",
+      "description": "年轻的创始人曾跟随川菜泰斗学习，他以古法川菜的技法，结合各地优质新鲜食材，还原鸡豆花、芙蓉鸡片、麻婆豆腐等传统菜式。推介以二十多种调料制成、别具风味的家常怪味鸡，以及香辣可口、肉质鲜嫩的炝锅鳜鱼。餐室设计含中式元素，环境优雅舒适，并设有露天雅座。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "食物数据库",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/datenbank",
+      "telephone": "+86 193 8216 7004",
+      "description": "餐厅名称寓意汇集各种食材，经过解构、重组，呈现全新的味觉体验，并可透过开放式厨房与厨师互动。从品尝套餐到单点菜式，均可尝到世界各地的风味和先锋烹饪技法。麻婆豆腐是常设菜式，现场炒制后在客人面前舀入滚烫的容器内，热气四散，颇具仪式感，麻辣味恰到好处，加入牛筋和臊子令口感更加丰富。",
+      "michelin_award": "Selected",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "马旺子 (锦江)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/ma-s-kitchen",
+      "telephone": "+86 28 6423 1923",
+      "description": "源自四川眉山的马旺子酒楼，始创于1923年，现由第四代经营。菜式调味略经改良，更贴近本地人口味。招牌菜毛血旺用料新鲜，值得一试。此外，脆皮粉蒸肉给这道传统菜加添了酥脆的外壳，口感一流。担担面、甜烧白、宫保茄香虾球和手工冰粉也是不错的选择。门前常见人龙，建议提早前往。",
+      "michelin_award": "ONE_STAR",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "龙森园 (青羊)",
+      "url": "https://guide.michelin.com/en/chengdu-municipality/chengdu/restaurant/long-sen-yuan",
+      "telephone": "+86 28 8615 5158",
+      "description": "开业逾廿年，提供正宗老成都火锅，备有多样的锅底和配料。推荐以冷锅上桌的峨眉鳝丝锅，汤汁麻辣鲜香，切成长丝的鳝鱼新鲜脆嫩，搭配莴笋丝和猪油渣，口感层次丰富。火锅以外，凉菜和小食也值得一试，如鲜香爽脆的麻辣兔肚和软糯的红糖糍粑。酱料方面，很推荐店家自制的藤椒香麻调味油及多种辣度的辣椒粉。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Chengdu",
+      "city_slug": "chengdu",
+      "region": "Chengdu",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "火锅"
+      ]
+    }
+  ]
+}

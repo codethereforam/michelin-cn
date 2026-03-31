@@ -1,0 +1,640 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Xiamen",
+  "city_slug": "xiamen_1031934",
+  "restaurant_count": 42,
+  "restaurants": [
+    {
+      "name": "1927东园私厨",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/1927-dong-yuan-si-chu",
+      "telephone": "+86 137 7993 6375",
+      "description": "餐厅所在的别墅建于1927年，历史悠久，前拥苏州园林风格的庭院，氛围静谧安然。厨房团队以本地人为主，提供中高端的私房菜，菜式口味地道，并因应时令而改变，部分必须预订。青橄榄炖旺螺腱子肉汤火候足，味道清甜。姜母鸭焖鲍鱼的姜香浓郁而不辣口，鸭肉入口香醇，鲍鱼肉质爽弹。只设包厢，需提前订座。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "上青",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/xian-xiong-qi",
+      "telephone": "+86 592 208 2008",
+      "description": "主营闽南风味海鲜菜式，店名在闽南话发音是“最新鲜”的意思。进门便看到联排海鲜池，全靠老板的独家海捕资源，品种多样的海鲜每日到店，建议请点餐员推荐。招牌菜上青腩肝煮采用传统酱油水的方法烹调，皮软肉嫰，鱼肝如豆腐般软滑，鲜味十足，十分下饭。芥味沙虫口感爽弹，是不错的前菜选择。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "乌糖沙茶面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/wu-tang-sha-cha-mian",
+      "telephone": "+86 592 204 1658",
+      "description": "开业数十年来只售卖沙茶面，汤底以独家秘方制作，将花生和热砂一同翻炒，保留花生的原汁原味，味道咸鲜微辣，香浓诱人。提供猪杂和小海鲜等二十多种配料，包括肥厚鲜甜的蛏子、多汁饱满的海蛎，还有爽口的猪心猪肚，皆不容错过。小店只开上午，建议尽早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "五兰沙茶面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/wu-lan-sha-cha-mian",
+      "telephone": "+86 153 9204 1523",
+      "description": "店主五兰贩卖沙茶面已数十载，小店藏身于街巷之中，门前总是挤满前来寻味的食客。店家每日六点开始熬制汤底，沙茶酱则沿用家传配方，花生味浓郁且带淡淡蒜香，甜中透着微辣，醇香而不腻。提供多种料头组合，选择丰富。同时供应福建特色小菜，建议试试现点现做、金黄焦香的海蛎煎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "傣泰",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/dai-tai",
+      "telephone": "+86 592 503 2045",
+      "description": "从餐厅招牌上的傣文店名，不难猜出这里供应云南家庭料理。来自云南的厨房团队，使用当地食材带来正宗口味，当中不乏香辣菜式，不嗜辣的可与店员沟通调整辣度。前菜傣家炸猪皮酥脆而带嚼劲，调味出色。生炒思茅甜笋腊肉充满镬气，甜笋爽脆清甜，与云南腊肉、干椒和蒜片等同炒，咸香微辣，风味别致。不设订座，宜提早到店排队。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "滇菜"
+      ]
+    },
+    {
+      "name": "兴旺海鲜·荣廷荟 (思明)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/xing-wang-seafood-rongting-hui-siming",
+      "telephone": "+86 592 602 6858",
+      "description": "兴旺海鲜于94年成立时为海鲜供应商，其后于2016年开设海鲜酒楼，继而发展成高端海鲜餐厅。这家旗舰店空间宽敞，放置鱼缸养殖各式海鲜，墙面展示着近百种海产标本，让人恍如置身于海洋博物馆。客人先从海鲜区挑选进口或本地海鲜，配合不同烹调方法。此外，也可品尝以本地农产品制作的特色闽菜。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "劳松扁食店",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/lao-song-bian-shi-dian",
+      "telephone": "+86 592 298 8692",
+      "description": "开业三十多年，很多本地人都是吃他们的扁食汤、花生酱拌面和脱骨肉长大。所有食物均为现点现煮，还可以看到阿姨们在现场包制扁食。扁食可以选择面皮或者燕皮，前者软滑后者爽脆，包裹着弹嫩多汁的猪肉馅，引人垂涎。花生酱拌面也是出色之作，面条柔滑，花生酱与甜辣酱的比例平衡，风味香浓。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "勛",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/kunsho",
+      "telephone": "+86 178 5051 8887",
+      "description": "阿根廷主厨Agustin Balbi将本地风土融合现代欧日料理，季节菜单通过巧妙搭配和精致摆盘，带来视觉和味觉的双重享受。前菜金枪鱼塔塔配白蒜酱、烟熏红椒泡沫和米脆，层次丰富，再以千岛湖十年鱼子酱点缀，增添了咸鲜风味。西班牙汤饭是餐厅招牌菜，也传递主厨对家乡的记忆，微微开花的米粒吸满浓郁汤汁，温润而富层次。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "厦",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/xia",
+      "telephone": "+86 592 262 6730",
+      "description": "年轻主厨出生于江苏，曾在知名的粤菜餐厅工作，菜单融合粤菜、闽菜，提供多样化的选择。冻花生汤在传统基础上加以改良，呈现类似布丁的软滑质地，带有浓郁花生香气，并加入口感有如燕窝的海石花，令人回味。餐厅环境雅致，面向五缘湾景观，黄昏时分可以欣赏到日落美景，气氛浪漫。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜",
+        "闽菜"
+      ]
+    },
+    {
+      "name": "同安饭店 (华昌路)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/tong-an-fan-dian-huachang-road",
+      "telephone": "+86 592 596 6766",
+      "description": "同安是厦门历史文化的源头，餐厅以此命名，寓意着传承和发扬本地传统菜系。老板出生于捕鱼世家，对本地食材渔获有深厚认识。其中鲈鳗煲以砂煲煎焗去骨鳗鱼，释出的油香混合着浓郁酱香，滋味无穷，难怪是镇店之宝。同安封肉结合山海风味，把精五花与海蛎干、板栗、香菇等用纱布包裹炖煮，香浓美味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "吕娘子红烧牛肉面 (湖里)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/lu-niang-zi-huli",
+      "telephone": "+86 180 3003 3803",
+      "description": "提供牛肉酱拌面、红烧牛肉面等多款面食，首推招牌菜老坛酸菜牛肉面，吊龙牛肉的熟度刚好，肉质软嫩且带嚼劲，配以牛骨汤和自家腌制酸菜，让人食指大动。喜欢浓味的客人，不妨加入特制泡蒜佐吃。另有卤制食品供应，建议选择包含牛肚、大肠、牛肉、豆干和鸡蛋的拼盘，配搭辣油更添滋味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "善古堂 (厦禾路)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/shan-gu-tang",
+      "telephone": "+86 592 881 8111",
+      "description": "店主曾经营中医馆，把个中经验应用到这家餐厅，以中草药结合每日膳食，推广药食同源。菜单以药膳汤水为特色，红菇土鸡汤、莲子小肠汤等颇具福建风格，很受本地人欢迎。汤品搭配生烫、卤水和咸饭，而咸饭加了粉糯绵密的芋头，且可免费续加。小店会根据廿四节气推出季节汤品，建议提前预订。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "国供饭店",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/guo-gong-fan-dian",
+      "telephone": "+86 187 5029 8158",
+      "description": "自1994年营业至今，藏在不起眼的小巷子里，传递着小馆子的烟火气息和人情味。客人须前往冰柜挑选当天备好的新鲜食材，随后取号入座。封肉为招牌菜之一，选用整块带皮腿肉，吸收了香菇和虾干的风味，肥糯不腻。炒田鸡外层焦香微脆，内里肉质滑嫩，鲜香入味，几乎是每桌必点。饭点经常满座，建议提早到达。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "大同烧酒廊",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/da-tong-shao-jiu-lang",
+      "telephone": "+86 153 0502 8805",
+      "description": "这家“烧酒配”餐厅位于老城区，由一对夫妻经营，每天营业至深夜，除了提供熟腌冷盘，还有丰富的热炒菜品，深受本地人和游客喜爱。油淋腰花融合了青花椒的香麻，提升整体风味，底下垫着爽脆的莴笋片，与弹嫩的腰花形成对比，颇有惊喜。白灼章鱼口感鲜嫩，搭配秘制蘸料，十分惹味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "好食来大排档",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/hao-shi-lai",
+      "telephone": "+86 592 221 4625",
+      "description": "于1993年开业，现由第二代经营，店名有“好吃再来”的意思。主打闽菜海鲜，为食客带来地道闽南风味，深受赞誉。砂锅炝伍鱼分量充足，鱼肉不仅鲜嫩细腻，并带丰富油脂，味道鲜美值得一赞。另一受欢迎菜式椒盐鳗苗，鳗鱼苗裹上薄粉后炸至酥脆，配合惹味的椒盐，非常下酒。店员热情招待，令人感到宾至如归。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "宴遇 (嘉禾路）",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/yanyu-jiahe-road",
+      "telephone": "+86 592 806 6917",
+      "description": "餐厅为品牌的旗舰店，橱窗里陈列着佛跳墙的名贵食材，装潢雅致。菜单网罗多种福建菜肴和特色小吃。除了招牌菜佛跳墙，也推荐闽南卤面，其泛出虾油的橙黄色汤底用鲜虾熬制，质地浓稠且非常鲜甜。也不妨尝尝手工现包的黑麻糍，芝麻香气浓郁。餐厅会定期推出时令新菜，值得关注。",
+      "michelin_award": "ONE_STAR",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "小埕戏",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/xiao-cheng-xi",
+      "telephone": "+86 592 565 1899",
+      "description": "主打闽南菜，由福建人组建的厨师团队，确保风味传统。其中手工芋枣以软绵的芋泥包裹猪肉馅，风味一流；盐焗巴浪鱼采上乘鱼料，简单烹调亦油润咸鲜。餐厅正对鼓浪屿和鹭江，景色一流。客人可在露台品茶吃点心，室内戏台晚间更会上演木偶戏，正好与店名呼应──“埕”代表厝埕院落，是闽南人的聚会场所。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "山丽妍沙茶面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/shan-li-yan-sha-cha-mian",
+      "telephone": "+86 592 211 2126",
+      "description": "这社区小店由夫妻二人经营，店名源自他们和女儿的名字，是周边居民的暖心之地。沙茶面的汤底香浓丝滑，除了花生风味，还带有平衡的蒜味和辣味。另外提供不辣的肉汤汤底。这里的配料品种丰富，包括传统的猪肝、肉筋，以及当季小海鲜。当中蛏子肥嫩多汁，海蛎鲜味十足，鱼丸饱满弹嫩，均值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "巷陌锦年",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/xiang-mo-jin-nian-siming",
+      "telephone": "+86 131 5920 7777",
+      "description": "主打闽南特色的土灶汤，店家特设传统土灶，以炭火加热砂石来焖煮汤品，令受热温度均匀稳定，能够保留汤料的味道和香气。由于汤品烹饪需时，建议提前预订，招牌汤品更是每日限量供应。另推荐农家番鸭炖膏蟹，蟹膏饱满，海洋的鲜甜味与番鸭的风味完美结合。招牌干烧甲鱼胶质粘糯，麻辣鲜香，也值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "无味舒食",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/wuwei-natural-food",
+      "telephone": "+86 592 878 2777",
+      "description": "餐厅坐落于临靠沙滩的独栋别墅，设多个海景包间，也设有户外用餐区，以海风伴美食，好不惬意。提供两款素食套餐，内容随季节更换。招牌的六珍汤借鉴自福建名菜佛跳墙，用六种菌菇熬制出浓郁汤底。此外，现做的素食点心值得品尝。室内设计饶富禅意，走在通往室外的海边栈道，尽揽旖旎风光。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "明月虾面 (厦禾路)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/ming-yue-xia-mian-xiahe-road",
+      "telephone": "+86 592 202 8139",
+      "description": "位于厦门老城区，客人总是络绎不绝，十分热闹。餐厅以虾头熬汤，味道香浓鲜甜，表面飘着漂亮的橙红色虾油，撒入蒜末更是增香提味。推荐包含所有配料的招牌虾面，洁白的虾丸口感弹嫩，加上爽弹的小肠、猪瘦肉、叉烧和爽脆的豆芽，材料丰富，令人满足。胃口不大的话，不妨单点虾丸汤。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "月华沙茶面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/yue-hua-sha-cha-mian",
+      "telephone": "+86 592 298 4332",
+      "description": "开业四十多年，“月华”是创始人的名字，如今由其家人帮忙操持。沙茶汤底以自家秘方炒制，花生风味浓郁，香气四溢。面食配料丰富，包括大肠头、小肚、鱼丸等。其中粉嫩的猪肝、软滑的鸭血，还有豆干和鱼丸也十分推荐。也不妨搭配烧肉粽一同享用。客人络绎不绝，需时等待。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "江师傅私房菜",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/chef-kang-s-1240955",
+      "telephone": "+86 592 532 3833",
+      "description": "由新加坡大厨江师傅开设，菜式以传统的潮粤口味为基础，同时提供融合狮城风味的招牌菜，例如须预订的黑椒蟹，以斯里兰卡大螃蟹制作，蟹肉鲜甜，香气四溢。燕盏拌金龙百花鸡手工繁复，取整只鸡起皮再酿入燕窝、虾滑和墨鱼滑，炸至皮脆肉爽，令人回味。餐室环境雅致，设大小包厢，适合商务宴请。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "洪溪社 (湖明路)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/homeme18-huming-road",
+      "telephone": "+86 180 3031 8775",
+      "description": "供应地道传统的福建家常菜，菜肴均现点现做，食客可透过玻璃窗看到厨房内的烹饪细节，并由厨师直接从窗口出菜。推荐本港沙螺赤肉汤，用料十足，汤头清甜鲜美。福鼎芋泥烩猪手肥瘦适中，加上口感绵密的芋泥，味道香甜。另外，五常米饭和地瓜粥都可以免费续碗。由于店铺面积不大，须排队等待。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "浮屿大同鸭肉粥",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/fu-yu-da-tong-ya-rou-zhou",
+      "telephone": "+86 592 239 8761",
+      "description": "始创于1983年，传承至第三代，鸭肉粥加入卤汁一同熬煮，别具古早风味。店家采用约三斤的土番鸭，搭配茴香、八角、陈皮等数十种药材，每天分次卤制，非常入味。粥底米粒分明，每一口都交织着鸭肉和卤水的味道。提供鸭肉、鸭杂、猪杂、海鲜等配料选择。建议加配油条，充分吸收汤汁，倍添滋味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "粥品"
+      ]
+    },
+    {
+      "name": "海岸",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/coast-1240760",
+      "telephone": "+86 592 256 2336",
+      "description": "餐厅位于54楼，与鼓浪屿遥海相望，辽阔景致尽收眼底。菜单上除了经典的牛排、海鲜塔，也有主厨精心设计的创意套餐，当中不少菜肴采用本地食材和调味，并结合西式烹饪手法。推荐以本地巴浪鱼、午鱼制作的菜式，创新的演绎令人耳目一新。夜幕降临时，大厅灯光渐暗，伴随着轻松的音乐，十分适合约会。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "珍珍海蛎煎",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/zhen-zhen-hai-li-jian",
+      "telephone": "+86 153 0502 2290",
+      "description": "店主珍珍一人包办所有事务，她对食材选料甚为讲究，海产每天进货几次，以确保新鲜。菜单主要为本地小吃，招牌菜包括海蛎煎、卤肉饭、虾丸汤等。海蛎煎即叫即制，海蛎饱满多汁，加入蒜苗和鸡蛋煎香，蘸点秘制辣酱享用，份外滋味。本港白灼小鱿鱼取自厦门内港，弹牙爽脆，配搭蒜蓉豉油，简单美味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "百家春好德来姜母鸭 (中兴路）",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/bai-jia-chun-hao-de-lai-jiang-mu-ya-zhongxing-road",
+      "telephone": "+86 189 6515 7622",
+      "description": "享负盛名的姜母鸭专门店，引得顾客盈门，其中不乏专程到访的外省客人。菜单仅提供姜母鸭、鸭胗、烫青菜和米饭。老板对食材十分讲究，选用本地老黄姜，搭配肉质细嫩的本地番鸭，加上比例适中的麻油和米酒，让姜母鸭飘香四溢，撩人味蕾。姜母鸭以瓦锅盛载上桌，可选半只或整只，鸭胗每日限量供应。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "磐雅苑",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/pan-ya-yuan",
+      "telephone": "+86 592 590 8279",
+      "description": "位于惠和石文化园内，带有雅致的庭院。餐室设计充满禅意，以包间为主，须提前预订。菜单主题源于中国传统时节，并按二十四节气更换内容。推荐用杏鲍菇、金针菇和马蹄制作的菌菇饼，口感爽脆，加入黑椒酱调味，带有微微甜辣的鲜味。为了避免浪费，主食的菜饭分量较小，但可以免费续碗。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "私厦里 (湖里)",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/si-xia-li-huli",
+      "telephone": "+86 592 293 2600",
+      "description": "主理人兼大厨曾于多家酒店担任要职，掌厨经验丰富。餐厅主打新派闽南菜，选择多样，部分菜式结合西式烹饪技法，令人耳目一新。鲜酥海蛎煎将新鲜海蛎炸至酥脆，却不失鲜味，当中混合清甜的马蹄、韭菜和芹菜，富有特色。慢炖同安小封肉以五花腩搭配板栗和香菇慢炖，火候拿捏恰当，口感肥而不腻。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "聪辉同安老美食饭店",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/cong-hui-tongan-lao-mei-shi-fan-dian",
+      "telephone": "+86 592 291 2731",
+      "description": "餐厅始创于1999年，现址共有两层，一楼的海鲜池养殖鲜活海产，大厅及包厢设于二楼。供应同安家常菜，部分菜式备有不同大小选择。当中，同安封肉肥而不腻，搭配蒜粒、虾米、香菇、板栗和莲子，味道香浓，特别下饭。香菜拌猪腰口感鲜嫩，值得推荐。除了单点菜单，亦设有适合不同人数的套餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "胖达的川菜馆",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/panda-s",
+      "telephone": "+86 173 5081 5205",
+      "description": "藏身于饶富特色的红砖大厝中，室内设计素雅，露台的竹子绿植和大熊猫雕塑，别具蜀风雅韵。老板及大厨皆来自四川，不仅选用家乡食材，亦自行腌制自贡盐帮菜常用的仔姜和泡椒，确保原汁原味。鲜椒鱼蛋炖得软烂，加入仔姜、泡椒、酸菜和鲜椒，酸辣惹味。自贡鲜锅兔嫩滑弹牙，麻辣鲜香，同样不容错过。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "蓼花卿语",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/fleurs-et-festin",
+      "telephone": "+86 592 608 0068",
+      "description": "位于三层老建筑内，装潢呈中古风格，一楼大厅提供单点菜单，二及三楼均是包厢，须提前预约及排菜。餐厅主打潮汕菜式，师傅来自当地，菜品以新鲜食材烹制。芋味冬瓜煮龙虾是招牌菜之一，青龙爽弹鲜甜，搭配也很有特色。卤水老鹅掌肉质软糯，香气扑鼻，潮州姜薯福果糖水清甜润喉，可为一餐完美作结。",
+      "michelin_award": "ONE_STAR",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "赖厝埕扁食店",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/lai-cuo-cheng-bian-shi-dian",
+      "telephone": "+86 592 205 3368",
+      "description": "创始人自1940年代起挑着担子沿街叫卖，后来开设了这间小店，即使已交给儿子儿媳接手，其纯手工制作的古早味道依然不变。以鲜虾仁扁食汤搭配拌面为招牌，扁食选用新鲜猪腿肉打成肉泥，再用纤薄的面皮包出饱满形状。拌面口感筋道，浓郁的花生酱混合腐乳酱，简单而美味。鱼丸汤口感爽弹，也值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "远洋私厨",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/chic-1699-1213633",
+      "telephone": "+86 592 533 1699",
+      "description": "进入餐区前是一段悬挑玻璃连廊，客人可以欣赏到脚下的绿植水景，还能透过落地窗远眺海景。提供福建海产和闽南风味菜式，菜单多元。其中闽南沙茶虾肉质紧致弹牙，酱汁有浓郁坚果香还带点微辣，甚是出色。另外膏蟹焖饭、佛跳墙也是招牌菜。汤品推荐松茸葛仙米肉汁汤和花胶鲈鱼羹。建议提前订位。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "银鹭",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/yin-lu",
+      "telephone": "+86 592 551 7566",
+      "description": "于1996年开业，2009年迁往由老别墅改造而成的现址，室内装修简约且带家常感。提供厦门特色菜，尤以番鸭炖螃蟹汤驰名，选用整只老番鸭和螃蟹一起慢炖，香醇鸭肉融入蟹的鲜味，汤头绵密甘香，再搭配清捞厦门面线，滋味迷人。菜单也供应少量福建家常菜，如海蛎煎和炸五香卷等。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "闽和南 (思明）",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/minnan-minnan-siming",
+      "telephone": "+86 592 217 7789",
+      "description": "所属集团经营逾三十年，这里的厨师团队都曾在石狮老店接受培训，以呈现地道的闽南风味。脆肚海鱼羹为招牌之一，采用马鲛鱼反复捶打，入口脆中带滑，搭配同样爽口的猪肚和咸菜，十分美味。破布子蒸特伍鱼咸酸开胃，香气逼人。此外，还有不少福建特色小吃，如圆润饱满的侨乡葱茸包，值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "阿忠食坊",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/a-zhong-shi-fang",
+      "telephone": "+86 592 585 2680",
+      "description": "开业20年，由路边小店起家，发展到现在的大排档，烟火气十足，是本地人钟爱的聚餐场所。不设纸本菜单，客人须在海鲜池挑选食材和点菜，并有口味地道的闽南特色菜供应。花椒炝午鱼肉质细腻、油香充足，花椒的麻香与午鱼的咸鲜相得益彰，值得一试。老厦门南煎肝采用传统做法，与酸笋片同炒，酸甜可口。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "阿西虾面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/a-xi-xia-mian",
+      "telephone": "+86 139 5005 9774",
+      "description": "小店已有近百年历史，环境干净，食材整齐地存放在冰柜中。店家以传统做法制作虾面，汤底以新鲜狗虾壳和虾头炒香后研磨，再熬煮3至4小时，口味浓郁，虾的鲜味层次分明。大鱼丸汤也十分出色，每颗鱼丸如拳头般大小，由白鳗鱼制成，外层紧实弹牙，内藏多汁的猪肉馅，鲜嫩香甜，搭配奶白色的大骨汤，十足美味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "陈先森沙茶面",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/chen-xian-sen-sha-cha-mian",
+      "telephone": "+86 135 9951 9699",
+      "description": "位于本岛以外的集美区，以沙茶面为招牌，自制汤底浓郁可口，辣味丝丝入扣，同时尝到花生的颗粒感和香气，令人回味。自选配料除了常见的肉筋、海蛎，还有肉味浓郁的吊龙，以及处理得宜的新鲜猪腰和脆肠。浸泡在沙茶汤里的豆干和鸭血十分入味，是必点的推荐。老板待客亲切友善，深得本地学生欢迎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "鲜承",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/hokklo",
+      "telephone": "+86 592 537 3333",
+      "description": "餐室采用绿色调，布置带有中西结合的南洋风情，英文店名取自本地方言，有“好客”之意。主厨在地道福建菜注入现代和精致元素，经典菜单包含佛跳墙、沙茶琉璃虾、古法酒香蒸闽东黄鱼等传统菜式。以砂煲焖煮的客家盐酒河田鸡，香气袭人，不妨尝试。另有大量使用本地食材的时令菜式，酒单选择丰富。",
+      "michelin_award": "ONE_STAR",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "鹭城轩",
+      "url": "https://guide.michelin.com/en/fujian-province/xiamen_1031934/restaurant/lucheng",
+      "telephone": "+86 592 258 6666",
+      "description": "位处39楼，凭窗尽览鼓浪屿美景。餐厅以厦门别称“鹭城”为名，在现代设计融入闽南风情。主厨精研闽菜传统，以创意演绎本地食材，将福建不同地域的风土呈现在菜单上。老醋汁炸仙景芋头选用灌口镇仙景芋，油炸后在桌边淋上永春老醋汁，令人回味良久。酸菜花胶煨河鳗浓郁鲜美，也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Xiamen",
+      "city_slug": "xiamen_1031934",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    }
+  ]
+}

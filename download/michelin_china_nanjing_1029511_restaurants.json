@@ -1,0 +1,475 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Nanjing",
+  "city_slug": "nanjing_1029511",
+  "restaurant_count": 31,
+  "restaurants": [
+    {
+      "name": "万国春花园餐厅",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/wan-guo-chun-garden-restaurant",
+      "telephone": "+86 25 8486 8000",
+      "description": "位于颐和公馆内，设计融合古典和现代美学，空间开扬舒适。主打传统淮扬菜，包括八珍煮干丝、明月菊花豆腐等经典菜品，展示出细腻刀工与精准火候。菜单上多为海鲜料理，部分菜式载有相应典故，可了解其历史文化。推荐清炒手剥虾仁，采用高邮河虾，肉质爽弹，加入分量不少的虾籽，增添天然咸味。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "万豪",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/man-ho-1216552",
+      "telephone": "+86 25 8499 3777",
+      "description": "巨幅落地窗将湖光城景尽收眼底，让人倍感惬意。主厨烹饪经验丰富，以传统中式理念融合现代简约元素，呈现具创意的淮扬菜品。推荐红烧鸽吞燕，厨师先将乳鸽拆骨去肉，在完整的外皮填入燕窝，塑造成葫芦形状，再以慢火烧制，搭配黑松露口味的红烧汁，风味独特。部分手工菜须提前预订。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "三百碗宝应长鱼面",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/san-bai-wan-bao-ying-chang-yu-mian",
+      "telephone": "+86 177 1241 0226",
+      "description": "老板兼主厨来自扬州宝应，悉心把家乡美味带到南京。长鱼面可选红炒、白汤或红汤盖浇，另有扬州狮子头、镇江肴肉、宝应油渣等多款配料，全都是传统味道。第一次到店，可以尝试充满锅气的农家红炒长鱼面，面条筋道十足，长鱼软嫩弹滑，味道醇厚香浓。配搭一碗浓郁的鳝鱼骨汤，鲜味丰盛。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "余川 (玄武)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/yu-chuan",
+      "telephone": "+86 152 6188 0767",
+      "description": "位于1913艺术街区的百年洋楼内，该建筑曾是民国时期的文化艺术中心，室内采用西式装修风格，环境古朴典雅。厨师团队来自四川，菜式口味正宗。雪花牛肉麻婆豆腐是必点的招牌菜，用料与别不同，采用雪花牛肉粒，软嫩味浓，配上麻辣鲜香的酱汁，十分下饭。也别忘来一客配料丰富的纯手打冰粉，解辣又清爽。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "侯品小苑",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/hou-pin-xiao-yuan",
+      "telephone": "+86 25 8226 3316",
+      "description": "以地道的淮扬风味作招徕，主厨父亲是有名的淮扬菜大厨，从其身上习得扎实的烹调技艺。金陵盐水妙龄乳鸽鲜咸美味，鸽肉嫩滑且汁水丰盈。也供应八宝葫芦鸭、松鼠桂鱼等工序繁复的经典美食，须提前预订。建议留意写在黑板上的推荐菜式。用餐环境舒适惬意，设有包厢及雅座，宴请或亲友小聚皆合宜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "元景宴",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/yuan-space-feast",
+      "telephone": "+86 25 5779 5117",
+      "description": "老板热衷于将淮扬菜与其他菜系结合，令菜品更见丰富有趣。狮子头在这里取名为“元创状元夺魁”，猪肉的肥瘦比例依照自家配方，肉质软嫩多汁，十分下饭。元创老坛黑椒封缸肉在传统酱油肉的基础上加入黑胡椒，味道出众。主厨擅长的鲍鱼菜式也值得一试。设有大厅、包间和多功能厅，适合各式宴请。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "南城燕归楼 (陶家巷)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/lantchen-reserve",
+      "telephone": "+86 25 8551 8855",
+      "description": "位于老东门历史文化区内，整栋建筑用上青砖和瓦片，带着岁月的沉淀。供应传统淮扬菜，当中少不了金陵盐水鸭，鸭皮色泽洁白，肉质软嫩不腻，还带点咸香，风味十足。菜单选择多样，而且价格实惠，广受本地人喜爱。楼高两层，大厅环境简约舒适，二楼以包间为主，适合亲朋聚会。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "品宁府",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/pin-ning-fu",
+      "telephone": "+86 25 6956 3726",
+      "description": "步入餐区，整洁明亮的开放式厨房映入眼帘，向窗外望去，可将玄武湖和紫金山的美景尽收眼底。经验丰富的主厨专注传承淮扬菜，菜单涵盖经典菜式及时令美食。醋粒水晶肴肉冻晶莹剔透，口感弹嫩且带有肉的鲜香，酸甜的醋粒在口中爆开，十分有趣。蟹肉文思豆腐羹汤底清亮，伴有细如发丝的豆腐，足见厨师的精湛刀工。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "品煨江南",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/pin-wei-jiang-nan",
+      "telephone": "+86 25 8471 8888",
+      "description": "餐厅位于高层，将南京城市风光一览无余，室内设计以江南水乡为灵感，将传统风韵与现代美学共冶一炉。菜单以淮扬菜为主，也包含经典江浙菜式，同时融入主厨的创意。譬如小青龙鸡汁煮干丝，便参照经典淮扬菜大煮干丝，龙虾鲜嫩爽滑，汤汁浓郁香醇。私房小牛肉炸得外脆内嫩，挂上甜咸得宜的酱汁，肉香十足。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "囿面",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/you-mian",
+      "telephone": "+86 139 1597 8813",
+      "description": "老板曾是淮扬菜厨师，将南京的卤水结合苏式面条，为此店一大特色。推荐招牌牛肉筋腩面，汤头由纯牛骨熬煮，清爽且带有肉香，牛腱肉、牛筋和牛腩均炖煮得软烂入味。糖醋排骨用上店家特制的酱油烹煮，香甜细腻。老板对用料十分讲究，专门定制不含防腐剂的酱油，汤头也是每天新鲜熬煮，不留过夜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "好婆汤包",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/hao-po-tang-bao",
+      "telephone": "+86 159 9633 6608",
+      "description": "店主制作汤包的技艺传承自祖母，为呈现记忆中的老南京味道，一直遵循古法手工现做汤包，并依传统将汤包倒扣蒸制，皮薄而且汁水丰盈，香气四溢。客人可以选择鲜肉和蟹粉馅料各半，当中以蟹粉尤为出色，调味带着南京特有的甜，更能衬托出蟹粉的鲜味。此外，浇头丰富的南京老卤面和鸭血粉丝汤同样广受欢迎。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "小潘记鸭血粉丝汤",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/xiao-pan-ji-ya-xie-fen-si-tang",
+      "telephone": "+86 181 1293 6358",
+      "description": "小店历经数次搬迁，不变的是对味道的追求。主打鸭血粉丝汤，慢火细熬的老鸭汤醇鲜味美，鸭血柔嫩入味，粉丝滑溜又带点嚼劲。有多种鸭肉部位和鸭杂供选择，点选小潘记特色鸭血粉丝汤便可一次品尝各种配料，其中的萝卜和锅巴更是点睛之笔。另外，呈棕红色的烤鸭皮酥肉嫩，带有甜甜的酱香，值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "帝粤轩",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/dai-yuet-heen",
+      "telephone": "+86 25 6956 3723",
+      "description": "主厨拥有逾三十年粤菜经验，擅长烧味、汤羮、小炒、海鲜等传统菜式。食材大多来自广东，包括主厨家乡顺德的常见配菜，如榄仁和大头菜，增添风味。烧味由广东师傅按照传统腌制，每天限量供应，建议提前预留。其中吊烧脆皮鸡精选清远鸡，经过复杂的处理工序，最后炸至外皮呈深棕红色，口感香脆、肉质嫩滑。",
+      "michelin_award": "ONE_STAR",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "广迎居 · 老正兴",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/guang-ying-ju-%E2%80%A2-lao-zheng-xing",
+      "telephone": "+86 137 7060 9038",
+      "description": "这家老字号菜馆开业逾三十年，手写菜单上的菜式充满老南京特色，当中包含不常见且工序繁复的手工菜。不要错过炖生敲，黄鳝肉油炸后与笋干和肉汤一起炖煮，让鱼肉吸满汤汁，软糯中带酥脆。招牌菜香酥鸭皮脆肉嫩，带有微微的花椒香气，也值得一试。菜肴分量十足，适合与亲朋好友共享。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "江苏菜"
+      ]
+    },
+    {
+      "name": "强烨饭店",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/qiang-ye-fan-dian-changbai-street",
+      "telephone": "+86 139 1597 3379",
+      "description": "餐馆开业逾三十年，最初是排档，现扩展至两层楼店面，足证其受欢迎程度。创始主厨来自广东，因此除了地道江苏菜，也加入经过改良的广东菜式，例如啫啫煲和独创的“抽炝”系列。当中，田鸡鸭舌啫啫煲焦香四溢，几乎是每桌必点菜式。具有金陵特色的臭豆腐煲口感细嫩，加上软糯的大肠，是绝妙搭配。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "粤菜",
+        "江苏菜"
+      ]
+    },
+    {
+      "name": "徐建萍汤包 (热河南路)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/xu-jian-ping-tang-bao-rehe-south-road",
+      "telephone": "+86 182 5184 0468",
+      "description": "小店由徐建萍女士于2012年创立，承传其父的手艺，至今仍亲手制作每一个汤包。菜单精简，以汤包尤为出名，猪肉内馅软嫩咸香，汁水香甜而丰盈。小馄饨皮滑肉鲜，汤头清淡，同样值得一试。环境朴实，传递出南京老街巷特有的人情味，吸引许多街坊邻居光顾。每天仅营业至下午二时，建议尽早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "李记清真馆",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/li-ji-qing-zhen-guan",
+      "telephone": "+86 25 5225 7736",
+      "description": "这家清真餐馆在南京家喻户晓，最早可以追溯到民国时期，至今已有百年历史。招牌是新鲜出炉的牛肉锅贴，底部煎得焦香酥脆，馅料多汁美味，为此排队的食客络绎不绝。此外，牛肉小笼包个头大，肉馅饱满，带浓郁的牛肉风味和姜香，和牛肉馄饨都是值得一试的美味。店里还有多款凉菜和卤菜，选择多样。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "梅苑",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/plum-garden",
+      "telephone": "+86 25 8470 1888",
+      "description": "梅苑以淮扬菜见长，不仅吸引国内游客，也是招待国际宾客的著名场所。主厨掌勺数十年，其招牌金陵盐水鸭精选四斤左右的鸭胚，用秘制陈年老卤浸泡，软嫩多汁。手工菜炖生敲将鳝鱼去骨、敲散后炸至酥脆，再与五花肉一同炖煮，口感独特，值得尝鲜。室內采用中式装潢风格，大厅饰以镂空木雕梅花，古色古香。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "梦都会",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/meng-du-hui-1216395",
+      "telephone": "+86 25 8669 0777",
+      "description": "餐厅占地甚广，室内采用木材装潢，陈设充满徽派建筑特色。菜单以徽菜为主，为呈现传统风味，大部分食材来自当地，菜式选择多样。招牌菜臭鳜鱼采用在安徽发酵的鳜鱼制作，肉质紧致，提供红烧和辣烧两种做法。套餐涵盖具代表性菜式，也可请餐厅提前安排菜单。不妨搭配由侍酒师精选的本地佳酿，提升用餐体验。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "徽菜"
+      ]
+    },
+    {
+      "name": "江南灶",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/jiangnan-wok",
+      "telephone": "+86 25 8630 5988",
+      "description": "主厨拥逾三十年经验，有淮扬刀客美誉。他在传统基础上，融入其他菜系的元素。例如招牌菜鱼头佛跳墙，以鲁菜葱烧的手法烹制鲍鱼和海参，结合富淮扬特色的烧鱼头，别具一格。淮扬软兜选用江淮地区的鲜活笔杆鳝，剔骨后仅取背部和腩部，肉质肥美，鲜香浓郁。餐厅环境雅致，设有独立包厢，建议提前预约。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "江南灶 · 云府",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/jiangnan-wok-yun",
+      "telephone": "+86 177 5100 1196",
+      "description": "位于42楼，每个包间都设有户外露台，可俯瞰周边美景。由主厨侯新庆带领团队，以本地优质时令食材入馔，同时在传统基础上加入创新元素，带来精致的淮扬菜体验。推荐淮扬八宝鸽配十二头干鲍，由八宝鸭改良而成，鸽肉搭配干鲍和鲍汁一同享用，油润鲜美。必须提前预约，餐厅会按时节和客人要求定制菜单。",
+      "michelin_award": "ONE_STAR",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "百年",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/le-siecle",
+      "telephone": "+86 25 8486 8000",
+      "description": "位于颐和公馆内，由古建筑改造而成，充满历史文化气息。菜式以欧陆菜为主，上乘食材来自不同地域，其中包括澳洲和牛。每天新鲜制作的面包，质感松软，风味十足。餐厅只于晚间开放，设有环境优雅的包间，适合庆祝场合和情侣约会。提供套餐和单点选择，客人须提前确定菜式。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "芳婆糕团店",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/fang-po",
+      "telephone": "+86 25 8420 4310",
+      "description": "这家糕团店从家门口的早点铺起家，营业至今四十多年，依然顾客盈门，经常需要排队和拼桌。供应糖芋苗、酒酿元宵、辣汤等经典南京小吃，其中乌饭团是店内招牌，配料选择丰富，味道质朴好吃，仅在早餐时段供应。不要错过嫩滑绵糯的糖芋苗，甜度适中，带着丝丝馥郁的桂花香，令人齿颊留香。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "芳芳法餐厅 (建邺)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/l-arome-in-the-sky",
+      "telephone": "+86 25 8688 8682",
+      "description": "在巴黎创立L'Arôme后，创办人将美味带到家乡南京，成为城中少数精致法菜餐厅。高踞酒店高层，坐拥迷人的天际线景观，配合以银河为题的豪华装潢，让人恍如置身于空中。提供六道菜的品尝套餐、包含T 骨牛排的分享套餐，以及精简的单点菜单，菜式都带有现代元素，摆盘精致。不要错过招牌甜点法式千层酥。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "西北桥头拉面大王 (鼓楼)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/xi-bei-qiao-tou-la-mian-da-wang",
+      "telephone": "+86 25 8322 6585",
+      "description": "小店于南京仅此一家，菜单与一般清真拉面馆无异，虽然名叫拉面大王，但最出色的却是牛肉锅贴。锅贴现点现做，在铁锅煎至外皮呈现金灿灿的颜色，馅料是满满的牛肉，咬上一口，肉香和葱香四溢，汁水丰盈。调味偏甜，建议享用时蘸点醋和自制辣椒油，味道层次会更加丰富。24小时营业，饭点常见人龙。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "迟慢厨房",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/chi-man",
+      "telephone": "+86 25 5233 7979",
+      "description": "大隐隐于市的土菜馆，除了拥有自耕有机农场，也会从其他生态农场采购食材，旨在推广生态食材的美味。菜单以江浙菜为主，菜式分量十足，价格实惠。家烧深水黄鱼是招牌必点，选用大嶝岛的黄鱼，以渔民家烧方法烹调，火候精准，肉质细嫩，汤汁香浓可口。最后配上稻鸭米饭做成黄鱼捞饭，味道鲜美。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "都市里的乡村",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/du-shi-li-de-xiang-cun",
+      "telephone": "+86 25 8324 2263",
+      "description": "开业逾二十年，以家常江浙菜为主，用料新鲜，广受食客好评。仅提供单点菜单，当中的软兜是必点美食之一，以砂锅热腾腾地端上桌，镬气十足，鱼肉色泽鲜亮、肉质有弹性，富胡椒香气。盐水肥肠用上大肠和小肠，咸香美味，口感弹嫩，不妨一试。餐厅环境简约，设有包间，可提前订位。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "金陵杨家馄饨店 (曹都巷)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/jin-ling-yang-jia-hun-tun-dian-caodu-alley",
+      "telephone": "+86 139 5193 4723",
+      "description": "这家位于小巷子的馄饨店已开业三十多年，饭点总会排队，建议错峰前往。每一碗馄饨都是新鲜现煮，从店里可看到阿姨在后厨包馄饨的过程。除了单点馄饨，还可以添加鸭血、鸭肠和鸭肝。如果能吃辣，建议加一勺店家自制的辣椒油，额外香浓可口。也提供传统的鸭血粉丝汤和咸甜烧饼，不妨搭配馄饨享用。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "金陵汪家馄饨 (集庆路)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/jin-ling-wang-jia-hun-tun-jiqing-road",
+      "telephone": "+86 139 1299 1127",
+      "description": "汪家馄饨创立于1983年，多年来始终保持传统味道。店里只供应馄饨，设三个分量，价格非常实惠。馄饨皮薄馅满、饱满多汁，享用时不妨添加虾皮、榨菜和秘制辣椒油，令味道更加丰富。老板每个小时会注入新水替换煮过的旧水，以保持馄饨的清爽弹性。门口售卖的葱油饼和酱香饼也值得推荐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "馨方园食府",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/xin-fang-yuan",
+      "telephone": "+86 25 8659 1901",
+      "description": "始于1959年，以南京小吃起家，目前传承到第三代，屡经搬迁后落户于此，环境干净敞亮。菜单选择颇丰，价格实惠且分量慷概。其中招牌手工牛肉煎饺汁水丰盈，搭配金黄的铁板煎蛋，蛋香与葱香、肉香交织在一起，令人满足。砂锅鱼头汤颜色奶白，味道醇鲜，加上豆腐和脆爽的木耳，口感丰富。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "江浙菜"
+      ]
+    },
+    {
+      "name": "龙吟山房 (江宁)",
+      "url": "https://guide.michelin.com/en/jiang-su/nanjing_1029511/restaurant/longyin-shanfang-jiangning",
+      "telephone": "+86 25 5229 2877",
+      "description": "位于远离喧嚣的青龙山庄内，沿湖而建，环境静雅舒适。食物以淮扬菜为主，提供不同价格的套餐，内容随季节变换，客人必须提前确认菜单。其中龙吟白玉牡丹足见厨师手艺，豆腐雕刻成形态精致的牡丹花，口感嫩滑，汤头醇香。除了大厅，每个包厢都拥有独特景致，店内不时举办文化活动，让餐饮体验尽善尽美。",
+      "michelin_award": "Selected",
+      "city": "Nanjing",
+      "city_slug": "nanjing_1029511",
+      "region": "Jiang-Su",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    }
+  ]
+}

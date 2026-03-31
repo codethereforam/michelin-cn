@@ -1,0 +1,279 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Quanzhou",
+  "city_slug": "quanzhou_1030272",
+  "restaurant_count": 18,
+  "restaurants": [
+    {
+      "name": "刺桐别院 (鲤城)",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/zayton-courtyard-licheng",
+      "telephone": "+86 177 0699 8706",
+      "description": "餐厅紧邻府文庙，外观沿袭红砖古厝的建筑风格，内部搭配花砖与黑桃木，颇具闽南特色。菜单亦以传统菜肴为主打，当中包括姜香浓郁的姜母鸭，酱汁甜润，鸭肉充分入味却软嫩不柴，火候掌握得恰到好处。福鼎肉汁炖芋头粉糯绵软，吸满咸鲜汤汁，加入洋葱与腊肠更添一分鲜甜。假日到访建议提前预约。",
+      "michelin_award": "Selected",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "南麒楼1924",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/nan-qi-lou-1924",
+      "telephone": "+86 153 0595 2720",
+      "description": "建筑外观沿袭南洋骑楼风格，室内以绿色花砖与深色木质为主调，烘托复古氛围。主营闽南和南洋两大风味，其中的咖喱珍宝蟹肉质细嫩，带自然甜味，咖喱酱汁不加椰浆而以海鲜干货提鲜，香料层次分明，味道浓郁，独具地方特色。老姜焗鸽腿是姜母鸭的升级版，选用半月大的妙龄鸽，肉质紧实，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "好厅 (鲤城)",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/hall-thing-licheng",
+      "telephone": "+86 595 2892 0920",
+      "description": "隐藏在老城区小巷内的一座别致小院中，室内装修富有文艺气息，四周满是具福建特色的古董收藏，与这里的本地复古菜肴相呼应。推荐永春芋面线，汤底中融入了绵密的芋泥，且包裹着每一根面条，极其浓郁鲜甜。招牌炒猪肝火候恰到好处，软嫩中带爽脆。天气晴朗时，坐在院内吃点闽南小点，格外惬意。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "庄记泉府卤面馆",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/zhuang-ji-quan-fu-lu-mian-guan",
+      "telephone": "+86 595 2288 9352",
+      "description": "这面馆已有四十多年历史，仅此一家，老板以自己的姓氏给餐厅起名，虽已届七十仍坚持亲自下厨，用小锅烧出传统的泉州卤面。汤底以店家自调的酱料烹制，带花生及蒜泥风味。配料选择丰富，以牛肉、海蛎、猪肝、虾仁等最受欢迎。店里还提供醋肉、鱼卷等泉州特色小吃，不妨搭配卤面享用。卤面一般于晚上七时售罄，欲品尝宜提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "庆有余",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/qing-you-yu",
+      "telephone": "+86 595 2276 6798",
+      "description": "以丰富多样的海鲜为卖点，配合扎实的烹调技巧，充分突顯食材鲜味。不设菜单，由客人直接从三层海鲜池中挑选食材并决定烹调法。冻花蟹肉质结实饱满，伴有醇厚蟹膏，搭配红醋享用，無比鲜甜。餐厅间或提供石头鱼和血鳝等较罕见海产，建议提前预订。尤其推荐九层塔炆血鳝，以姜丝、葱白、蒜头等生焗，鳝肉紧实带油香。",
+      "michelin_award": "ONE_STAR",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "建来发",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/jian-lai-fa",
+      "telephone": "+86 595 2228 6285",
+      "description": "创立于1984年，经过三代人的经营，由小食摊发展成两层楼的餐厅，提供家常风味的传统闽南菜肴。招牌盐烧鸭采用本地的新鲜番鸭，以老姜、米酒和盐调味，突出鸭子本来的鲜香。椒盐老蛏肥嫩多汁，价格实惠。同时供应多种本地海鱼，用酱油和葱烹调，呈现家常风格。不设独立包间，如多人聚餐，建议提前订座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "张林阿山姜母鸭",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/zhang-lin-a-shan-jiang-mu-ya",
+      "telephone": "+86 188 5957 8757",
+      "description": "顾名思义，此店专门售卖姜母鸭，而且深受本地人喜爱。于1999年开始营业，其后搬到现址继续经营，店内一隅放着一排排烹调姜母鸭的砂锅，滋滋作响，场面十分壮观。招牌菜阿山姜母鸭选用优质番鸭，慢火炖煮两小时而成，上桌时香气扑鼻，鸭肉非常软嫩，姜味香而不辣。建议搭配口感软糯的糯米血糕。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "德文虾仔面",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/de-wen-xia-zai-mian",
+      "telephone": "+86 135 9998 7778",
+      "description": "由泉州老师傅开设的小面馆，店如其名，主要售卖虾面。汤底经七小时熬煮而成，味道鲜美，搭配粗幼适中、带嚼劲的面条，令人再三回味。这里必点的招牌虾面，可以添加多款配料，包括小青龙、九节虾、鲜拆蟹肉、鱿鱼、海蛏等，丰俭由人。当中的海产每天新鲜到店，建议试试肉质爽弹的九节虾。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "忠记盐烧番鸭",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/zhong-ji-yan-shao-fan-ya",
+      "telephone": "+86 595 2277 5083",
+      "description": "盐烧系列为店内招牌，可选番鸭、土鸡或乌鸡，以选用本地新鲜番鸭的盐烧姜母鸭最受欢迎，鸭肉焖煮至酥烂咸香，也可加选限量的鸭胗。另提供闽南家常小菜，当中的炒鸭血口感嫩滑，烩煮入味。门前的厨房整齐排列数十个砂煲，持续烹煮，食客闻香止步。饭点座无虚席，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "春生饭店",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/chun-sheng",
+      "telephone": "+86 595 8585 8169",
+      "description": "主要供应地道家常小菜，开业多年一直受本地客人青睐。姜母鸭是这里的招牌菜式，鸭肉鲜香软嫩、味道醇厚，姜味香而不辣，也可选择以姜汁烹调的鹅肉。不设固定菜单，客人需到食材区点菜，当中包括竹蛏、贝类等海产。特别推介椒盐小青龙，开边的新鲜小青龙油炸后肉质爽弹，咸香惹味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "歪头牛肉 (梅岭路)",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/wai-tou-niu-rou-meiling-road",
+      "telephone": "+86 153 9215 2777",
+      "description": "泉州每一家牛排馆都有自己的独特配方，而歪头牛肉的焖牛排酱汁，融合了浓郁咖喱香和恰到好处的药膳风味，回味悠长。牛排口感软腍，轻轻一拨即可脱骨，建议搭配带牛油香气的咸饭，更加满足。牛尾炖罐也不容错过，用料实在，汤底清润带甜，牛尾炖至软糯且富有胶质。部分菜品数量有限，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "绿岛海鲜酒楼",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/lvdao-seafood",
+      "telephone": "+86 595 8888 8899",
+      "description": "始创于1989年，从只有六张桌子的小店，发展成占地两层的大酒楼，更是当地知名的餐饮品牌。菜单以福建菜为主，也有不少粤菜选择，当中不乏秉承传统的怀旧菜式。供应品种丰富的海鲜，客人可从大型海鲜池挑选食材，其中花乐蟹味道鲜甜，烹饪方式多样，十分推荐。招牌葱蓉包是必点菜式，建议搭配花生汤享用。",
+      "michelin_award": "Selected",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "罗记面线糊",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/luo-ji-mian-xian-hu",
+      "telephone": "+86 136 3691 6313",
+      "description": "至今经营逾四十年，由来自广西的老板娘嫁到泉州后习得做面线糊的手艺，并开设了这小店。其面线糊顺滑鲜醇，汤头添加了卤汁和当归酒，别具风味。提供醋肉、小肠、海蛎等配料选择，建议搭配油条充分吸收汤汁。现炒的猪肝外脆内嫩又带点弹性，同样值得尝试。只在早餐时段营业，但并不妨碍食客的喜爱。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "老阿伯",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/lao-a-bo",
+      "telephone": "+86 595 2888 2889",
+      "description": "店主曾从事食材生意，尤其专于本地海鲜，而“老阿伯”正是他小时候的昵称。这里既有家常小菜，也有许多鲜见的海鲜尖货，建议询问时令推荐。除了热销的卤肉饭、猪血汤、沙茶豆腐，不妨点选肉质紧实的野生跳跳鱼，加入小干葱和豆豉同烧，味道富有层次。旺螺和花蟹也是本地新鲜好货，值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "蚂蚁私厨",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/antstory",
+      "telephone": "+86 595 2209 9988",
+      "description": "位于历史文化街区的独栋红砖别墅内，包间共占两层，建筑带有闽南古厝特色。菜单涵盖具代表性的福建美食，当中的“十道经典”，包括槐猪石码五香卷、葱烧宁德野化黄鱼、闽式香露河田鸡等，将八闽的山川湖海纳为一席。也有供应现代闽菜，部分运用自制的酱汁和调料，融合创新元素，如以苹果醋腌制的私厨醋肉。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "蚌壳",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/ham-khak",
+      "telephone": "+86 137 2086 0202",
+      "description": "主厨采用本地海鲜和时令食材，将传统福建风味及创新烹饪技术相结合，演绎出现代闽菜的风貌。佛跳墙为餐厅的招牌菜，弃用鱼翅入馔，以鲍鱼、海参、花胶、蹄筋、鸽蛋、冬菇等优质材料，熬煮成味道醇厚的汤头，须提前预订。建议预定窗边座位，可看到钟楼、开元寺以及西街的美景。",
+      "michelin_award": "Selected",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "车桥头文阿水丸 (打锡街)",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/che-qiao-tou-wen-a-shui-wan-daxi-street",
+      "telephone": "+86 136 0078 8386",
+      "description": "始于清朝同治年间，历经四代传承，既是泉州地标美食，也承载着浓厚的市井记忆。其鱼丸以鲜鱼去骨刮肉、反复捶打而制成。招牌水丸汤包括纯鱼丸、包馅肉丸及鱼羹，口感弹牙，搭配大骨汤底，相得益彰。炸鸡卷以腐皮包裹猪肉、马蹄、鱼浆等馅料，现点现炸，佐上秘制酱料，是另一必点小吃。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "阿秋牛排 (湖心街)",
+      "url": "https://guide.michelin.com/en/fujian-province/quanzhou_1030272/restaurant/a-qiu-niu-pai-huxin-street",
+      "telephone": "+86 595 2216 3336",
+      "description": "家族经营四十多年，以一道慢炖牛肋排闻名。店家沿用传统制法，提供不同牛肉部位的菜式。招牌牛排以中式红烧的方法，加入咖喱香料将小黄牛肋排炖煮至酥软脱骨，风味馥郁。牛尾汤以炖罐制作，肉汤香醇带淡淡药材清香，带皮的牛尾骨富有胶质。一排一汤加上一碗米饭，便是简单又满足的一餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Quanzhou",
+      "city_slug": "quanzhou_1030272",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    }
+  ]
+}

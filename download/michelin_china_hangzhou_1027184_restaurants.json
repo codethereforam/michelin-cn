@@ -1,0 +1,1149 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Hangzhou",
+  "city_slug": "hangzhou_1027184",
+  "restaurant_count": 76,
+  "restaurants": [
+    {
+      "name": "Sense",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/sense-1216520",
+      "telephone": "+86 175 5729 2077",
+      "description": "坐落在绮丽的湘湖边，落地窗让湖光水色尽收眼底。步入室内，迎面便是净白的厨房，高耸的穹顶下配置圆形岛台，陈列着主厨发酵和腌制的食材。套餐广泛使用中国本地食材，菜式不乏杭州地道元素，同时巧妙结合现代烹饪技法，演绎耳目一新。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "一痕月",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/la-lune",
+      "telephone": "+86 571 8970 1688",
+      "description": "餐厅以复古吊灯衬托充满欧式风情的橱柜和镜框，透露着典雅情调。菜单把全国的食材和烹饪技法互相融合，充满创意。其中，酱香马鲛鱼将薄切鱼肉风干，配上富江南特色的酱汁，咸甜鲜香；江南文火小牛肉炖煮至胶质完全释放，值得推荐。茶单精挑细选，包含过百种中国茶，亦提供餐茶搭配。建议提早订位。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "万丽轩 (临平)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wan-li",
+      "telephone": "+86 571 8615 8666",
+      "description": "以具时尚感的戏曲照片、鸟笼形状的吊灯粉饰空间，搭配园林风格的门窗，布置饶富格调。菜品包罗了浙江各地的经典菜式，其中招牌卤鸭选用本地麻鸭，肉质细嫩，酱汁更带有香料芬芳，浓稠入味。手撕白水洋豆腐则豆香浓郁，以虾干等熬制的浓汤奶白鲜香，十分美味。部分菜式可按位点餐，服务细致。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "三嚥阁",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/la-villa-1206896",
+      "telephone": "+86 571 8886 7888",
+      "description": "名字来自苏轼的诗词，坐落于西湖边的一座中式传统古宅之中，环境静谧且别具诗意，与室内的雅致装潢相映成趣。主厨将本地食材结合西式烹饪手法，同时融入创新风格，带来造型别致的菜式。仅在晚间提供服务，菜单内容按四季更换。备有丰富藏酒及专业侍酒服务，其茶饮配搭也相当不俗。建议提前预约。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "临记老厨",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/lin-ji-lao-chu",
+      "telephone": "+86 137 3806 9569",
+      "description": "这家楼高两层的家常菜馆，经营逾二十年，是品尝桐庐农家菜的热门地方。一楼墙上展示着菜式名称和照片，方便客人点菜，店员也会帮忙推荐。每桌必点的千岛湖有机鱼二吃，包含鱼头汤和红烧鱼肉：呈奶白色的鱼头汤搭配嫩滑豆腐，十分鲜美；红烧鱼肉鲜辣可口。餐点分量大，宜呼朋引伴共享。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "伍子面馆",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wu-zi-mian-guan",
+      "telephone": "+86 183 3437 5200",
+      "description": "(餐厅暂时关闭) 小店毗邻西湖，因价廉物美的杭帮面成为区内人气面馆。供应汤面和拌川，当中又以后者尤其受欢迎，细扁面条吸满汤汁却不失韧劲。老板对烹调浇头的火候及调味十分讲究，且坚持现点现炒。推荐咸甜可口的虾爆膳，锅气十足且配料丰富；猪肝和腰花炒成的肝腰浇头，外焦内嫩，突显老板的出色炒工。此外，也提供自制卤味或凉菜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "伙食 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hotwoods",
+      "telephone": "+86 177 0640 9133",
+      "description": "开放式厨房内配备熏箱和烤炉，以天然木头作燃料，用明火烤制出拉丁美洲风格烧烤，满屋飘香，尤以美国德州、巴西和阿根廷风格烤肉至为出色。推荐低温慢熏牛胸肉，肉质软嫩，烟熏味突出。烤猪肋排冰梅酱采用伊比利亚黑猪，腌得酸甜可口。烤凤梨是解腻的绝佳搭配。店内气氛轻松，酒水价格实惠，适合喝酒吃肉至深夜。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "拉丁美洲菜"
+      ]
+    },
+    {
+      "name": "兰语食记",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/lanxi-gourmet",
+      "telephone": "+86 180 6988 0295",
+      "description": "(餐厅暂时关闭) 总店满江红大酒楼在兰溪已有数十年历史，此店是杭州唯一分店。为呈现家乡风味，老板坚持从兰溪采购新鲜食材。小吃鸡子粿外皮金黄酥脆，内馅融合土猪肉、兰溪香葱和蛋液，香气扑鼻。白辣椒小炒肉锅气十足，兼具肉香与辛香，令人食欲大开。设有大小包间，可提前预订菜品，天气好时不妨选坐户外用餐区。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "兰轩",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hangzhou-house",
+      "telephone": "+86 571 8797 3776",
+      "description": "餐厅位处山腰，恍若置身于世外桃源，静谧而美好。室内装潢富田园气息，洋溢农舍的氛围。菜单上尽是精致的浙江佳肴，更有不少菜式用上创新搭配，让人耳目一新。招牌菜蟹骨酱米粿，在传统蟹骨酱加入紫苏叶及米粿，美味且带来惊喜。部分菜肴需预订，如鲜鸡枞炖土鸡，菇菌鲜香又爽脆，值得回味再三。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "南丰饭店",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/nan-feng-fan-dian",
+      "telephone": "+86 137 5815 1118",
+      "description": "餐厅布置朴素简约，凭借地道的萧山菜而闻名。不设纸质菜单，而是将大量本地应季食材陈列整齐，供顾客现场选择，也可请老板作搭配推荐。清蒸米鱼是每桌必点菜式，火候恰到好处，米鱼口感细嫩、味道鲜甜。白切鸡也是店内招牌，选用本地土鸡，肉质紧实有鸡味。店面不大但客人众多，建议订位或尽早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "叶马餐厅 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hang-s-delicacy",
+      "telephone": "+86 571 8762 0571",
+      "description": "邻近钱塘江、六和塔，一列落地玻璃窗令餐厅内环境光洁舒适。提供众多地道家常菜，当中更有一些具创意的菜式。其中肉饼蒸膏蟹香气浓郁，口感丰富，值得一试。菜式份量较大，不妨携同亲友一同到访，以品尝更多菜肴。餐厅十分受欢迎，经常座无虚席，由于不设订座，建议提早前往。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "复兴面王 (河东路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fu-xing-mian-wang",
+      "telephone": "+86 152 5881 3500",
+      "description": "茄汁拌川是必点的人气品项：番茄煮至软烂，包裹着根根面条，酸甜开胃，加上肉丝、豆干和韭黄，配料丰富。浇头现点现炒，品尝热气腾腾的好滋味，值得耐心等候。面条和猪油渣都可免费添加，后者能提升口感层次，与充满江浙特色的酥鱼同样值得一试。小店装潢简单，但极受欢迎，繁忙时段需要排队。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "大头隐食小馆",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/datou-yingshi-xiaoguan",
+      "telephone": "+86 571 8606 3509",
+      "description": "位于创意园区内，以圆形景窗和盆栽妆点空间，环境雅致。主要提供杭帮菜，当中不少菜式加入厨师创意，如店家独创的河虾臭豆腐，两者互相提鲜，惹味且富特色。招牌菜石锅香芋艿以猪油渣同煮，入口粉糯油润，特别适合秋冬。红烧肉用自家酿制的青梅酒烹煮，值得一试。附近泊车位较少，建议乘公共交通前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "天伦里 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/tian-lun-inn-xihu",
+      "telephone": "+86 571 8106 0001",
+      "description": "餐厅以蟹馔闻名，菜单的拟定则以不时不食为原则，按时令挑选当造螃蟹，一年四季到访都有不同体验。当中，大闸蟹来自太湖，全都肉肥膏满，鲜味浓郁，简单清蒸已清甜无比。现点现做的点心蟹粉酥月同样出色，酥脆外皮包裹多汁的蟹粉和猪肉，叫人回味，值得等待。餐厅更提供拆蟹服务，方便客人品尝。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "奎元馆 (解放路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/kui-yuan-guan-jiefang-road",
+      "telephone": "+86 571 8702 9012",
+      "description": "杭州著名的百年老店，始于清朝1867年，店内随处可见名人题字，足见其悠久历史。来到此处，不可错过其面食，招牌片儿川以自制面条搭配猪腿肉片、竹笋和绿嫩雪菜，鲜甜美味，面香四溢。餐厅二楼能品尝到宁式鳝丝、三鲜烩鱼圆等浙江名菜。中午时段常见人潮，建议提前到访用餐。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "好食堂1987 (文三路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hao-shi-tang-1987-wensan-road",
+      "telephone": "+86 571 8999 0078",
+      "description": "餐厅楼高三层，提供实惠又美味的地道杭帮菜，是名副其实的好食堂。不设固定菜单，客人可查看黑板上的推荐美食，当季的新鲜食材一目了然。招牌糖醋排骨炸得焦香酥脆，搭配酸甜适口的酱汁，非常开胃。自家制的甜酒酿带桂花清香，充满杭州特色。设有适合聚餐的包间，亦备有小份菜式，独膳也能享用美食。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "如院",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ru-yuan",
+      "telephone": "+86 571 8707 9088",
+      "description": "三层建筑隐于植物园的绿意间，设计结合宋代美学，营造出古朴风雅的用餐氛围。创始人兼主厨在保留杭帮菜精髓的同时融入个人风格，“食鱼寻蟹”的西湖醋鱼以及“以茶入馔”的龙井虾仁便是其功艺的展现。金牌扣肉以精巧的宝塔造型呈現，足见刀工之精湛，酱香和肉香的浓郁交织，是不可错过的经典之作。",
+      "michelin_award": "TWO_STARS",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "宝中宝食府",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/bao-zhong-bao-shi-fu",
+      "telephone": "+86 571 8781 0887",
+      "description": "这是杭州家喻户晓的家常菜馆，楼高两层，在尖峰时段需要排队或拼桌。海鲜菜式选择丰富，例如东海蛏子提供葱油和辣炒两种风味，前者葱香扑鼻，肉质饱满鲜嫩，值得一试。此外，招牌菜腰花王同样出色，冷吃的腰花淋上酸甜油润的酱汁，口感软嫩，开胃惹味。预订包间的客人需要提前排菜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "寻味江南",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xun-wei-jiang-nan",
+      "telephone": "+86 151 5800 8902",
+      "description": "老板是厨师出身的宁波人，菜式主打地道宁波风味，也融入了杭州家常味道。餐厅以小海鲜为特色，每天从舟山、宁海、温州等地直送新鲜海产，并因应食材进货情况及时令而变动菜单内容。醉泥螺、宁波烤菜、咸几豆瓣炒蛤蜊等传统菜肴，味道出色。也提供预点名贵海鲜，当中推荐本塘姜汁蒸江鳗。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "小劳馄饨",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xiao-lao-hun-tun",
+      "telephone": "+86 130 0362 8372",
+      "description": "小店位于鼓楼深处的小巷子里，门口挂有写着“馄饨王”的吊旗。馄饨均于店内手工包制，馅料都是当季食材，不论是蔬菜还是土猪肉均购自邻近市场，新鲜非常。老板娘还在馅料中加入黑芝麻，让肉汁满溢的馄饨更添香气。汤底则以雪白的虾米增鲜，再加上一勺猪油，呈现老杭州滋味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "庆春朴门",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/qing-chun-perma",
+      "telephone": "+86 571 8797 5777",
+      "description": "木结构建筑融合枯山水庭院设计，共构禅意浓厚的用餐环境。其素菜风味选择多元，选取时令和有机食材入馔，当中推荐口感幼滑的榛果糙米浆，是采用自然农法种植的稻米磨制。这里专设炭火煨汤的档口，尤以果木炭火煨榛果芡实牛蒡汤颇受欢迎。手工点心也值得尝试，例如有机石墨黑麦馄饨搭配自制辣油，充满特色。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "德明饭店 (上城)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/de-ming-fan-dian",
+      "telephone": "+86 571 8608 0573",
+      "description": "占地两层，藏于民居的餐厅设有不少包间，进入大堂之后，就是陈列整齐的点单区，时令蔬菜、嘟嘟慢炖的煲仔，以及招牌河鲜菜式汇聚眼前，叫人垂涎。不妨试试酱爆鳝段，厨师用上大量葱和蒜头带出鳝鱼的鲜香。也不要错过招牌卤大肠，不但卤得入味，搭配秘制蘸料更别有一番风味。店家亦提供自家浸泡的药材酒和果酒。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "悦轩",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/dining-room-1199390",
+      "telephone": "+86 571 8972 9700",
+      "description": "巨幅落地玻璃窗让食客直面钱江新城和钱塘江美景，加上四周的玻璃灯笼及屏风，装潢优雅，尽显江南韵味。主要供应浙江菜肴，招牌菜沉鱼落雁，是将煮至鲜美的燕窝酿入硕大鱼丸内，富有江南特色，值得一试。也推荐做工繁复的金牌扣肉，造型呈宝塔形状，精致非常。服务贴心，适合宴请及商务聚餐，建议提前订位。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "新六和",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xin-liu-he",
+      "telephone": "+86 571 8755 1483",
+      "description": "六和品牌始创于1987年，主打杭州老菜，明档凉菜间置于大厅一隅，附设鱼池菜架展示食材，而菜单手写在白板上，并会推出隐藏时令菜式，不妨向店员查问。厨房团队精于料理浙江本地的江鲜河鲜，尤其是招牌菜花雕醉沼虾，酒的醇香与虾的鲜甜相得益彰。火腿蒸江鳗肉质丰腴、油香扑鼻，令人惊艳。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "新荣记",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xin-rong-ji-1199323",
+      "telephone": "+86 571 8886 3777",
+      "description": "餐厅采用中式庭院设计，环境舒适，虽然位于较偏远的西溪国家湿地公园内，仍无阻饕客专程前往。招牌菜黄金脆带鱼肉质鲜美，脆皮妙龄鸽皮酥肉嫩多汁，两者皆叫人回味。河海鲜选择众多，建议查询最佳烹调方法。除了经典台州菜，也有少量杭州特色菜供应，包括软糯细腻的杭式卤大肠，咸甜中带微辣，味道出色。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "台州菜"
+      ]
+    },
+    {
+      "name": "方老大 (上城)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fang-lao-da",
+      "telephone": "+86 156 5882 9023",
+      "description": "老板出生于烹饪世家，家族三代都是厨师，他拜师苦练多年后，习得烧面的好手艺，所炮制的面条特别柔软。供应经典杭帮面，浇头都是现点现炒，真材实料，尤其推荐以新鲜猪腰煮成的腰花，脆嫩可口且无腥味。虾仁爆鳝茄汁拌川火候精准，鳝段脆弹微焦，搭配每日手剥的虾仁与招牌茄汁，口感丰富有层次。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "无名氏面馆",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wu-ming-mian-guan",
+      "telephone": "+86 187 6717 7503",
+      "description": "餐厅名字随性，布置也不拘一格，顾客需要拼桌而坐、自取碗筷。供应多款面食，份量大且价格实惠，令客人络绎不绝。其面条口感偏硬，建议根据个人喜好请店家调整。每天限量供应的大排，口感酥软，带诱人葱香，十分推荐。现炒的猪肝和腰花浇头锅气十足，内里软嫩可口，同样值得一试。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "暗香",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wild-yeast",
+      "telephone": "+86 177 9983 6669",
+      "description": "主厨来自台州，主打海鲜菜肴，选用每天从家乡运抵的顶尖食材，炮制出精致的现代中餐。设有单一应季套餐和可供分享的单点菜单。除了家烧黄鱼和雪菜烧梅童鱼，秋季的咖喱沙茶蟹也别具风味，煎香的糯米糍搭配鲜甜蟹肉，加上香浓微辣的酱汁，层次丰富。酒单包含数千藏品，不妨请侍酒师推荐。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚中国菜"
+      ]
+    },
+    {
+      "name": "朴竺",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/pu-zhu",
+      "telephone": "+86 130 6788 8989",
+      "description": "位于香积寺旁边的独栋别院，一派江南水乡风格，布局悠闲别致。主厨搜罗全国各地的时令食材，以中西结合的烹饪手法呈现精致素食。仅提供两款套餐，一是包含受欢迎菜式的经典菜单，或是每季更新的季节菜单，均须预订。海蓬菜冬瓜汤选用山东海蓬菜，与小冬瓜等蔬菜慢炖两小时而成，咸鲜中透着一丝清甜，层次丰富。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "来翠面馆 (集贸路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/lai-cui-mian-guan-ji-mao-road",
+      "telephone": "+86 158 2445 0400",
+      "description": "开业逾十年，主打汤面和拌川，面条以纯手工擀制，外形弯弯曲曲，具有弹性和嚼劲。配料选择多样，其中肝腰拌川不得不试，猪腰和猪肝皆为鲜货，现点现炒，镬气十足，嫰而不柴，搭配青菜、洋葱和蒜叶等拌料，额外丰富。虽然价格相对一般面馆稍高，但分量大而且用料充足，经常满座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "桂语家面",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/gui-yu-jia-mian-xihu",
+      "telephone": "+86 191 0685 0107",
+      "description": "餐厅位于满觉陇景区，每逢秋季漫天桂花，因而取名。装潢采极简设计风格，颇有禅意。店家主打手工面条，口感柔软顺滑，能吸满汤汁。推荐泉水牛肉面，选用上等牛腱肉，泡椒汤底咸鲜微辣，十分开胃。同时供应当季小菜和卤味，如清脆多汁的油焖春笋；点心定胜糕以手工制作，软糯香甜，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "桂语山房 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/guiyu",
+      "telephone": "+86 571 8797 7677",
+      "description": "餐厅坐落于西湖附近的满觉陇，因桂树满山而得名。店内陈设古朴素雅，用餐期间，茶师会为每一桌演绎传统点茶，带来一室茶香。厨师选取来自全国的时令食材诠译浙江菜，例如九曲红梅脆皮鸡采用广东清远鸡，以杭州红茶腌渍烟熏，皮脆肉嫩且带温润茶香。用咸菜笋丝烹制的河鲜也值得一试。秋季到访不妨在庭园用餐，细赏漫山桂花。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "武林坊",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wulin",
+      "telephone": "+86 571 8515 9048",
+      "description": "藏身小巷之中，凭着独树一帜的特色杭帮菜，加上亲民的服务和价格，得到不少客人支持。招牌熟醉虾选用肉质饱满紧实的沼虾，酱汁酒香浓郁且回甘。土烧黄鱼年糕以豆瓣酱和猪肉片同烧，家常但美味。羊肉的做法多样，白切、清汤、红烧、椒盐等各有风味，冬季不妨一试。包间需要提前预定。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "水墨徽 (上城)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/shui-mo-hui",
+      "telephone": "+86 571 8697 7809",
+      "description": "餐厅精心打造了一个乡村小院，放上木制阳棚和小板凳，特色干货陈列整齐，还挂着腊肉腊鸭，古朴而惬意。老板和厨师来自安徽，许多食材都是从家乡运来，例如在黄山发酵的臭鳜鱼、山里的野蕨菜、油润的刀板香等，将地道风味带到杭州。也提供安徽手工点心，例如绩溪挞粿、三河米饺，特色满满。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "徽菜"
+      ]
+    },
+    {
+      "name": "水漾",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/shuiyang",
+      "telephone": "+86 571 8235 2226",
+      "description": "餐厅位于湘湖观景区的酒店内，附近环境优美，景色迷人，吸引不少酒店住客和观光客到访，午餐时段尤其繁忙。主要供应传统的浙江菜和杭帮菜，在这里也可尝到萧山农家菜。千岛湖鱼头有多款烹调方法，适合多人分享，嫩滑鲜美，虽制作需时但值得等待。农家蒸双臭风味独特，也值得一试。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "江南渔哥",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/jiang-nan-yu-ge",
+      "telephone": "+86 571 8996 9261",
+      "description": "位于历史悠久的小巷中，邻近河坊街和鼓楼。提供地道宁波菜，并以海鲜菜式为主，调味偏向浓郁。不设固定菜单，食客只需要告知预算，厨房便会根据当天最新鲜的食材安排菜式。糟骨头蒸膏蟹为招牌菜，用料新鲜，风味独特。店家亦有提供自酿的黄酒和十年花雕，与咸鲜的菜肴十分匹配。餐室以包间为主，建议提前订位。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "泮芳春煎饺 (中山南路）",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fang-chun-jian-jiao-zhongshan-south-road",
+      "telephone": "+86 151 6832 5020",
+      "description": "这是本地人喜爱的早餐小店，其煎饺皮薄底脆，带汤汁和鲜肉香气，搭配香醋和辣椒酱同吃，味道更佳。另有供应分量十足的小馄饨，汤头里添加了葱花和紫菜，清甜可口。如果想更加丰富，不妨加点甜度适中的豆浆。餐厅价格实惠，故经常满座，下午一时左右便关门，建议趁早前往。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "湖滨28",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/28-hubin-road",
+      "telephone": "+86 571 8779 1234",
+      "description": "这间位于西湖旁的餐厅，由逾廿年杭帮菜经验的厨师管理，提供传统浙江菜，同时融入创新元素，例如以羊冻方法呈现的白切东山羊。招牌菜为堆叠成宝塔形状的金牌扣肉，肥瘦适中的肉片切得薄厚均匀，口感细软，并设两种分量。酒单选择不俗，有不少产自国内不同地区的葡萄酒，值得一试。晚膳建议提前预订。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "燕筑潮",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/yan-zhu-chao",
+      "telephone": "+86 571 8667 2188",
+      "description": "餐厅主打潮汕菜，老板及核心团队均来自当地，室内设计亦围绕潮汕民俗文化为主题。全店共设九个包厢，采用预约配菜制，须提前安排菜品，大厅区域则可单点菜式。特别推荐生腌冰淇淋膏蟹，亮黄色的蟹膏丰腴无比，犹如冰淇淋般绵滑。汤品按时令变化，若在秋冬到访不妨尝尝温补的长白参乌鸡炖鹿筋汤。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "玉芝兰",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/yu-zhi-lan-1217657",
+      "telephone": "+86 180 5716 2771",
+      "description": "餐厅位于1930年代的石库门里弄住宅，只设包间，环境典雅舒适。团队来自前上海店，菜单则延续玉芝兰总店的理念，将川菜24味型呈现于菜式之中，并按时令变化，加入江浙海鲜等食材，巧妙融入本地特色。菜式皆着重食物本身的风味，让客人从菜品的细节处理和烹调技巧中，充分体验川菜的魅力。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "王日顺号 (上城)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wang-ri-shun-hao",
+      "telephone": "+86 153 2571 8598",
+      "description": "门头设计古色古香，室内的纸灯笼、木桌椅，交织出古朴舒适的氛围。这里的老师傅来自金华，烧饼、包子、馄饨等小吃均为现场手工制作，风味地道。招牌葱肉烧饼和葱肉包子的肉馅料选用金华两头乌猪肉制作，加上清脆的青葱粒，浓郁多汁。自制豆浆除了咸、甜口味，也有具金华特色的生姜咸豆浆，特别适合冬季享用。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "王氏烧饼 (西溪路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/wang-shi-shao-bing",
+      "telephone": "+86 135 8883 9198",
+      "description": "开业逾二十年，即使招牌被大树遮挡，顺着门前排队的人潮即能找到小店。主打烧饼和现炸的油条，前者有咸甜两种选择，后者蓬松酥脆。搭配当天鲜制的豆浆、豆腐脑，即成叫人满足的早餐。同时供应糯米饭，自选油条、榨菜、咸鸭蛋等配料，再由店員裹成糯米团子，满有小时候的味道。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "珀",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ambre-ciel",
+      "telephone": "+86 193 5755 8063",
+      "description": "室内装潢充满特色，大厅内的餐桌被石墙包围，隐私度较高，靠窗位置可看到调酒师制作鸡尾酒。另有一间可容纳十人、提供独立菜单的包房。餐厅只供应套餐，菜单每季更新。菜式设计和烹调手法以法餐为基础，部分菜式融入中式元素。酒水单选择不俗，并提供配酒服务，可向侍酒师查询。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "创新菜"
+      ]
+    },
+    {
+      "name": "璞",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/nature-s-own",
+      "telephone": "+86 177 6716 1832",
+      "description": "进门处曲径通幽，小桥流水，在繁华都市打造一方带有古朴感的天地，颇具禅意。素食菜单选择多样，包含不同地域风味和烹饪风格。南亚香茅炝绣球菌口感脆爽，十分惹味。三杯茄子以热石锅盛装，咸香微辣。餐后不妨来一份福建花生黄米汤圆。提供多样的茶饮，若要尝试餐茶搭配的套餐，须提前一天预约。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "百县千碗名家厨房",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ming-kitchen",
+      "telephone": "+86 571 5608 8887",
+      "description": "餐厅所属的集团在杭州深耕二十多年，本店作为其高端旗舰店，可以俯瞰市中心景观，室内设计也时尚大气。菜式方面，主要供应精致浙江菜，包罗省内各地区的代表美食，包括手工制作的建德豆腐包、遂昌冬笋烧麦、常山豆腐煎饼。不要错过外酥里嫩的绍兴臭豆腐，填入香辣多汁的酱萝卜和芹菜碎，风味甚佳。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "知竹",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/zhi-zhu-xihu",
+      "telephone": "+86 137 3222 7606",
+      "description": "这家素食店位于灵隐寺山脚，店外有一处别致的小院子，颇具禅意。菜式以素面和素饺为主，全都是店家手工制作。碧绿的面条以菠菜汁制作，佐以时令蔬菜和山菌，素菌汤底每天新鲜烹煮，清澈鲜甜。煎素饺带有冰花脆皮，馅料鲜香多汁，让人食指大动。如果只想吃点轻食，可以来一碗桃胶皂角米，健康养生。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "福宴",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fortune-garden",
+      "telephone": "+86 571 8607 7996",
+      "description": "位于购物中心的顶层，室内设计富现代感，环境舒适，设有多个独立包间，让客人享受更私密的用餐体验。供应精致粤菜，中午的点心选择丰富，包括各款蒸炸美点。烧味方面，推荐肥瘦均匀、微微焦香的蜜汁叉烧，口味在咸甜之间有明显的蜂蜜花香，酱汁浓郁美味，适合搭配酸梅酱一同享用。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "福泉书院",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fu-quan-shu-yuan",
+      "telephone": "+86 571 8973 8877",
+      "description": "餐室经整修后，保留原有的古朴雅致，饰以字画、茶席、枯山水造景等传统文化元素，让空间更具禅意。提供浙江风味的素食，以单点为主，亦提供预约制套餐。除了卤味核桃、浓汤鲜腐竹、红烧臭豆腐等常设菜式，亦会根据时令推出新菜。推荐樟树港辣椒炒见手青，辣椒带独特清香，与滑溜又脆爽的菇菌非常相配。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "福缘居 (上城）",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/fu-yuan-ju-shangcheng",
+      "telephone": "+86 571 8703 8018",
+      "description": "以杭州家常菜为主，深受本地食客欢迎。招牌菜油淋鸡肉质爽滑多汁，微炸过的鸡皮浇上浓郁葱油，风味十足。酱肉蒸笋和素鸡充满童年味道，前者所用的笋会随季节转换品种，值得一试。店内的水缸养有千岛湖鳊鱼、河鳗、湖蟹等河鲜，点选时可请店家推荐烹调方法。饭点时段需要排队及拼桌，建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "秀才羊肉面",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xiu-cai-yang-rou-mian",
+      "telephone": "+86 135 1131 4661",
+      "description": "小店即使经历几次搬迁，美味始终如一。老板特意选用约12个月大的桐乡湖羊，每日直送杭州，以黄酒焖煮，去膻同时增添风味。建议品尝羊肉羊杂面，煮得入味的羊肉甜咸得宜，肉质酥而不烂；羊杂搭配挂汁的桐乡细面，令人暖意十足。羊腿和羊脚也是上佳之选，但数量有限，欲品尝建议提早前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "笑典皇",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xiao-dian-huang",
+      "telephone": "+86 150 8878 6097",
+      "description": "开业近二十年，为了以最新鲜的道地食材入馔，老板每两天便会亲自回老家绍兴选购，所以写在小白板上的菜单都是时令菜式。其臭豆腐为必点，用上二十多年的老卤水制作，味道浓郁醇厚，当中以软嫩鲜甜的臭豆腐蒸羊脑最为推荐。店里还供应绍兴淡水鱼，做法多样，不妨向老板寻求意见。可提前致电订位订菜。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "粤榕轩-君宴",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/the-yue-hall",
+      "telephone": "+86 571 8837 0188",
+      "description": "高踞五十八层，从大厅可将新兴的城市金融中心一览无遗。室内装潢时尚，设有巨大的藏柜和海鲜池，展示着顶级干货和新鲜海产。菜单以粤菜为主，并融入潮汕和浙江特色菜肴。建议点选海鲜，即使简单的清蒸也能呈现食材的鲜味。炖汤同样不能错过，招牌瑶柱炖响螺加入松茸，和螺肉的鲜甜相互融合，滋补味美。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "紫薇厅",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/zi-wei-hall",
+      "telephone": "+86 571 8797 9889",
+      "description": "餐厅以传统中式风格装潢，空间广阔，服务员均穿着整齐中式制服，用餐环境甚具气派。室外更有江南园林景致环抱，白天用膳时，可欣赏西湖周边风光。主要供应江浙风味菜和杭帮菜，特别推荐招牌菜松煎虾饼，虾滑中混入了荸薺和芹菜，口感爽脆，味道鲜美。凉菜杭州酥鱼的鱼肉炸得酥脆，酱汁香甜入味，非常可口。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "胡庆余堂药膳",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hu-qing-yu-tang-yao-shan",
+      "telephone": "+86 571 8706 1117",
+      "description": "由始于清代、本地著名的中药行胡庆余堂创办，菜单秉承其药膳传统，每道菜都根据食物本身性味，搭配合适的中药，烹调出“药食同源”的菜式。譬如招牌菜黄芪河虾，以黄芪带有的甘甜为河虾增添鲜味。菜单上也有不少药膳点心、自制药酒和养生饮品，其中茯苓蒸饺和人参黑米糕均只此一家，推荐品尝。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "荣鲜面馆 (钱江路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/rong-xian-mian-guan-qianjiang-road",
+      "telephone": "+86 150 5810 0830",
+      "description": "这里以杭帮面馆少见的酸菜鱼片面作招牌，选用来自湖州的新鲜黑鱼，配合四川老坛酸菜和店家秘制香料熬制出汤头，味道鲜辣且带有浓烈的香料味。其面食浇头选择丰富，既有传统的肉丝、腰花、爆鳝，也有鸡爪、鸭头、狮子头等卤味，且能按个购买，十分弹性。当然，少不了片儿川、拌川等杭州特有美食。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "葛郎倌",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/ge-lang-guan",
+      "telephone": "+86 134 8652 9774",
+      "description": "老板为绍兴人，餐厅名字取自当地方言，所用食材也从家乡采购，口味地道。不设菜单，老板会把每日新鲜菜品写在白板上，也乐意为顾客推荐菜式。不妨试试蒸双臭，霉得恰到好处的豆腐和苋菜梗同蒸至软烂，那发酵的鲜味，让人直呼过瘾。团队以擅制糟货见称，推荐糟鸡，用上散养土鸡烹煮，鸡味浓郁，酒香醇厚。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "蕙心小吃店 (德苑路)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hui-xin-xiao-chi-dian",
+      "telephone": "+86 571 8603 6127",
+      "description": "由店家手工制作的馄饨和烧卖，现包现煮，非常新鲜。馄饨有带汤和干拌两种吃法，并有多种馅料选择，其中形如元宝的蛋黄鲜肉大馄饨最具特色，每只都包着鲜美的咸蛋黄，推荐一试。烧卖为正宗的嘉兴风格，皮薄馅多，味美多汁的猪肉内混有笋丁，别具口感。小店广受街坊邻里欢迎，高峰时段需拼桌用餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "点心"
+      ]
+    },
+    {
+      "name": "虎哥私房菜",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/hu-ge-si-fang-cai",
+      "telephone": "+86 571 5658 3600",
+      "description": "餐厅位于景区附近，环境幽静，贴近大自然。两层楼的仿古建筑，内部装潢充满江南水乡风情，并设有不少包间。主要供应杭帮菜，江鲜菜式尤见特色，例如鲜香软嫩的梅干菜蒸江鳗。店家采用的时令蔬菜均由周边农家直送，水灵脆嫩，不妨向老板查询当天鲜货。另外，也可在此品尝到拌川、片儿川等传统主食。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "西溪良辰",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/xi-xi-liang-chen",
+      "telephone": "+86 133 8581 8621",
+      "description": "位于西溪国家湿地公园，餐厅附设优雅的庭院，用餐环境清幽舒适。菜式以精致潮汕菜为主，大部分食材从当地空运而来。客人须提前与餐厅制定菜单内容。不妨试试卤水鹅掌拼鹅肝、潮汕落汤钱等推介菜式。设有八个不同大小的包厢，私密度高，适合聚餐及商务宴请。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "观言鎏金",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/guan-yan-liu-jin",
+      "telephone": "+86 571 8839 0179",
+      "description": "由潮汕大厨掌舵，所提供的潮汕菜风味地道，不容错过层次丰富的招牌卤味，建议点选拼盘多尝几种滋味。九肚鱼烙口感软嫩，入口即化，搭配店家秘制的鱼露蘸料，更添鲜美。上汤布仔豆腐带着酥香脆壳，内里细腻如凝脂，和上汤的鲜味一拍即合。设有多个独立包间，个别海鲜需提前预订，也可请店家定制菜单。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "解香楼",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/jie-xiang-lou",
+      "telephone": "+86 571 8886 7888",
+      "description": "餐厅坐落西湖八盘岭的紫萱度假村内，装潢古色古香，外有竹林环绕。厨师广泛采用浙江本地食材，菜式保留传统之余，亦加入个人创意，而且摆盘精美，令食客耳目一新。宋嫂鱼柳羹以东海小黄鱼烹制，肉嫩味鲜。桂花糖藕莲子选用本地七孔老藕和莲子，粉糯口感融合桂花蜜糖，带来丝丝入扣的杭州韵味。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "贰捌玖素面馆",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/er-ba-jiu-su-mian-guan",
+      "telephone": "+86 133 9659 7828",
+      "description": "此素食小店邻近中天竺法净禅寺，主打汤面，并提供小炒和拌菜。什锦面含有笋片、青豆、西红柿、油面筋、黑木耳和腰果，口感丰富，搭配鲜甜的西红柿汤头，美味可口。建议多点一客由店家自制的素水饺，内有豆干、雪菜等，爽脆清新。价格实惠，除了深受本地人欢迎，也有不少游客到访，故经常满座。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "素食"
+      ]
+    },
+    {
+      "name": "越稽 (滨江)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/yue-ji",
+      "telephone": "+86 571 8821 8708",
+      "description": "从门前悬挂的“酱、糟、霉、臭、醉、腌”六个大字招牌，不难猜出这是一家绍兴菜馆。绝大部分的食材由绍兴运来，炮制地道之味：霉千张蒸肉饼入口即化，发酵的鲜香充满口腔；干炸臭豆腐外脆内嫩，香气十足。此外，还有品种丰富的糟卤，以及现点现杀的江鲜河鲜。少量菜品在午餐时段无法供应，建议提前预定。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "远洋私厨 (上城)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/chic-1699-1209672",
+      "telephone": "+86 571 8813 1699",
+      "description": "集团来自厦门，大量采用福建食材，带来地道的闽南风味，当中尤以海鲜为特色。推荐蜜汁吊烧连江鳗，外皮烤得酥脆，搭配丹桂蜂蜜，香气浓郁。捞汁厦港海蛎软嫩饱满，捞汁酸甜微辣，十分开胃。另有许多手工制作的福建小吃，不妨一试。餐前提供清爽的茅根甘蔗水，亦设有专业茶师，为客人冲泡福建名茶。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "里安",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/li-an",
+      "telephone": "+86 571 5696 6666",
+      "description": "联排的落地窗将钱塘江一线江景尽收眼底，但相关座位须提前预订。菜单主打经典粤菜，同时也提供新派浙江菜。推荐潮州酸菜爆脆肚，选用鮰鱼鱼肚尖与酸白菜、青蒜等一同爆炒，热辣惹味，十分适合下酒。里安脆皮鸡皮脆肉嫩，油香四溢，也是很受欢迎。如有特别庆祝场合，餐厅会贴心为客人安排布置。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "金仲帮 (虎玉路）",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/king-s-choice",
+      "telephone": "+86 135 8885 6170",
+      "description": "隐身于老旧小区之中，店内环境整洁，名称充满童趣。主打杭州本帮家常菜，选用新鲜食材现点现炒，口味地道，而且满有镬气。招牌菜干炸臭豆腐，气味浓郁，外脆内嫩，别具风味。蛋黄鸡翅炸得酥脆，均匀裹上咸香的蛋黄，咬上一口，汁水温热丰盈。小店深受街坊喜爱，经常座无虚席，建议提早到达用餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "杭州菜"
+      ]
+    },
+    {
+      "name": "金沙厅",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/jin-sha",
+      "telephone": "+86 571 8113 5188",
+      "description": "位处西湖核心地段，餐厅仿照古代建筑而建，外有优美园林，内置庭园荷塘。厨师选用全国优质食材，以现代手法演绎浙江菜式。金牌扣肉作为杭帮名菜，极其考究刀工和火候，制作需时，但值得等待。午市提供蟹粉小笼包、粢饭团等本地特色点心，全为手工制作。另有多种茗茶、葡萄酒及江浙黄酒，适合搭配菜肴。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "铁定鲜 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/definitely-fresh",
+      "telephone": "+86 199 0672 2278",
+      "description": "店家每日从浙江南部的乐清湾引入海鲜，正如店名所述，强调食材的新鲜，尤以蛏子、生蚝、泥螺等小海鲜不容错过。菜式以温州和台州风味为主，做法多样，价格实惠。其中温州鱼饼味道鲜甜，肉质紧实且带有弹性，值得一试。除了海鲜，同样推荐以中药材入馔的海鸭汤。米糕、麦饼等手工糕点也水准上乘。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "阿炳爆鳝面",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/a-bing-bao-shan-mian",
+      "telephone": "+86 133 3614 9088",
+      "description": "店主阿炳师出杭州老字号面馆，经验丰富，近四十年前自立门户，一直深受本地人欢迎。近年搬到现址，店面不大而十分整洁，墙上饰有传统制面工艺的图画。爆鳝面为其招牌之作──粗身的鳝丝炸得酥脆，让人吃得满足。另提供介于传统汤面和拌川之间的半汤面，汤汁浓稠，使带筋道的面条更入味，也十分推荐。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "隐外",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/in-villa",
+      "telephone": "+86 193 5731 1461",
+      "description": "由民国时期的别墅改建而成，设计时尚，同时保留传统宅院的韵味。主厨是杭州人，伙拍两位广东厨师，采用临安和昌化的新鲜食材，在江浙菜的基础上融合粤式烹调手法，增添另类风味。例如富阳臭豆腐炒青蟹，把臭豆腐捣碎后与豆豉、蒜、葱等避风塘炒料快炒，十分惹味。点心方面，不要错过金华火腿小酥饼。..",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "雷克拉法餐",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/l-eclat-19",
+      "telephone": "+86 571 8676 7979",
+      "description": "餐厅坐落山谷之中，旁边有小溪流淌，与自然美景作伴。礼聘法籍主厨Olivier Elzer担任菜单设计顾问，提供两款品尝套餐，当中融合了精致的法式烹调及本地特色，例如搭配面包的牛油，分别以法国白葡萄酒和茅台调味。配备选择多样的酒单，让用餐体验更加愉悦。餐厅位置较隐秘，可提前与职员沟通安排接送。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "奢华",
+      "cuisines": [
+        "时尚法国菜"
+      ]
+    },
+    {
+      "name": "青桃",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/qing-tao",
+      "telephone": "+86 571 8799 7997",
+      "description": "老板特别讲究用料，主要采用本地新鲜食材，菜式风味地道。黑板上的手写菜单除了招牌菜和季节菜式，也有一些特色菜品。孤品腰子镬气十足，新鲜爽脆，是限量供应的隐藏美食。炒年糕片入口软糯，因应季节搭配不同时蔬，是不错的主食选择。自家制香肠肥瘦均匀，肉味香甜，不妨配上店主父亲酿制的米酒一同品尝。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "颂",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/song-1217000",
+      "telephone": "+86 571 6095 2959",
+      "description": "青绿色调为主的餐室融入了江南的丝绸和园林花窗，风雅独特。厨房团队运用创意和现代烹饪技法，重新诠释经典宁波菜，让人眼前一亮。宁式十八斩为餐厅招牌，饱满的蟹肉块块带膏，鲜甜细腻，汁料酸辣却不掩盖鲜味。大红袍脆皮鸽腿用上石岐乳鸽，将鸽胸肉填进拆骨鸽腿内，酥嫩多汁，是主厨得意之作。",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "宁波菜"
+      ]
+    },
+    {
+      "name": "骏溪荟",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/junxihui",
+      "telephone": "+86 191 0655 2719",
+      "description": "(餐厅暂时关闭) 主理人到法国旅行时，偶然看到骏马在清溪饮水，便以此情景为餐厅命名。室内布置充满法式优雅风情，藉由壁纸将自然景致融入空间。主厨来自广东，菜单包含点心、烧腊、炖汤、时令海鲜等经典粤菜。生拆花胶鱼羹使用每天鲜熬的鱼汤，味道鲜甜，加上花胶、鱼肉、虾米、粉丝等丰富材料，富有层次，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "龙井草堂",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/longjing-manor",
+      "telephone": "+86 571 8788 8777",
+      "description": "餐厅占地广阔，走过石桥和庭园，才到达古色古香的包厢。主厨擅长以传统手法烹调时令食材，呈现地道的江南菜式。仅提供定制套餐，并会提前与顾客沟通菜单内容。招牌菜“金蝉银翎”将麻鸭与金蝉花隔水蒸炖数小时，鸭汤醇厚，每一口都是原汁原味。上菜前先奉上现磨豆浆，热腾腾且豆香浓郁，服务贴心周到。<br>",
+      "michelin_award": "ONE_STAR",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国内地",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    },
+    {
+      "name": "龙吟阁 (西湖)",
+      "url": "https://guide.michelin.com/en/zhe-jiang/hangzhou_1027184/restaurant/grand-dragon",
+      "telephone": "+86 571 8799 8833",
+      "description": "位于黄龙饭店内，环境优雅，大厅座位可欣赏庭园景色，亦备有独立包厢。以浙江菜为本，既沿用传统烹调技艺，也有融合粤菜手法，在经典名菜上加以创新。其中，新版虾爆鳝背以卷起的鳝背肉酿入虾胶炸至香脆而成，外脆内爽，再裹上糖醋汁，香浓惹味；舌尖上的龙井虾仁亦值得一试。",
+      "michelin_award": "Selected",
+      "city": "Hangzhou",
+      "city_slug": "hangzhou_1027184",
+      "region": "Zhe-jiang",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "浙江菜"
+      ]
+    }
+  ]
+}

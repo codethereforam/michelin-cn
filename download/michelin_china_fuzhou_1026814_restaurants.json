@@ -1,0 +1,474 @@
+{
+  "source": "https://guide.michelin.com/sg/zh_CN/restaurants",
+  "country_filter": "cn",
+  "city": "Fuzhou",
+  "city_slug": "fuzhou_1026814",
+  "restaurant_count": 31,
+  "restaurants": [
+    {
+      "name": "167山海里",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/167-shan-hai-li",
+      "telephone": "+86 177 5986 0320",
+      "description": "店名源于福安167公里的海岸线，象征餐厅推广家乡菜的初心。冰柜摆放着新鲜送达的福安海鲜，包括闽东小黄鱼、白蛎鱼、溪鱼、土丁等当地特有鱼类。炖罐汤品每日现制，采用福安北部的草药，汤鲜味美。醉排骨外酥內嫩，酱汁渗透入骨，层次分明，同样不可错过。福安炒米粉用料实在，锅气十足。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "一同楼",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/yi-tong-lou",
+      "telephone": "+86 177 2079 0708",
+      "description": "老板是艺术收藏家，店内挂满了画作，桌椅保留中国传统小酒馆的风格。年轻主厨来自莆田，在传统福建菜式加入个人想法，带来不一样的味觉体验。其中鸡汤氽海蚌使用本地鲜蚌，由服务员放鸡汤将海蚌烫至刚熟，鲜甜爽脆。淡糟香螺片是福建传统菜式，螺片用料新鲜，加上红曲调味，别具风味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "井礼",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/jing-li",
+      "telephone": "+86 591 8326 1777",
+      "description": "采用中式装修风格，大厅设落地窗将窗外景色映入室内。以福州特色的传统闽菜为基础，当中包括已列入非物质文化遗产的红曲制作技艺。推荐封糟鳗，选取鳗鱼中段，以繁复工序让糟香和酒香渗透鱼肉，令人齿颊留香。太平面的猪蹄以自酿青红酒和红糟炖煮，紧致弹牙，十分美味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "伟榕捞化",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/wei-rong-lao-hua",
+      "telephone": "+86 138 0506 0712",
+      "description": "这家捞化店在福州享负盛名，深受本地人喜爱，经常座无虚席。客人需先到点餐区点餐，配料选择多样，海鲜、肉类、内脏等应有尽有，而且非常新鲜，搭配清甜鲜美的汤头，加倍美味。建议加点一客油条吸收汤汁，同时增添香脆口感。小店由早上一直营业至凌晨，不论早餐抑或宵夜均是不错的选择。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "关中往事 (鼓楼)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/guan-zhong-wang-shi",
+      "telephone": "+86 591 8372 5535",
+      "description": "老板是西安人，厨师们也来自陕西，供应以手工制作的关中面食及凉拌菜。店里讲究“原汤化原食”，服务员会在客人用餐前端上面汤。其手工面条富有筋道，仅辅以简单的佐料，就足以吃得酣畅淋漓。推荐现点现做的油泼扯面，一气呵成的长面条宽厚均匀，有谷物原香且十分挂汁，调味的油泼辣子辛香惹味，味道在口中蔓延开来。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "兴仙饭店 (马尾)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/xingxian-mawei",
+      "telephone": "+86 591 8379 6868",
+      "description": "于1995年开业，店内设置大型鱼缸展示海产，客人从海鲜档选好食材后，由服务员建议烹调方法。也供应少量福州传统菜式，包括口感丰富的莆仙卤面，面条煮得软硬适中，加入多种海鲜、肉丝、虾米、葱、蒜等材料，鲜味浓郁，十分推荐。福州荔枝肉酸甜平衡，配搭白地瓜，味道清爽可口。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "印象福清．醉福园",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/fuyuan",
+      "telephone": "+86 591 8799 9999",
+      "description": "位于由民宅改建而成的别墅之中，只提供包房。菜单以福清菜为主，食材大量采用海鲜，当中融合了莆仙菜风格，且多是手工菜式，以彰显传统及本土特色。福清海蛎饼外层松脆，中间包裹了菜丝、海蛎、竹蛏和猪肉，细致多汁，十分推荐。滑蛏汤口感嫩滑，以酸笋增添酸味，额外开胃，是个不错的选择。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "叶家花生汤",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/ye-jia-hua-sheng-tang",
+      "telephone": "+86 138 6063 8810",
+      "description": "小店简朴如家庭厨房，开业数十年，虽藏身于小巷里，但不妨碍顾客盈门。老板致力传承福州传统味道，仅售卖花生汤、清凉藕糕、手工芋泥等经典甜品，并坚持每天新鲜制作。其花生汤选用本地花生，以砂锅熬制八、九小时至口感软糯、味道醇厚。手工芋泥以猪油制作，满口芋香却不甜腻，在嘴里绵绵散开。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "后街捞化 (通湖路216号)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/hou-jie-lao-hua-yadao-lane",
+      "telephone": "+86 186 5039 3539",
+      "description": "从早晨营业到深夜的街边小店，除了招牌捞兴化粉，还提供手工面和粿条等，可自行选择配料，也有现成的肉类海鲜套餐。店家以猪骨、腱子肉、鸡架等熬煮汤底，清甜鲜香。细米粉爽滑挂汁，建议加配卤小肠，其口感紧实，卤香味十足。也提供多种拌菜和汤品，其中以炸葱油调味的拌骨髓，绵密香浓，值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "回魏私厨",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/hui-wei-private-kitchen",
+      "telephone": "+86 180 5910 3610",
+      "description": "入口设置海鲜池和特色食材展示区，整体空间宽敞。餐厅主打闽北菜，包括了创始人家乡松溪的地道风味。岚谷熏黄鱼为其中一道招牌菜，将东海大黄鱼熏制后，佐以薄辣酱享用，肉质细嫩，咸鲜香辣互相交织。菜单上有多款传统小吃，例如金黄酥软的萝卜盏，内馅由白萝卜丝与辣椒末所制，入口鲜香微辣，层次丰富。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "宣和一味",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/xuanhe-cuisine",
+      "telephone": "+86 591 8789 6767",
+      "description": "用餐环境雅致，以木材为设计主元素，营造舒适自然的感觉，提供保有隐私度的半开放式包间，适合聚餐。菜单包含多款经典福州美食，如红糟肉、竹蛏、膏蟹炒年糕等充分运用本地食材。部分菜式设不同份量选择。其中经典菜品爆炒双脆，以海蜇和猪腰同炒，加入酸甜酱汁调味，爽脆开胃，值得一试。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "宣和苑 (西二环北路)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/harmony-garden-xierhuan-north-road",
+      "telephone": "+86 591 8373 7867",
+      "description": "餐厅设于两层别墅内，结合经营者从事茶叶生意的背景，室内陈列着引人注目的茶具古董。菜式在福建菜的基础上添加创意：陈糟香螺片采用香味突出的红曲糟，搭配鲜甜爽脆的百合，令口感更上一层楼。什香醉排骨炸得酥脆，调味酸香开胃，也值得一试。共有九个包间，服务亲切友善，特别适合聚餐。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "尚兴",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/shang-xing",
+      "telephone": "+86 591 8328 2777",
+      "description": "大厝石门及门楣上的招牌十分显眼，大堂采用挑高设计，灯饰匾额、门楼照壁均融合潮汕建筑特色。餐厅聚焦于经典潮汕菜式，海鲜池全是当地直送的鲜活渔获，明档厨房展示着地道风物。传统卤水每天新鲜卤制，入口咸甜平衡，香而不腻。也推荐以本地巴浪鱼制成的鱼饭，鱼肉肥腴细腻，佐以普宁豆酱更添风味。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "潮州菜"
+      ]
+    },
+    {
+      "name": "山海南筵",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/shan-hai-nan-yan",
+      "telephone": "+86 591 8383 7333",
+      "description": "餐厅由数栋建筑组成，占地甚广，并以红砖、石柱、花格等元素复刻闽南古厝的面貌，天晴时可在露台享受美食。主打闽南菜，由于邻近永德会馆，运用了不少永春的食材和调味。招牌菜永春白鸭汤采用红面白番鸭和多种药材熬煮，入口清鲜回甘。厦门沙茶锅汤底浓郁，咸鲜香辣，包含鲍鱼片、鲜蚝等海产，料丰味足。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "川索",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/chosop",
+      "telephone": "+86 591 8621 6777",
+      "description": "用餐环境时尚，以独特的墙面设计分隔座位，既美观又增加隐私度。厨师来自四川，菜单既有招牌美食，亦有融合创新意念的菜式，给顾客提供多样化的选择。推荐老酒烧肉咸鸭蛋，使用肥瘦得宜的五花肉配合浓厚酱油和酒烹煮，十分适合配搭米饭。四季鸡豆花口感软绵，清鸡汤味美。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "川菜"
+      ]
+    },
+    {
+      "name": "文儒九号",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/wenru-no-9",
+      "telephone": "+86 591 8856 7888",
+      "description": "餐厅位于古意盎然的文儒坊内，改建自北宋时期的名人故居，室内保留建筑的原貌，在此享用传统闽菜，别具风情。推荐使用本地酒糟的淡糟螺片，其香味独特，螺片鲜甜爽脆，十分美味。手打白粿每天下午五时供应，口感软糯，适合搭配海鲜。用餐期间提供三款茶饮，让客人开胃、配餐和解腻，安排贴心。",
+      "michelin_award": "ONE_STAR",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "林依嫩名牌猪血化",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/lin-yi-nen-ming-pai-zhu-xue-hua",
+      "telephone": "+86 137 0593 8763",
+      "description": "开业超过40年，斑驳的墙面张贴着奖状和剪报，褪色招牌透出时光沉淀的痕迹，环境充满质朴的生活气息。菜单精简，以古早风味的猪血化为招牌。店家将新鲜猪血在秘制酱汤里熬煮入味，吸附咸鲜汤汁之余，仍然带有韧劲。另有各种猪杂和粉面，其中，兴化粉爽滑不黏，搭配浓厚汤头，将平民食材转化成美味料理。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "永周记扁肉 (金榕南路)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/yong-zhou-ji-bian-rou-jinrong-south-road",
+      "telephone": "+86 135 0930 7378",
+      "description": "位于民生社区内，门头低调，店内的开放式厨房窗明几净，设有户外用餐区，流露着市井食摊的氛围。仅提供扁肉、拌面、卤蛋和夹骨肉四种本地小吃。手工包制的扁肉搭配大骨汤头，味道清鲜可口，自制燕皮滑中带韧，猪肉内馅用盐和青葱末调味，鲜甜纯粹。夹骨肉可选干拌或汤，肉质软嫩，同样出色。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "江南灶 ‧ 融府",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/jiangnan-wok%E2%80%A7rong",
+      "telephone": "+86 591 8798 8888",
+      "description": "南京的江南灶落户福州，并在店名加入“融”字，点出其特色所在──室内设计糅合江南气韵和本地元素，如同这里的淮扬美食以福建食材烹调，将闽菜风味融入其中。清炖黄鱼狮子头丰腴软嫩，用上清鸡汤和闽东地区的黄鱼，味道醇鲜。姜母八宝葫芦鸭、明月生敲佛跳墙等手工菜须提前预定。",
+      "michelin_award": "ONE_STAR",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "淮扬菜"
+      ]
+    },
+    {
+      "name": "没牙伯花生汤",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/mei-ya-bo-hua-sheng-tang",
+      "telephone": "+86 137 0508 0687",
+      "description": "由现任老板的爷爷在1937年创立，只售卖花生汤、芋泥、糯米饭等本地小吃甜品，坚持手工制作，古早味道深受食客欢迎。招牌花生汤有冷热选项，花生入口即化，味道清香，丝毫不觉甜腻。芋泥香滑绵软，加上焙香的芝麻，带有坚果的浓郁风味，值得一试。店面敞亮舒适，搭配木制长桌椅，流露复古格调。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "小吃"
+      ]
+    },
+    {
+      "name": "海德",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/hatter",
+      "telephone": "+86 178 5088 4813",
+      "description": "店东由澳洲回乡后，创立这家以欧洲美食为主的餐厅，给此地带来空前的精致餐饮体验。提供两款随时令变更的品尝菜单，采用中国以至世界各地的优质食材，同时融入红糟、头水紫菜等福州元素。店东不单与主厨共同设计菜单，也身兼侍酒师一职，葡萄酒单选择丰富，不妨交给他建议搭餐酒款。",
+      "michelin_award": "ONE_STAR",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "奢华",
+      "cuisines": [
+        "时尚欧陆菜"
+      ]
+    },
+    {
+      "name": "源里",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/origin-1219033",
+      "telephone": "+86 153 9609 2856",
+      "description": "藏身于明代古宅内，布局以“艺术与美食”为核心，在原有的古朴陈设中融入当代艺术展览。主厨在传统闽菜的基础上加入现代元素，客人须提前预约并沟通菜品。其中香麻红油手钓大管鲜味弹牙，搭配辣而不燥的红油，十分推荐。主菜可以试试红树林红蟳白水洋豆腐，汤汁浓郁香醇，豆腐透出蟹肉蟹膏的鲜甜。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "狼群斯",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/j-a-steak-house",
+      "telephone": "+86 591 8372 9829",
+      "description": "老板为福州人，曾在纽约知名牛排馆工作数十年，其后将当地牛扒文化引进到家乡。室内采用经典美式装潢，牛肉如同艺术品般放置在熟成柜内。主打干式熟成牛排，按价格和部位区分，选择多样。牛排以美式高温炙烤手法，保留牛肉脂香的同时，内里依然软嫩多汁。此外，也提供熟成海鱼，及需提前预订的42天以上熟成牛排。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "优质的",
+      "cuisines": [
+        "扒房"
+      ]
+    },
+    {
+      "name": "盛海楼 (仓山)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/sheng-hai-lou-cangshan",
+      "telephone": "+86 189 6076 7393",
+      "description": "店主来自宁化，为了将地道客家菜带到福州，餐厅与当地农场合作，新鲜直送食材，鸡和猪均取自当地养殖场。每桌必点的贵妃客家土鸡鸡皮亮黄、肉质紧致，蒸煮后的鸡汁鲜香浓郁，佐以姜、葱、米酒更添风味。福州招牌荔枝肉选用黑山猪的颈肉，炸至外酥里嫩，酱汁酸甜不腻。部分菜品可调整成单人分量。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "粤妃公馆",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/yut-fei",
+      "telephone": "+86 591 8329 9990",
+      "description": "作为集团的高端品牌，餐厅设有花园，餐室用色沉稳，氛围奢华。行政总厨来自广东，拥廿年丰富的烹调经验，带来多款烧味、炖汤、砂锅小菜、点心，以及潮汕和顺德菜式。万勿错过选用时令食材烹煮的炖汤，原盅慢炖四小时，其中以纯椰汁制作的椰皇炖竹丝鸡，汤头清甜鲜美，为招牌菜之一。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "中档",
+      "cuisines": [
+        "粤菜"
+      ]
+    },
+    {
+      "name": "老牌依强牛肉店 (达道路)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/yi-qiang-dadao-road",
+      "telephone": "+86 591 8320 5646",
+      "description": "于1960年代创立，至今已经传承到第三代，店如其名，主打口味清淡的牛肉料理。招牌牛排汤强调食材本味，同时融入福州人偏爱的药膳风格，汤头清澈醇厚，大块带骨牛排炖煮至酥软而不失嚼劲，还透着药材的微甜回甘。另有拌面和炖罐等作为搭配，建议加配手工制作、现场蒸煮的小笼包。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "荣记海鲜捞化 (仓山)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/rong-ji-hai-xian-lao-hua-cangshan",
+      "telephone": "+86 199 9680 8510",
+      "description": "此店以捞化为主打，并搜罗鲍鱼、竹蛏等上乘食材，汤底香浓，配上煮得熟度刚好的新鲜海产，味道出众。用餐环境舒适，设有开放式厨房让客人选择食材，再由专人即时煮制。也提供其他小吃，其中麻辣猪头肉肥瘦均匀，薄切后以麻辣油调味，配以黄瓜丝，清爽开胃。",
+      "michelin_award": "Selected",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "闽食府",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/min-shi-fu",
+      "telephone": "+86 591 8780 5737",
+      "description": "主打本土特色美食，并以新鲜海产和相宜价格作招徕。不设菜单，客人从鱼缸中选择海产后，由服务员建议合适的烹调方法。菜式都是即点即煮，卖相平实不花巧，从中体现厨师的烹调技巧和手艺。不要错过一品海蛎煎，肥美饱满的海蛎，配合香葱和煎得恰到好处的鸡蛋，非常美味。设有多个包房，适合聚餐。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "闽菜"
+      ]
+    },
+    {
+      "name": "阿信鲜捞 (工农路)",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/a-xin-xian-lao-gongnong-road",
+      "telephone": "+86 136 3523 2996",
+      "description": "小店人潮络绎不绝，提供多样的粉面和配料选择，采用类似麻辣烫的自选模式，几十种食材整齐地放在冰柜，食客总能找到心头好。其中，海鲜品质出众，猪血、猪筋肉、卤大肠等处理亦得宜。猪骨浓汤每日新鲜现熬，汤头清甜味美、香气醇厚，加入店家秘制的蘸酱更是点睛之笔。除了捞化，微辣脆口的拌胸口油也值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "负担得起的",
+      "cuisines": [
+        "面食"
+      ]
+    },
+    {
+      "name": "鱼仙楼",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/yu-xian-lou",
+      "telephone": "+86 133 0591 2518",
+      "description": "这家海鲜酒楼由多间铺面贯通，采用全包厢格局，建议提前预约。由本地厨师团队主理，他们对闽江鱼鲜与本地海域奇获颇有心得。客人需要到明档海鲜池看料点菜，尤以小众食材为其特色。推荐鳐鱼肝夹荷叶包，魚肝脂香在舌尖散开，口感如慕斯般丝滑。韭菜花炒海流蜞充满鲜味和焦香，同样值得一试。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国大陆地区",
+      "price": "中档",
+      "cuisines": [
+        "海鲜"
+      ]
+    },
+    {
+      "name": "龙窟山饮食店",
+      "url": "https://guide.michelin.com/en/fujian-province/fuzhou_1026814/restaurant/longkushan-eatery",
+      "telephone": "+86 135 5918 8727",
+      "description": "这小店提供福州家常菜和平价海鲜，菜式选择多样，烟火气十足，装修虽然简朴，但不妨碍这里人声鼎沸。椒盐水电鱼外层香酥可口，鱼肉如豆腐般软嫩，加上恰到好处的椒盐，佐酒一流。醉排骨先将排骨裹粉酥炸，配合酸甜的酱汁和香料粉，口味地道，值得一试。菜式份量颇大，建议三五知己一同前往。",
+      "michelin_award": "Bib Gourmand",
+      "city": "Fuzhou",
+      "city_slug": "fuzhou_1026814",
+      "region": "Fujian Province",
+      "country": "中国内地",
+      "price": "负担得起的",
+      "cuisines": [
+        "闽菜"
+      ]
+    }
+  ]
+}
